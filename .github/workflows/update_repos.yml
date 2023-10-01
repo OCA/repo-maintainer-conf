@@ -1,0 +1,21 @@
+name: Update repos
+
+on:
+  push:
+    branches:
+      - "master"
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: "3.10"
+      - name: Install requirements
+        run: pip install pip install https://github.com/OCA-devel/repo-maintainer/archive/master.zip
+      - name: Generate all
+        run:
+          oca-repo-manage --org $GITHUB_REPOSITORY_OWNER --token ${{secrets.ORG_TOKEN}} --conf-dir ./conf
