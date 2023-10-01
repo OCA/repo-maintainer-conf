@@ -4,6 +4,13 @@ accounting:
     - sbidoul
   representatives: []
   name: Accounting
+board:
+  members:
+    - etobella
+    - simahawk
+  representatives:
+    - etobella
+  name: Board
 core:
   name: Core
   members:
@@ -17,10 +24,10 @@ logistics:
   representatives:
     - etobella
   name: Logistics
-board:
+foo:
   members:
     - etobella
     - simahawk
   representatives:
-    - etobella
-  name: Board
+    - simahawk
+  name: Foo
