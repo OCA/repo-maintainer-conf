@@ -15,6 +15,7 @@ account-budgeting:
   psc: accounting
   default_branch: "15.0"
   branches:
+    - "13.0"
     - "14.0"
     - "15.0"
     - "16.0"
