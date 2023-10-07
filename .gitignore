@@ -100,3 +100,13 @@ ENV/
 # mypy
 .mypy_cache/
 .vscode
+
+
+# Docs are automatically generated
+# just keep the folder to not handle its creation/re-creation
+docs/*
+# RST are automatically generated
+# except for some base conf
+docsource/*
+!docsource/conf.py
+!docsource/index.rst

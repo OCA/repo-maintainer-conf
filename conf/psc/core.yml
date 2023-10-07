@@ -1,0 +1,6 @@
+core:
+  name: Core
+  members:
+    - etobella
+    - simahawk
+  representatives: []
