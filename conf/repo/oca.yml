@@ -1,0 +1,55 @@
+oca-addons-repo-template:
+  branches: []
+  category: Oca
+  default_branch: master
+  name: Oca repository template
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+oca-ci:
+  branches: []
+  category: Oca
+  default_branch: master
+  name: Container image to run oca ci tests
+  psc: board
+  psc_rep: board
+oca-custom:
+  branches:
+    - "8.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+  category: Oca
+  default_branch: "14.0"
+  name: Custom module for oca instance
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+oca-decorators:
+  branches: []
+  category: Oca
+  default_branch: master
+  name: This is a library of decorators for odoo developers.
+  psc: tools-maintainers
+  psc_rep: tools-maintainers-psc-representative
+oca-github-bot:
+  branches: []
+  category: Oca
+  default_branch: master
+  name: The github bot of the odoo community association (oca)
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+oca-port:
+  branches: []
+  category: Oca
+  default_branch: main
+  name: Tool for porting odoo modules changes from one version to another
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+oca-weblate-deployment:
+  branches: []
+  category: Oca
+  default_branch: master
+  name: Oca Weblate Deployment
+  psc: community-maintainers
+  psc_rep: community-maintainers-psc-representative

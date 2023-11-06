@@ -1,0 +1,51 @@
+hr:
+  branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Hr
+  default_branch: "14.0"
+  name: Odoo human resources addons
+  psc: human-resources-maintainers
+  psc_rep: human-resources-maintainers-psc-representative
+hr-attendance:
+  branches:
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Hr
+  default_branch: "15.0"
+  name: Hr attendance oca modules for odoo
+  psc: human-resources-maintainers
+  psc_rep: human-resources-maintainers-psc-representative
+hr-expense:
+  branches:
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Hr
+  default_branch: "14.0"
+  name: Human resources expenses oca modules for odoo
+  psc: human-resources-maintainers
+  psc_rep: human-resources-maintainers-psc-representative
+hr-holidays:
+  branches:
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Hr
+  default_branch: "14.0"
+  name: Human resources holidays oca modules for odoo
+  psc: human-resources-maintainers
+  psc_rep: human-resources-maintainers-psc-representative

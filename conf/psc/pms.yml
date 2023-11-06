@@ -1,0 +1,12 @@
+pms-maintainers:
+  members:
+    - eantones
+    - DarioLodeiros
+  name: Pms maintainers
+  representatives:
+    - simahawk
+pms-maintainers-psc-representative:
+  members: []
+  name: Pms maintainers psc representative
+  representatives:
+    - simahawk

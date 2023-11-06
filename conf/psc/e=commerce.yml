@@ -1,0 +1,14 @@
+e-commerce-maintainers:
+  members:
+    - yajo
+    - pedrobaeza
+    - rafaelbn
+    - gfcapalbo
+  name: E-Commerce maintainers
+  representatives:
+    - simahawk
+    - gurneyalex
+e-commerce-maintainers-psc-representative:
+  members: []
+  name: E-Commerce maintainers psc representative
+  representatives: []

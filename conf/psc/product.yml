@@ -1,0 +1,13 @@
+product-maintainers:
+  members:
+    - jjscarafia
+    - JordiBForgeFlow
+    - rousseldenis
+  name: Product maintainers
+  representatives:
+    - jgrandguillaume
+    - gurneyalex
+product-maintainers-psc-representative:
+  members: []
+  name: Product maintainers psc representative
+  representatives: []

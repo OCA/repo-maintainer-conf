@@ -1,0 +1,7 @@
+odoo-sentinel:
+  branches: []
+  category: Odoo
+  default_branch: master
+  name: Custom odoo client for the stock_scanner module
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative

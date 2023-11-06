@@ -1,0 +1,73 @@
+sale-channel:
+  branches:
+    - "16.0"
+  category: Sale
+  default_branch: "16.0"
+  name: Sale Channel
+  psc: core-maintainers
+  psc_rep: board
+sale-financial:
+  branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Sale
+  default_branch: "11.0"
+  name: Odoo sale and financial related addons
+  psc: crm-sales-marketing-maintainers
+  psc_rep: crm-sales-marketing-maintainers-psc-representative
+sale-promotion:
+  branches:
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Sale
+  default_branch: "13.0"
+  name: Sale Promotion
+  psc: crm-sales-marketing-maintainers
+  psc_rep: crm-sales-marketing-maintainers-psc-representative
+sale-reporting:
+  branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Sale
+  default_branch: "14.0"
+  name: Sale Reporting
+  psc: crm-sales-marketing-maintainers
+  psc_rep: crm-sales-marketing-maintainers-psc-representative
+sale-workflow:
+  branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Sale
+  default_branch: "16.0"
+  name: Odoo sales, workflow and organization
+  psc: crm-sales-marketing-maintainers
+  psc_rep: crm-sales-marketing-maintainers-psc-representative

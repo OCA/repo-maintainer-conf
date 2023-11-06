@@ -1,0 +1,10 @@
+mis-builder-maintainers:
+  members: []
+  name: Mis builder maintainers
+  representatives:
+    - sbidoul
+mis-builder-maintainers-psc-representative:
+  members: []
+  name: Mis builder maintainers psc representative
+  representatives:
+    - sbidoul

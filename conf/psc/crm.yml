@@ -1,0 +1,22 @@
+crm-sales-marketing-maintainers:
+  members:
+    - yajo
+    - tafaRU
+    - NL66278
+    - pedrobaeza
+    - JordiBForgeFlow
+    - rafaelbn
+    - mmequignon
+    - rousseldenis
+    - newtratip
+    - HaraldPanten
+  name: Crm, sales & marketing maintainers
+  representatives:
+    - jgrandguillaume
+    - simahawk
+    - gurneyalex
+crm-sales-marketing-maintainers-psc-representative:
+  members:
+    - pedrobaeza
+  name: Crm, sales & marketing maintainers psc representative
+  representatives: []

@@ -1,0 +1,11 @@
+helpdesk-maintainers:
+  members:
+    - pedrobaeza
+    - DarioLodeiros
+  name: Helpdesk maintainers
+  representatives: []
+helpdesk-maintainers-psc-representative:
+  members:
+    - pedrobaeza
+  name: Helpdesk maintainers psc representative
+  representatives: []

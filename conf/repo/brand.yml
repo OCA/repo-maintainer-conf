@@ -1,0 +1,12 @@
+brand:
+  branches:
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Brand
+  default_branch: "16.0"
+  name: Manage brands for products and companies
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative

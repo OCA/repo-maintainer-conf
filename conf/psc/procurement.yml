@@ -1,0 +1,18 @@
+procurement-purchase-maintainers:
+  members:
+    - yajo
+    - kittiu
+    - yvaucher
+    - JordiBForgeFlow
+    - rafaelbn
+    - HviorForgeFlow
+    - HaraldPanten
+  name: Procurement & purchase maintainers
+  representatives:
+    - jgrandguillaume
+    - gurneyalex
+procurement-purchase-maintainers-psc-representative:
+  members: []
+  name: Procurement & purchase maintainers psc representative
+  representatives:
+    - gurneyalex

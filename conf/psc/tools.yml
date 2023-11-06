@@ -1,0 +1,23 @@
+tools-maintainers:
+  members:
+    - guewen
+    - lmignon
+    - yajo
+    - OSguard
+    - thomaspaulb
+    - hbrunn
+    - legalsylvain
+    - sebalix
+    - pedrobaeza
+    - LoisRForgeFlow
+    - joao-p-marques
+  name: Tools maintainers
+  representatives:
+    - simahawk
+    - dreispt
+    - gurneyalex
+tools-maintainers-psc-representative:
+  members: []
+  name: Tools maintainers psc representative
+  representatives:
+    - gurneyalex

@@ -1,0 +1,9 @@
+oca-apps-store:
+  members:
+    - orentol
+    - bizzappdev
+    - elicoidal
+    - astirpe
+    - espo-tony
+  name: OCA Apps Store
+  representatives: []

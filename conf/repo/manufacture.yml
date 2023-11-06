@@ -1,0 +1,35 @@
+manufacture:
+  branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Manufacture
+  default_branch: "14.0"
+  name: Odoo manufacturing addons
+  psc: manufacturing-maintainers
+  psc_rep: manufacturing-maintainers-psc-representative
+manufacture-reporting:
+  branches:
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Manufacture
+  default_branch: "12.0"
+  name: Manufacture Reporting
+  psc: manufacturing-maintainers
+  psc_rep: manufacturing-maintainers-psc-representative

@@ -1,0 +1,14 @@
+management-systems-maintainers:
+  members:
+    - max3903
+    - ivantodorovich
+    - eugen-don
+  name: Management systems maintainers
+  representatives:
+    - dreispt
+    - gurneyalex
+management-systems-maintainers-psc-representative:
+  members:
+    - max3903
+  name: Management systems maintainers psc representative
+  representatives: []

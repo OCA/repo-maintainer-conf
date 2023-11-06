@@ -1,0 +1,7 @@
+mirrors-flake8:
+  branches: []
+  category: Mirrors
+  default_branch: master
+  name: Mirrors Flake8
+  psc: board
+  psc_rep: board

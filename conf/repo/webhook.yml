@@ -1,0 +1,17 @@
+webhook:
+  branches:
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Webhook
+  default_branch: "11.0"
+  name:
+    "Modules with community help modules: webhook_* (gitlab, bitbucket... other
+    webhook consumer) "
+  psc: tools-maintainers
+  psc_rep: tools-maintainers-psc-representative

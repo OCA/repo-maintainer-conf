@@ -1,12 +1,10 @@
-org: OCA-devel
+org: OCA
 title: OCA Development Structure
 owner: board
 template: git+https://github.com/OCA/oca-addons-repo-template
 team_maintainers:
-  []
-  # - core-maintainers
+  - core-maintainers
 maintainers:
-  []
-  # - "oca-travis"
-  # - "oca-transbot"
-  # - "OCA-git-bot"
+  - "oca-travis"
+  - "oca-transbot"
+  - "OCA-git-bot"

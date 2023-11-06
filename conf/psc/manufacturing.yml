@@ -1,0 +1,14 @@
+manufacturing-maintainers:
+  members:
+    - anajuaristi
+    - grindtildeath
+    - pedrobaeza
+    - LoisRForgeFlow
+  name: Manufacturing maintainers
+  representatives:
+    - gurneyalex
+manufacturing-maintainers-psc-representative:
+  members:
+    - anajuaristi
+  name: Manufacturing maintainers psc representative
+  representatives: []

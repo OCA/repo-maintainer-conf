@@ -1,0 +1,13 @@
+odoo-pim:
+  branches:
+    - "10.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Odoo
+  default_branch: "14.0"
+  name: Odoo Pim
+  psc: product-maintainers
+  psc_rep: product-maintainers-psc-representative

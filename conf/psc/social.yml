@@ -1,0 +1,16 @@
+social-maintainers:
+  members:
+    - yajo
+    - antespi
+    - hbrunn
+    - pedrobaeza
+    - rafaelbn
+    - etobella
+  name: Social maintainers
+  representatives:
+    - simahawk
+social-maintainers-psc-representative:
+  members:
+    - hbrunn
+  name: Social maintainers psc representative
+  representatives: []

@@ -1,0 +1,10 @@
+dotnet-maintainers:
+  members:
+    - mathi123
+  name: Dotnet maintainers
+  representatives: []
+dotnet-maintainers-psc-representative:
+  members:
+    - mathi123
+  name: Dotnet maintainers psc representative
+  representatives: []

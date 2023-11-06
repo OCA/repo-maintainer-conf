@@ -1,0 +1,9 @@
+repair:
+  branches:
+    - "15.0"
+    - "16.0"
+  category: Repair
+  default_branch: "15.0"
+  name: Repair
+  psc: manufacturing-maintainers
+  psc_rep: manufacturing-maintainers-psc-representative

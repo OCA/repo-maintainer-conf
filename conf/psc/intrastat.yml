@@ -1,0 +1,11 @@
+intrastat-maintainers:
+  members:
+    - alexis-via
+    - luc-demeyer
+  name: Intrastat maintainers
+  representatives: []
+intrastat-maintainers-psc-representative:
+  members:
+    - alexis-via
+  name: Intrastat maintainers psc representative
+  representatives: []

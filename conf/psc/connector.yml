@@ -1,0 +1,112 @@
+connector-infor-maintainers:
+  members:
+    - max3903
+  name: Connector infor maintainers
+  representatives: []
+connector-infor-maintainers-psc-representative:
+  members:
+    - max3903
+  name: Connector infor maintainers psc representative
+  representatives: []
+connector-lengow-maintainers:
+  members:
+    - Cedric-Pigeon
+  name: Connector lengow maintainers
+  representatives: []
+connector-lengow-maintainers-psc-representative:
+  members:
+    - Cedric-Pigeon
+  name: Connector lengow maintainers psc representative
+  representatives: []
+connector-lims-maintainers:
+  members:
+    - max3903
+  name: Connector lims maintainers
+  representatives: []
+connector-lims-maintainers-psc-representative:
+  members:
+    - max3903
+  name: Connector lims maintainers psc representative
+  representatives: []
+connector-magento-maintainers:
+  members:
+    - guewen
+    - OSguard
+  name: Connector magento maintainers
+  representatives:
+    - simahawk
+    - gurneyalex
+connector-magento-maintainers-psc-representative:
+  members:
+    - guewen
+  name: Connector magento maintainers psc representative
+  representatives: []
+connector-maintainers:
+  members:
+    - guewen
+    - lmignon
+  name: Connector maintainers
+  representatives:
+    - simahawk
+    - sbidoul
+    - gurneyalex
+connector-maintainers-psc-representative:
+  members:
+    - guewen
+  name: Connector maintainers psc representative
+  representatives: []
+connector-odoo2odoo:
+  members:
+    - ajite
+    - elicoidal
+    - maljac
+  name:
+    Team dedicated to inter Company operations (icops) using odoo Connector technology
+    between 2 odoo instances.
+  representatives: []
+connector-prestashop-maintainers:
+  members:
+    - flachica
+    - arthru
+    - sebastienbeau
+    - FFernandez-PlanetaTIC
+  name: Connector prestashop maintainers
+  representatives:
+    - simahawk
+connector-prestashop-maintainers-psc-representative:
+  members:
+    - sebastienbeau
+  name: Connector prestashop maintainers psc representative
+  representatives: []
+connector-saleforce-maintainers:
+  members:
+    - nbessi
+    - guewen
+    - yvaucher
+  name: Connector saleforce maintainers
+  representatives:
+    - jgrandguillaume
+    - gurneyalex
+connector-spscommerce:
+  members:
+    - max3903
+  name: Connector spscommerce
+  representatives: []
+connector-telephony-maintainers:
+  members:
+    - alexis-via
+  name: Connector telephony maintainers
+  representatives: []
+connector-telephony-maintainers-psc-representative:
+  members:
+    - alexis-via
+  name: Connector telephony maintainers psc representative
+  representatives: []
+connector-woocommerce-maintainers:
+  members: []
+  name: Connector woocommerce maintainers
+  representatives: []
+connector-woocommerce-maintainers-psc-representative:
+  members: []
+  name: Connector woocommerce maintainers psc representative
+  representatives: []

@@ -1,0 +1,14 @@
+rest-framework-maintainers:
+  members:
+    - lmignon
+    - sebastienbeau
+  name: Rest framework maintainers
+  representatives:
+    - simahawk
+    - sbidoul
+    - gurneyalex
+rest-framework-maintainers-psc-representative:
+  members:
+    - lmignon
+  name: Rest framework maintainers psc representative
+  representatives: []

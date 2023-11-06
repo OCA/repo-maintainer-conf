@@ -1,0 +1,581 @@
+local-argentina-maintainers:
+  members:
+    - sebastiken
+    - kloss17
+    - nimarosa
+    - RBelfiore
+  name: Local argentina maintainers
+  representatives: []
+local-argentina-maintainers-psc-representative:
+  members: []
+  name: Local argentina maintainers psc representative
+  representatives: []
+local-austria-maintainers:
+  members:
+    - wtaferner
+  name: Local austria maintainers
+  representatives: []
+local-austria-maintainers-psc-representative:
+  members:
+    - wtaferner
+  name: Local austria maintainers psc representative
+  representatives: []
+local-bangladesh-maintainers:
+  members: []
+  name: This is the local maintainers team of bangladesh
+  representatives:
+    - Matiar
+local-belarus-maintainers:
+  members:
+    - okuryan
+    - veryberry
+    - nedaszilinskas
+  name: Local belarus maintainers
+  representatives: []
+local-belarus-maintainers-psc-representative:
+  members:
+    - okuryan
+  name: Local belarus maintainers psc representative
+  representatives: []
+local-belgium-maintainers:
+  members:
+    - robinkeunen
+    - luc-demeyer
+  name: Local belgium maintainers
+  representatives:
+    - sbidoul
+local-belgium-maintainers-psc-representative:
+  members: []
+  name: Local belgium maintainers psc representative
+  representatives:
+    - sbidoul
+local-brazil-maintainers:
+  members:
+    - rvalyi
+    - renatonlima
+    - mileo
+    - marcelsavegnago
+  name: Local brazil maintainers
+  representatives: []
+local-brazil-maintainers-psc-representative:
+  members:
+    - renatonlima
+  name: Local brazil maintainers psc representative
+  representatives: []
+local-bulgaria-maintainers:
+  members: []
+  name: Bulgarian locales
+  representatives:
+    - rosenvladimirov
+local-cambodia-maintainers:
+  members: []
+  name: Local cambodia maintainers
+  representatives: []
+local-cambodia-maintainers-psc-representative:
+  members: []
+  name: Local cambodia maintainers psc representative
+  representatives: []
+local-canada-maintainers:
+  members:
+    - joaoalf
+    - fblauer
+    - mmalorni
+    - Ehtaga
+    - ddico
+  name: Local canada maintainers
+  representatives: []
+local-canada-maintainers-psc-representative:
+  members:
+    - joaoalf
+  name: Local canada maintainers psc representative
+  representatives: []
+local-chile-maintainers:
+  members:
+    - Danisan
+  name: Local chile maintainers
+  representatives: []
+local-chile-maintainers-psc-representative:
+  members:
+    - Danisan
+  name: Local chile maintainers psc representative
+  representatives: []
+local-china-maintainers:
+  members:
+    - elicoidal
+  name: Local china maintainers
+  representatives: []
+local-china-maintainers-psc-representative:
+  members:
+    - elicoidal
+  name: Local china maintainers psc representative
+  representatives: []
+local-colombia-maintainers:
+  members:
+    - nhomar
+  name: Local colombia maintainers
+  representatives: []
+local-colombia-maintainers-psc-representative:
+  members:
+    - nhomar
+  name: Local colombia maintainers psc representative
+  representatives: []
+local-costa-rica-maintainers:
+  members:
+    - carlosrve
+  name: Local costa Rica maintainers
+  representatives: []
+local-costa-rica-maintainers-psc-representative:
+  members:
+    - carlosrve
+  name: Local costa Rica maintainers psc representative
+  representatives: []
+local-croatia-maintainers:
+  members:
+    - gkliska
+    - badbole
+  name: Local croatia maintainers
+  representatives: []
+local-croatia-maintainers-psc-representative:
+  members:
+    - badbole
+  name: Local croatia maintainers psc representative
+  representatives: []
+local-ecuador-maintainers:
+  members:
+    - celm1990
+    - coodec
+  name: Local ecuador maintainers
+  representatives: []
+local-ecuador-maintainers-psc-representative:
+  members:
+    - coodec
+  name: Local ecuador maintainers psc representative
+  representatives: []
+local-el-salvador-maintainers:
+  members:
+    - Capriatto
+    - JoanMarin
+    - lauracvilla-zz
+  name: El salvador localization maintainers
+  representatives:
+    - grottas
+local-estonia-maintainers:
+  members:
+    - alexey-pelykh
+    - okuryan
+    - veryberry
+    - nedaszilinskas
+  name: Local estonia maintainers
+  representatives: []
+local-estonia-maintainers-psc-representative:
+  members:
+    - okuryan
+  name: Local estonia maintainers psc representative
+  representatives: []
+local-ethiopia-maintainers:
+  members:
+    - mtelahun
+  name: Local ethiopia maintainers
+  representatives: []
+local-ethiopia-maintainers-psc-representative:
+  members:
+    - mtelahun
+  name: Local ethiopia maintainers psc representative
+  representatives: []
+local-finland-maintainers:
+  members:
+    - jarmokortetjarvi
+    - mlaitinen
+  name: Local finland maintainers
+  representatives: []
+local-finland-maintainers-project-leader:
+  members:
+    - jarmokortetjarvi
+  name: Local finland maintainers project leader
+  representatives:
+    - jgrandguillaume
+local-finland-maintainers-psc-representative:
+  members: []
+  name: Local finland maintainers psc representative
+  representatives: []
+local-france-maintainers:
+  members:
+    - alexis-via
+    - sebastienbeau
+    - legalsylvain
+    - fclementic2c
+  name: Local france maintainers
+  representatives: []
+local-france-maintainers-psc-representative:
+  members:
+    - alexis-via
+  name: Local france maintainers psc representative
+  representatives: []
+local-germany-maintainers:
+  members:
+    - OSguard
+    - tv-openbig
+  name: Local germany maintainers
+  representatives: []
+local-germany-maintainers-project-leader:
+  members:
+    - tv-openbig
+  name: Local germany maintainers project leader
+  representatives:
+    - jgrandguillaume
+local-germany-maintainers-psc-representative:
+  members:
+    - tv-openbig
+  name: Local germany maintainers psc representative
+  representatives: []
+local-greece-maintainers:
+  members:
+    - daramousk
+    - JordiBForgeFlow
+    - etobella
+  name: Local greece maintainers
+  representatives: []
+local-greece-maintainers-psc-representative:
+  members:
+    - daramousk
+  name: Local greece maintainers psc representative
+  representatives: []
+local-india-maintainers:
+  members:
+    - JayVora-SerpentCS
+  name: Local india maintainers
+  representatives: []
+local-india-maintainers-psc-representative:
+  members:
+    - JayVora-SerpentCS
+  name: Local india maintainers psc representative
+  representatives: []
+local-indonesia-maintainers:
+  members:
+    - andhit-r
+  name: Local indonesia maintainers
+  representatives: []
+local-indonesia-maintainers-psc-representative:
+  members:
+    - andhit-r
+  name: Local indonesia maintainers psc representative
+  representatives: []
+local-iran-maintainers:
+  members:
+    - duanyp1991
+    - saeed-raeisi
+  name: Local iran maintainers
+  representatives: []
+local-iran-maintainers-psc-representative:
+  members:
+    - duanyp1991
+  name: Local iran maintainers psc representative
+  representatives: []
+local-ireland-maintainers:
+  members:
+    - okuryan
+  name: Local ireland maintainers
+  representatives: []
+local-ireland-maintainers-psc-representative:
+  members:
+    - okuryan
+  name: Local ireland maintainers psc representative
+  representatives: []
+local-italy-developers:
+  members:
+    - primes2h
+    - OpenCode
+    - dcorio
+    - tafaRU
+    - hurrinico
+    - sergiocorato
+    - scigghia
+    - MarcoCalcagni
+    - labaggio
+  name:
+    Team only used for notifications. see https://github.com/oca/l10n Italy/wiki/team
+    Di Sviluppo
+  representatives:
+    - eLBati
+local-italy-maintainers:
+  members:
+    - primes2h
+    - OpenCode
+    - dcorio
+    - TheMule71
+    - eLBati
+    - tafaRU
+    - sergiocorato
+    - alessandrocamilli
+    - labaggio
+  name: Local italy maintainers
+  representatives: []
+local-italy-maintainers-psc-representative:
+  members:
+    - eLBati
+  name: Local italy maintainers psc representative
+  representatives: []
+local-japan-maintainers:
+  members:
+    - yostashiro
+    - TimLai125
+  name: Local japan maintainers
+  representatives: []
+local-japan-maintainers-psc-representative:
+  members:
+    - yostashiro
+  name: Local japan maintainers psc representative
+  representatives: []
+local-luxemburg-maintainers:
+  members: []
+  name: Local luxemburg maintainers
+  representatives:
+    - sbidoul
+local-luxemburg-maintainers-psc-representative:
+  members: []
+  name: Local luxemburg maintainers psc representative
+  representatives:
+    - sbidoul
+local-macedonia-maintainers:
+  members:
+    - kirca
+  name: Local macedonia maintainers
+  representatives: []
+local-macedonia-maintainers-psc-representative:
+  members:
+    - kirca
+  name: Local macedonia maintainers psc representative
+  representatives: []
+local-mexico-maintainers:
+  members:
+    - nhomar
+  name: Mexican maintainers for localization
+  representatives: []
+local-mexico-maintainers-psc-representative:
+  members:
+    - nhomar
+  name: Local mexico maintainers psc representative
+  representatives: []
+local-morocco-maintainers:
+  members:
+    - mbelaid
+    - Fouad-AGORA
+    - ierrajai
+    - redarouichi
+    - DayssamAgora
+  name: Local morocco maintainers
+  representatives: []
+local-morocco-maintainers-psc-representative:
+  members:
+    - mbelaid
+  name: Local morocco maintainers psc representative
+  representatives: []
+local-netherlands-maintainers:
+  members:
+    - StefanRijnhart
+    - thomaspaulb
+    - hbrunn
+    - andreschenkels
+    - pankk
+    - NL66278
+  name: Local netherlands maintainers
+  representatives: []
+local-netherlands-maintainers-psc-representative:
+  members:
+    - hbrunn
+  name: Local netherlands maintainers psc representative
+  representatives: []
+local-norway-maintainers:
+  members:
+    - bringsvor
+  name: The norwegian localization for odoo
+  representatives: []
+local-norway-maintainers-psc-representative:
+  members:
+    - bringsvor
+  name: Local norway maintainers psc representative
+  representatives: []
+local-peru-maintainers:
+  members:
+    - pedrobaeza
+  name: Local peru maintainers
+  representatives:
+    - nhomar
+local-peru-maintainers-psc-representative:
+  members:
+    - nhomar
+  name: Local peru maintainers psc representative
+  representatives: []
+local-poland-maintainers:
+  members:
+    - okuryan
+    - veryberry
+    - nedaszilinskas
+  name: Local poland maintainers
+  representatives: []
+local-poland-maintainers-psc-representative:
+  members:
+    - okuryan
+  name: Local poland maintainers psc representative
+  representatives: []
+local-portugal-maintainers:
+  members: []
+  name: Local portugal maintainers
+  representatives:
+    - dreispt
+local-portugal-maintainers-psc-representative:
+  members: []
+  name: Local portugal maintainers psc representative
+  representatives:
+    - dreispt
+local-romania-maintainers:
+  members:
+    - feketemihai
+    - dhongu
+  name: Local romania maintainers
+  representatives: []
+local-romania-maintainers-psc-representative:
+  members:
+    - feketemihai
+  name: Local romania maintainers psc representative
+  representatives: []
+local-russia-maintainers:
+  members:
+    - okuryan
+    - veryberry
+    - nedaszilinskas
+  name: Local russia maintainers
+  representatives: []
+local-russia-maintainers-psc-representative:
+  members:
+    - okuryan
+  name: Local russia maintainers psc representative
+  representatives: []
+local-slovenia-maintainers:
+  members: []
+  name: Local slovenia maintainers
+  representatives: []
+local-slovenia-maintainers-psc-representative:
+  members: []
+  name: Local slovenia maintainers psc representative
+  representatives: []
+local-spain-maintainers:
+  members:
+    - omar7r
+    - acysos
+    - cubells
+    - pedrobaeza
+    - HaraldPanten
+  name: Local spain maintainers
+  representatives: []
+local-spain-maintainers-psc-representative:
+  members:
+    - pedrobaeza
+  name: Local spain maintainers psc representative
+  representatives: []
+local-switzerland-maintainers:
+  members:
+    - nbessi
+    - vrenaville
+    - TDu
+    - yvaucher
+    - lucmaurer
+    - fclementic2c
+  name: Local switzerland maintainers
+  representatives:
+    - jgrandguillaume
+local-switzerland-maintainers-psc-representative:
+  members:
+    - yvaucher
+  name: Local switzerland maintainers psc representative
+  representatives: []
+local-taiwan-maintainers:
+  members:
+    - uynil
+  name: Local taiwan maintainers
+  representatives: []
+local-taiwan-maintainers-psc-representative:
+  members:
+    - uynil
+  name: Local taiwan maintainers psc representative
+  representatives: []
+local-thailand-maintainers:
+  members:
+    - kittiu
+    - Saran440
+  name: Local thailand maintainers
+  representatives: []
+local-thailand-maintainers-psc-representative:
+  members:
+    - kittiu
+  name: Local thailand maintainers psc representative
+  representatives: []
+local-turkey-maintainers:
+  members:
+    - aaltinisik
+  name: Local turkey maintainers
+  representatives: []
+local-turkey-maintainers-psc-representative:
+  members:
+    - aaltinisik
+  name: Local turkey maintainers psc representative
+  representatives: []
+local-uk-maintainers:
+  members:
+    - elicoidal
+    - nuria-opusvl
+  name: United kingdom localization team
+  representatives: []
+local-ukraine-maintainers:
+  members:
+    - alexey-pelykh
+  name: Local ukraine maintainers
+  representatives: []
+local-ukraine-maintainers-psc-representative:
+  members:
+    - alexey-pelykh
+  name: Local ukraine maintainers psc representative
+  representatives: []
+local-uruguay-maintainers:
+  members:
+    - max3903
+  name: Local uruguay maintainers
+  representatives: []
+local-uruguay-maintainers-psc-representative:
+  members:
+    - max3903
+  name: Local uruguay maintainers psc representative
+  representatives: []
+local-usa-maintainers:
+  members:
+    - max3903
+    - thinkwelltwd
+    - stephankeller
+    - gmader
+  name: Local usa maintainers
+  representatives: []
+local-usa-maintainers-psc-representative:
+  members:
+    - max3903
+  name: Local usa maintainers psc representative
+  representatives: []
+local-venezuela-maintainers:
+  members:
+    - nhomar
+  name: Local venezuela maintainers
+  representatives: []
+local-venezuela-maintainers-psc-representative:
+  members:
+    - nhomar
+  name: Local venezuela maintainers psc representative
+  representatives: []
+local-vietnam-maintainers:
+  members:
+    - jcdrubay
+  name: Local vietnam maintainers
+  representatives: []
+local-vietnam-maintainers-psc-representative:
+  members:
+    - jcdrubay
+  name: Local vietnam maintainers psc representative
+  representatives: []

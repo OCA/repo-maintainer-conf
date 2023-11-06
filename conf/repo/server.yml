@@ -1,0 +1,87 @@
+server-auth:
+  branches:
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Server
+  default_branch: "16.0"
+  name: Server Auth
+  psc: tools-maintainers
+  psc_rep: tools-maintainers-psc-representative
+server-backend:
+  branches:
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Server
+  default_branch: "14.0"
+  name: Server Backend
+  psc: tools-maintainers
+  psc_rep: tools-maintainers-psc-representative
+server-brand:
+  branches:
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Server
+  default_branch: "12.0"
+  name: Server Brand
+  psc: tools-maintainers
+  psc_rep: tools-maintainers-psc-representative
+server-env:
+  branches:
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Server
+  default_branch: "16.0"
+  name: Tools to manage environment Dependent configuration
+  psc: tools-maintainers
+  psc_rep: tools-maintainers-psc-representative
+server-tools:
+  branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Server
+  default_branch: "16.0"
+  name: Tools for odoo administrators to improve some technical features on odoo.
+  psc: tools-maintainers
+  psc_rep: tools-maintainers-psc-representative
+server-ux:
+  branches:
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Server
+  default_branch: "16.0"
+  name: Server Ux
+  psc: tools-maintainers
+  psc_rep: tools-maintainers-psc-representative

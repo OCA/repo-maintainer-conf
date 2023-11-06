@@ -1,0 +1,13 @@
+data-protection-maintainers:
+  members:
+    - yajo
+    - JordiBForgeFlow
+    - MiquelRForgeFlow
+  name: Data protection maintainers
+  representatives:
+    - dreispt
+data-protection-maintainers-psc-representative:
+  members: []
+  name: Data protection maintainers psc representative
+  representatives:
+    - dreispt

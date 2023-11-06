@@ -11,7 +11,16 @@ stock-logistics-availability:
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-barcode:
   branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
     - "14.0"
+    - "15.0"
     - "16.0"
   category: Stock
   default_branch: "16.0"
@@ -38,10 +47,19 @@ stock-logistics-orderpoint:
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-reporting:
   branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
     - "12.0"
+    - "13.0"
     - "14.0"
+    - "15.0"
+    - "16.0"
   category: Stock
-  default_branch: "14.0"
+  default_branch: "16.0"
   name: Provides odoo logistics reporting modules
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
@@ -58,6 +76,15 @@ stock-logistics-request:
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-tracking:
   branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
     - "15.0"
     - "16.0"
   category: Stock
@@ -67,6 +94,15 @@ stock-logistics-tracking:
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-transport:
   branches:
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
     - "16.0"
   category: Stock
   default_branch: "16.0"
@@ -75,6 +111,16 @@ stock-logistics-transport:
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-warehouse:
   branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
     - "16.0"
   category: Stock
   default_branch: "16.0"
@@ -83,9 +129,32 @@ stock-logistics-warehouse:
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-workflow:
   branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
     - "16.0"
   category: Stock
   default_branch: "16.0"
   name: Odoo stock, workflow and organization
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
+wms:
+  branches:
+    - "10.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Wms
+  default_branch: "16.0"
+  name: Warehouse management system for advance logistic with odoo
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative

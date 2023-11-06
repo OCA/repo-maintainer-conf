@@ -1,0 +1,37 @@
+mis-builder:
+  branches:
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Mis
+  default_branch: "16.0"
+  name:
+    "Management information system reports for odoo: easily build super fast,
+    beautiful, custom reports such as p&l, balance sheets and more."
+  psc: mis-builder-maintainers
+  psc_rep: mis-builder-maintainers-psc-representative
+mis-builder-contrib:
+  branches:
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Mis
+  default_branch: "16.0"
+  name:
+    Modules that provide additional features on top of mis builder. a kind of
+    incubator for mis builder features that may land in the core in the future.
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative

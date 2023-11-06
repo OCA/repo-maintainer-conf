@@ -1,0 +1,16 @@
+intrastat-extrastat:
+  branches:
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Intrastat
+  default_branch: "16.0"
+  name: Intrastat Extrastat
+  psc: intrastat-maintainers
+  psc_rep: intrastat-maintainers-psc-representative

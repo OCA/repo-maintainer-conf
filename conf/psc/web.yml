@@ -1,0 +1,23 @@
+web-maintainers:
+  members:
+    - guewen
+    - Tardo
+    - yajo
+    - StefanRijnhart
+    - OSguard
+    - hbrunn
+    - legalsylvain
+    - yvaucher
+    - pedrobaeza
+    - tarteo
+    - etobella
+  name: Web maintainers
+  representatives:
+    - jgrandguillaume
+    - simahawk
+    - gurneyalex
+web-maintainers-psc-representative:
+  members:
+    - yajo
+  name: Web maintainers psc representative
+  representatives: []

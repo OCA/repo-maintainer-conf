@@ -1,0 +1,14 @@
+search-engine-maintainers:
+  members:
+    - lmignon
+    - sebastienbeau
+    - etobella
+    - HviorForgeFlow
+  name: Search engine maintainers
+  representatives:
+    - simahawk
+search-engine-maintainers-psc-representative:
+  members:
+    - sebastienbeau
+  name: Search engine maintainers psc representative
+  representatives: []

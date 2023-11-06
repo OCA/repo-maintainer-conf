@@ -1,0 +1,13 @@
+intercompany-maintainers:
+  members:
+    - elicoidal
+    - JordiBForgeFlow
+  name: Intercompany maintainers
+  representatives:
+    - jgrandguillaume
+    - gurneyalex
+intercompany-maintainers-psc-representative:
+  members:
+    - elicoidal
+  name: Intercompany maintainers psc representative
+  representatives: []

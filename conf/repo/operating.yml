@@ -1,0 +1,17 @@
+operating-unit:
+  branches:
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Operating
+  default_branch: "14.0"
+  name: Manage operating units in odoo
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative

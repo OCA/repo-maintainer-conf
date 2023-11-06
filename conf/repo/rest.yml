@@ -1,0 +1,22 @@
+rest-api:
+  branches:
+    - "16.0"
+  category: Rest
+  default_branch: "16.0"
+  name: Rest Api
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+rest-framework:
+  branches:
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Rest
+  default_branch: "16.0"
+  name: Rest Framework
+  psc: rest-framework-maintainers
+  psc_rep: rest-framework-maintainers-psc-representative

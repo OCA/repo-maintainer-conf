@@ -1,0 +1,25 @@
+accounting-maintainers:
+  members:
+    - grindtildeath
+    - max3903
+    - alexis-via
+    - kittiu
+    - tafaRU
+    - fclementic2c
+    - pedrobaeza
+    - sergiocorato
+    - JordiBForgeFlow
+    - adrienpeiffer
+    - rafaelbn
+    - AaronHForgeFlow
+    - HaraldPanten
+    - joao-p-marques
+  name: Accounting maintainers
+  representatives:
+    - jgrandguillaume
+    - sbidoul
+accounting-maintainers-psc-representative:
+  members:
+    - fclementic2c
+  name: Accounting maintainers psc representative
+  representatives: []

@@ -1,0 +1,14 @@
+queue:
+  branches:
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Queue
+  default_branch: "16.0"
+  name: Asynchronous job queue
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative

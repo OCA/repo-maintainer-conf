@@ -1,0 +1,11 @@
+iot-maintainers:
+  members:
+    - JordiBForgeFlow
+    - etobella
+  name: Iot maintainers
+  representatives: []
+iot-maintainers-psc-representative:
+  members:
+    - etobella
+  name: Iot maintainers psc representative
+  representatives: []

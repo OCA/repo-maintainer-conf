@@ -1,0 +1,13 @@
+backport-maintainers:
+  members:
+    - StefanRijnhart
+    - hbrunn
+    - pedrobaeza
+  name: Backport maintainers
+  representatives:
+    - gurneyalex
+backport-maintainers-psc-representative:
+  members:
+    - StefanRijnhart
+  name: Backport maintainers psc representative
+  representatives: []

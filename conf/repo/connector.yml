@@ -1,0 +1,301 @@
+connector:
+  branches:
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Connector
+  default_branch: "16.0"
+  name: Odoo generic connector framework (jobs queue, asynchronous tasks, channels)
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+connector-accountedge:
+  branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Connector
+  default_branch: "11.0"
+  name: Odoo modules to connect with account edge (aka myob)
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+connector-cmis:
+  branches:
+    - "7.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Connector
+  default_branch: "14.0"
+  name: Cmis connector
+  psc: document-maintainers
+  psc_rep: document-maintainers-psc-representative
+connector-ecommerce:
+  branches:
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Connector
+  default_branch: "11.0"
+  name: Generic module used on odoo for e Commerce industry
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+connector-infor:
+  branches:
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Connector
+  default_branch: "11.0"
+  name: Odoo modules to integrate with infor
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+connector-interfaces:
+  branches:
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Connector
+  default_branch: "16.0"
+  name: Odoo generic connector for odbc, .csv,...
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+connector-jira:
+  branches:
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Connector
+  default_branch: "15.0"
+  name: Connector Jira
+  psc: project-service-maintainers
+  psc_rep: project-service-maintainers-psc-representative
+connector-lengow:
+  branches:
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Connector
+  default_branch: "11.0"
+  name: Connector Lengow
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+connector-lims:
+  branches:
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Connector
+  default_branch: "11.0"
+  name: Connector Lims
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+connector-magento:
+  branches:
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Connector
+  default_branch: "11.0"
+  name: Connect odoo with magento
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+connector-magento-php-extension:
+  branches: []
+  category: Connector
+  default_branch: master
+  name: Connector Magento Php Extension
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+connector-odoo2odoo:
+  branches:
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Connector
+  default_branch: "11.0"
+  name: Connector Odoo2odoo. intercompany process, based on odoo Connector
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+connector-prestashop:
+  branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Connector
+  default_branch: "14.0"
+  name: Connect odoo with prestashop
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+connector-redmine:
+  branches:
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Connector
+  default_branch: "11.0"
+  name: Connector redmine (http://redmine.org)
+  psc: project-service-maintainers
+  psc_rep: project-service-maintainers-psc-representative
+connector-sage:
+  branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Connector
+  default_branch: "11.0"
+  name: Connector with sage
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+connector-salesforce:
+  branches:
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Connector
+  default_branch: "11.0"
+  name: Connect salesforce with odoo
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+connector-spscommerce:
+  branches:
+    - "9.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Connector
+  default_branch: "11.0"
+  name: Connector sps commerce
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+connector-telephony:
+  branches:
+    - "5.0"
+    - "6.0"
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Connector
+  default_branch: "14.0"
+  name: Odoo modules for telephony integration
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+connector-woocommerce:
+  branches:
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Connector
+  default_branch: "11.0"
+  name: Connector Woocommerce
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative

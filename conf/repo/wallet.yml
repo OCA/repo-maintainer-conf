@@ -1,0 +1,10 @@
+wallet:
+  branches:
+    - "12.0"
+    - "14.0"
+    - "16.0"
+  category: Wallet
+  default_branch: "14.0"
+  name: Wallet
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative

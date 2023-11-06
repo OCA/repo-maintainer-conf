@@ -1,0 +1,16 @@
+donation:
+  branches:
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Donation
+  default_branch: "16.0"
+  name: Donation
+  psc: donation-maintainers
+  psc_rep: donation-maintainers-psc-representative

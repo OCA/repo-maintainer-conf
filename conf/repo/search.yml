@@ -1,0 +1,13 @@
+search-engine:
+  branches:
+    - "10.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Search
+  default_branch: "16.0"
+  name: Search Engine
+  psc: search-engine-maintainers
+  psc_rep: search-engine-maintainers-psc-representative

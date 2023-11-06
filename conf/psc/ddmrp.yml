@@ -1,0 +1,12 @@
+ddmrp-maintainers:
+  members:
+    - JordiBForgeFlow
+    - LoisRForgeFlow
+  name: Ddmrp maintainers
+  representatives: []
+ddmrp-maintainers-psc-representative:
+  members:
+    - JordiBForgeFlow
+  name: Ddmrp maintainers psc representative
+  representatives:
+    - gurneyalex

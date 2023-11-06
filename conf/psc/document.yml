@@ -1,0 +1,17 @@
+document-maintainers:
+  members:
+    - lmignon
+    - max3903
+    - yajo
+    - hbrunn
+    - etobella
+    - HaraldPanten
+    - joao-p-marques
+  name: Document maintainers
+  representatives:
+    - gurneyalex
+document-maintainers-psc-representative:
+  members:
+    - max3903
+  name: Document maintainers psc representative
+  representatives: []

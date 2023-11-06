@@ -1,0 +1,228 @@
+vertical-abbey:
+  branches:
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Vertical
+  default_branch: "14.0"
+  name: Vertical Abbey
+  psc: vertical-abbey-maintainers
+  psc_rep: vertical-abbey-maintainers-psc-representative
+vertical-agriculture:
+  branches:
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Vertical
+  default_branch: "14.0"
+  name: Verticalization of odoo for farms and agroindustries
+  psc: vertical-agriculture-maintainers
+  psc_rep: vertical-agriculture-maintainers-psc-representative
+vertical-association:
+  branches:
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Vertical
+  default_branch: "14.0"
+  name: Odoo addons for membership related tasks
+  psc: vertical-association-maintainers
+  psc_rep: vertical-association-maintainers-psc-representative
+vertical-community:
+  branches:
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Vertical
+  default_branch: "11.0"
+  name: Odoo for communities verticalization
+  psc: vertical-community-maintainers-project-leader
+  psc_rep: vertical-community-maintainers-psc-representative
+vertical-construction:
+  branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Vertical
+  default_branch: "11.0"
+  name: Odoo for construction company
+  psc: vertical-construction-maintainers
+  psc_rep: vertical-construction-maintainers-psc-representative
+vertical-cooperative-supermarket:
+  branches:
+    - "12.0"
+    - "14.0"
+    - "16.0"
+  category: Vertical
+  default_branch: "12.0"
+  name: Vertical Cooperative Supermarket
+  psc: core-maintainers
+  psc_rep: cooperative-maintainers-psc-representative
+vertical-edition:
+  branches:
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Vertical
+  default_branch: "11.0"
+  name: Vertical Edition
+  psc: vertical-edition-maintainers
+  psc_rep: vertical-edition-maintainers-psc-representative
+vertical-education:
+  branches:
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Vertical
+  default_branch: "11.0"
+  name: Odoo modules for schools, universities and other education organizations
+  psc: vertical-education-maintainers
+  psc_rep: vertical-education-maintainers-psc-representative
+vertical-hotel:
+  branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Vertical
+  default_branch: "15.0"
+  name: Odoo for hotel management
+  psc: vertical-hotel-maintainers
+  psc_rep: vertical-hotel-maintainers-psc-representative
+vertical-isp:
+  branches:
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Vertical
+  default_branch: "12.0"
+  name: Odoo modules for internet service providers
+  psc: vertical-isp-maintainers
+  psc_rep: vertical-isp-maintainers-psc-representative
+vertical-medical:
+  branches:
+    - "10.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Vertical
+  default_branch: "14.0"
+  name: Open source healthcare system for odoo
+  psc: vertical-medical-maintainers
+  psc_rep: vertical-medical-maintainers-psc-representative
+vertical-ngo:
+  branches:
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Vertical
+  default_branch: "11.0"
+  name: Odoo for ngo's and humanitarian organization
+  psc: vertical-ngo-maintainers
+  psc_rep: vertical-ngo-maintainers-psc-representative
+vertical-realestate:
+  branches:
+    - "8.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Vertical
+  default_branch: "13.0"
+  name: Odoo modules for real estate business
+  psc: vertical-real-estate-maintainers
+  psc_rep: vertical-real-estate-maintainers-psc-representative
+vertical-rental:
+  branches:
+    - "12.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Vertical
+  default_branch: "12.0"
+  name: Vertical Rental
+  psc: vertical-rental-maintainers
+  psc_rep: vertical-rental-maintainers-psc-representative
+vertical-travel:
+  branches:
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Vertical
+  default_branch: "11.0"
+  name: Vertical Travel
+  psc: vertical-travel-maintainers
+  psc_rep: vertical-travel-maintainers-psc-representative

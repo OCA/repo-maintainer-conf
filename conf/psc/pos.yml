@@ -1,0 +1,18 @@
+pos-maintainers:
+  members:
+    - OSguard
+    - alexis-via
+    - Fkawala
+    - ivantodorovich
+    - legalsylvain
+    - chienandalu
+    - pedrobaeza
+    - rafaelbn
+    - quentinDupont
+  name: Point of sale maintainers
+  representatives: []
+pos-maintainers-psc-representative:
+  members:
+    - legalsylvain
+  name: Pos maintainers psc representative
+  representatives: []

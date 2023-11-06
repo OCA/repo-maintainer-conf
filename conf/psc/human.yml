@@ -1,0 +1,18 @@
+human-resources-maintainers:
+  members:
+    - alexey-pelykh
+    - tafaRU
+    - pedrobaeza
+    - feketemihai
+    - nimarosa
+    - Saran440
+    - albariera
+  name: Human resources maintainers
+  representatives:
+    - jgrandguillaume
+    - dreispt
+    - gurneyalex
+human-resources-maintainers-psc-representative:
+  members: []
+  name: Human resources maintainers psc representative
+  representatives: []

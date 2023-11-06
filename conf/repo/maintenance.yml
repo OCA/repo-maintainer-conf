@@ -1,0 +1,14 @@
+maintenance:
+  branches:
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Maintenance
+  default_branch: "14.0"
+  name: Odoo modules for businesses that implies maintenance tasks
+  psc: maintenance-maintainers
+  psc_rep: maintenance-maintainers-psc-representative

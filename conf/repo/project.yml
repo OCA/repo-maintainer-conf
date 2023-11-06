@@ -1,0 +1,50 @@
+project:
+  branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Project
+  default_branch: "14.0"
+  name: Odoo project management and services company addons
+  psc: project-service-maintainers
+  psc_rep: project-service-maintainers-psc-representative
+project-agile:
+  branches:
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Project
+  default_branch: "10.0"
+  name: Project Agile
+  psc: project-agile-maintainers
+  psc_rep: core-maintainers-psc-representative
+project-reporting:
+  branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Project
+  default_branch: "11.0"
+  name: Project Reporting
+  psc: project-service-maintainers
+  psc_rep: project-service-maintainers-psc-representative

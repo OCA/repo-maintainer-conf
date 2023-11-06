@@ -1,6 +1,23 @@
-core:
-  name: Core
+core-maintainers:
   members:
-    - etobella
+    - rvalyi
+    - guewen
+    - max3903
+    - StefanRijnhart
+    - sebastienbeau
+    - hbrunn
+    - yvaucher
+    - moylop260
+    - pedrobaeza
+  name: Core maintainers
+  representatives:
+    - jgrandguillaume
     - simahawk
+    - sbidoul
+    - dreispt
+    - bguillot
+    - gurneyalex
+core-maintainers-psc-representative:
+  members: []
+  name: Core maintainers psc representative
   representatives: []

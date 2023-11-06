@@ -1,0 +1,9 @@
+agreement:
+  branches:
+    - "15.0"
+    - "16.0"
+  category: Agreement
+  default_branch: "15.0"
+  name: Agreement
+  psc: project-service-maintainers
+  psc_rep: project-service-maintainers-psc-representative

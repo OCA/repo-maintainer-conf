@@ -1,0 +1,15 @@
+calendar:
+  branches:
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Calendar
+  default_branch: "14.0"
+  name: Calendar
+  psc: tools-maintainers
+  psc_rep: tools-maintainers-psc-representative

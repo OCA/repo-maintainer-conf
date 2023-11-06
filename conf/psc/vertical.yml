@@ -1,0 +1,172 @@
+vertical-abbey-maintainers:
+  members:
+    - alexis-via
+  name: Vertical abbey maintainers
+  representatives: []
+vertical-abbey-maintainers-psc-representative:
+  members:
+    - alexis-via
+  name: Vertical abbey maintainers psc representative
+  representatives: []
+vertical-agriculture-maintainers:
+  members:
+    - max3903
+    - bjoliveau
+    - bealdav
+  name: Manage the oca vertical agriculture projects
+  representatives: []
+vertical-agriculture-maintainers-psc-representative:
+  members:
+    - max3903
+  name: Vertical agriculture maintainers psc representative
+  representatives: []
+vertical-association-maintainers:
+  members:
+    - chienandalu
+    - pedrobaeza
+    - rafaelbn
+  name: Vertical association editors
+  representatives: []
+vertical-association-maintainers-psc-representative:
+  members:
+    - pedrobaeza
+  name: Vertical association maintainers psc representative
+  representatives: []
+vertical-community-maintainers:
+  members:
+    - YannickB
+  name: Vertical community maintainers
+  representatives: []
+vertical-community-maintainers-project-leader:
+  members:
+    - YannickB
+  name: Vertical community maintainers project leader
+  representatives:
+    - jgrandguillaume
+vertical-community-maintainers-psc-representative:
+  members:
+    - YannickB
+  name: Vertical community maintainers psc representative
+  representatives: []
+vertical-construction-maintainers:
+  members:
+    - max3903
+    - mathi123
+  name: Vertical construction maintainers
+  representatives: []
+vertical-construction-maintainers-psc-representative:
+  members:
+    - max3903
+  name: Vertical construction maintainers psc representative
+  representatives: []
+vertical-edition-maintainers:
+  members:
+    - max3903
+    - bjoliveau
+  name: Vertical edition maintainers
+  representatives: []
+vertical-edition-maintainers-psc-representative:
+  members:
+    - max3903
+  name: Vertical edition maintainers psc representative
+  representatives: []
+vertical-education-maintainers:
+  members:
+    - JayVora-SerpentCS
+  name: Vertical education maintainers
+  representatives: []
+vertical-education-maintainers-psc-representative:
+  members: []
+  name: Vertical education maintainers psc representative
+  representatives: []
+vertical-hotel-maintainers:
+  members:
+    - nhomar
+    - JayVora-SerpentCS
+  name: Vertical hotel maintainers
+  representatives: []
+vertical-hotel-maintainers-psc-representative:
+  members:
+    - nhomar
+  name: Vertical hotel maintainers psc representative
+  representatives: []
+vertical-isp-maintainers:
+  members:
+    - joaoalf
+    - max3903
+    - bjoliveau
+    - JayVora-SerpentCS
+  name: Vertical isp maintainers
+  representatives:
+    - dreispt
+vertical-isp-maintainers-psc-representative:
+  members:
+    - max3903
+  name: Vertical isp maintainers psc representative
+  representatives: []
+vertical-medical-maintainers:
+  members:
+    - nhomar
+    - rgarnau
+    - etobella
+  name: Vertical medical maintainers
+  representatives: []
+vertical-medical-maintainers-psc-representative:
+  members: []
+  name: Vertical medical maintainers psc representative
+  representatives: []
+vertical-ngo-maintainers:
+  members: []
+  name: Vertical ngo maintainers
+  representatives:
+    - jgrandguillaume
+    - gurneyalex
+vertical-ngo-maintainers-psc-representative:
+  members: []
+  name: Vertical ngo maintainers psc representative
+  representatives:
+    - gurneyalex
+vertical-real-estate-maintainers:
+  members:
+    - acysos
+    - rousseldenis
+  name: Vertical real estate maintainers
+  representatives: []
+vertical-real-estate-maintainers-psc-representative:
+  members:
+    - acysos
+  name: Vertical real estate maintainers psc representative
+  representatives:
+    - gurneyalex
+vertical-rental-maintainers:
+  members:
+    - marylla
+    - rousseldenis
+    - benbrich
+    - fkantelberg
+  name: Vertical rental maintainers
+  representatives:
+    - OSevangelist
+    - gurneyalex
+vertical-rental-maintainers-psc-representative:
+  members:
+    - marylla
+  name: Vertical rental maintainers psc representative
+  representatives:
+    - gurneyalex
+vertical-rental-psc-representative:
+  members: []
+  name: Vertical rental psc representative
+  representatives:
+    - gurneyalex
+vertical-travel-maintainers:
+  members:
+    - max3903
+    - plamarche
+  name: Vertical travel maintainers
+  representatives: []
+vertical-travel-maintainers-psc-representative:
+  members:
+    - max3903
+  name: Vertical travel maintainers psc representative
+  representatives: []

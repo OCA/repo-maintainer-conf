@@ -1,0 +1,7 @@
+ansible-odoo:
+  branches: []
+  category: Ansible
+  default_branch: master
+  name: Ansible role for odoo
+  psc: tools-maintainers
+  psc_rep: tools-maintainers-psc-representative

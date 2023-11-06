@@ -1,0 +1,28 @@
+project-agile-maintainers:
+  members: []
+  name: Project agile maintainers
+  representatives:
+    - dreispt
+project-service-maintainers:
+  members:
+    - alexey-pelykh
+    - grindtildeath
+    - yajo
+    - leemannd
+    - yvaucher
+    - pedrobaeza
+    - rafaelbn
+    - sbejaoui
+    - rousseldenis
+    - AaronHForgeFlow
+  name: Contract management core editors and project core editors
+  representatives:
+    - jgrandguillaume
+    - simahawk
+    - dreispt
+    - gurneyalex
+project-service-maintainers-psc-representative:
+  members: []
+  name: Project & service maintainers psc representative
+  representatives:
+    - dreispt

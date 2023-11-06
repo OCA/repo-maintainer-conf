@@ -1,0 +1,13 @@
+storage:
+  branches:
+    - "10.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Storage
+  default_branch: "16.0"
+  name: Storage
+  psc: storage-maintainers
+  psc_rep: storage-maintainers-psc-representative

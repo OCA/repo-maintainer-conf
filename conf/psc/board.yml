@@ -1,7 +1,14 @@
 board:
   members:
     - etobella
-    - simahawk
+  name: The oca board
   representatives:
-    - etobella
-  name: Board
+    - jgrandguillaume
+    - simahawk
+    - OSevangelist
+    - sbidoul
+    - dreispt
+    - bguillot
+    - gurneyalex
+    - gdgellatly
+    - vdewulf

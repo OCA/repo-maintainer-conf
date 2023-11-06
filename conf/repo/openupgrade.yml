@@ -1,0 +1,27 @@
+OpenUpgrade:
+  branches:
+    - "5.0"
+    - "6.0"
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Openupgrade
+  default_branch: "16.0"
+  name: Open source upgrade path for odoo/openerp
+  psc: openupgrade-maintainers
+  psc_rep: openupgrade-maintainers-psc-representative
+openupgradelib:
+  branches: []
+  category: Openupgradelib
+  default_branch: master
+  name: A library with support functions to be called from odoo migration scripts.
+  psc: openupgrade-maintainers
+  psc_rep: openupgrade-maintainers-psc-representative

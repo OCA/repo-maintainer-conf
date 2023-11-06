@@ -1,0 +1,27 @@
+edi-framework-maintainers:
+  members:
+    - etobella
+  name: Edi framework maintainers
+  representatives:
+    - simahawk
+edi-framework-maintainers-psc-representative:
+  members: []
+  name: Edi framework maintainers psc representative
+  representatives:
+    - simahawk
+edi-maintainers:
+  members:
+    - njeudy
+    - alexis-via
+    - bealdav
+    - hbrunn
+    - etobella
+  name: Edi maintainers
+  representatives:
+    - simahawk
+    - gurneyalex
+edi-maintainers-psc-representative:
+  members:
+    - alexis-via
+  name: Edi maintainers psc representative
+  representatives: []

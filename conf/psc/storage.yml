@@ -1,0 +1,13 @@
+storage-maintainers:
+  members:
+    - lmignon
+    - sebastienbeau
+    - hparfr
+  name: Storage maintainers
+  representatives:
+    - simahawk
+storage-maintainers-psc-representative:
+  members:
+    - sebastienbeau
+  name: Storage maintainers psc representative
+  representatives: []

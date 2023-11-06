@@ -1,0 +1,17 @@
+commission:
+  branches:
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Commission
+  default_branch: "15.0"
+  name: Odoo commission management
+  psc: crm-sales-marketing-maintainers
+  psc_rep: crm-sales-marketing-maintainers-psc-representative

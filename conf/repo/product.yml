@@ -1,0 +1,78 @@
+product-attribute:
+  branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Product
+  default_branch: "16.0"
+  name: Odoo product attribute
+  psc: product-maintainers
+  psc_rep: product-maintainers-psc-representative
+product-configurator:
+  branches:
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Product
+  default_branch: "14.0"
+  name:
+    Advanced product configurator (from the original pledra project https://github.com/pledra/odoo
+    Product Configurator)
+  psc: product-maintainers
+  psc_rep: product-maintainers-psc-representative
+product-kitting:
+  branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Product
+  default_branch: "11.0"
+  name: Odoo kitting addons
+  psc: product-maintainers
+  psc_rep: product-maintainers-psc-representative
+product-pack:
+  branches:
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Product
+  default_branch: "14.0"
+  name: Odoo modules related to product packs
+  psc: product-maintainers
+  psc_rep: product-maintainers-psc-representative
+product-variant:
+  branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Product
+  default_branch: "14.0"
+  name: Product Variant
+  psc: product-maintainers
+  psc_rep: product-maintainers-psc-representative

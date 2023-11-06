@@ -1,0 +1,17 @@
+openupgrade-maintainers:
+  members:
+    - yajo
+    - StefanRijnhart
+    - hbrunn
+    - legalsylvain
+    - cubells
+    - pedrobaeza
+    - JordiBForgeFlow
+    - MiquelRForgeFlow
+  name: Openupgrade maintainers
+  representatives: []
+openupgrade-maintainers-psc-representative:
+  members:
+    - StefanRijnhart
+  name: Openupgrade maintainers psc representative
+  representatives: []

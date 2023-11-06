@@ -1,0 +1,9 @@
+odoo-sphinx-autodoc:
+  branches: []
+  category: Odoo
+  default_branch: master
+  name:
+    Sphinx extension that allows to use "openerp.addons.*" with sphinx autodoc
+    feature
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative

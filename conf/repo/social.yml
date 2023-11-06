@@ -1,0 +1,16 @@
+social:
+  branches:
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Social
+  default_branch: "14.0"
+  name: Addons concerning odoo's social erp features and messaging in general
+  psc: social-maintainers
+  psc_rep: social-maintainers-psc-representative

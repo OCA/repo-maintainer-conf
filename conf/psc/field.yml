@@ -1,0 +1,15 @@
+field-service-maintainers:
+  members:
+    - max3903
+    - wolfhall
+    - hparfr
+    - smangukiya
+    - brian10048
+    - osi-scampbell
+  name: Field service maintainers
+  representatives: []
+field-service-maintainers-psc-representative:
+  members:
+    - max3903
+  name: Field service representative
+  representatives: []

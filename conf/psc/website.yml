@@ -1,0 +1,20 @@
+website-maintainers:
+  members:
+    - nhomar
+    - guewen
+    - yajo
+    - OSguard
+    - antespi
+    - hbrunn
+    - pedrobaeza
+    - rafaelbn
+    - gfcapalbo
+    - tarteo
+  name: Maintainers of website modules
+  representatives:
+    - simahawk
+website-maintainers-psc-representative:
+  members:
+    - OSguard
+  name: Website maintainers psc representative
+  representatives: []

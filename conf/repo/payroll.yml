@@ -1,0 +1,11 @@
+payroll:
+  branches:
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Payroll
+  default_branch: "14.0"
+  name: Odoo modules for payroll management
+  psc: human-resources-maintainers
+  psc_rep: human-resources-maintainers-psc-representative

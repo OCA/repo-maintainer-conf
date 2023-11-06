@@ -1,0 +1,11 @@
+donation-maintainers:
+  members:
+    - alexis-via
+    - albariera
+  name: Donation maintainers
+  representatives: []
+donation-maintainers-psc-representative:
+  members:
+    - alexis-via
+  name: Donation maintainers psc representative
+  representatives: []

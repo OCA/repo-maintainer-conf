@@ -1,0 +1,12 @@
+deployment-tools-maintainers:
+  members:
+    - StefanRijnhart
+    - hbrunn
+  name: Deployment tools psc
+  representatives:
+    - gurneyalex
+deployment-tools-maintainers-psc-representative:
+  members: []
+  name: "Deployment tools "
+  representatives:
+    - gurneyalex

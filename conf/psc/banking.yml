@@ -1,0 +1,22 @@
+banking-maintainers:
+  members:
+    - alexey-pelykh
+    - grindtildeath
+    - StefanRijnhart
+    - alexis-via
+    - fclementic2c
+    - pedrobaeza
+    - JordiBForgeFlow
+    - adrienpeiffer
+    - AaronHForgeFlow
+    - etobella
+    - HaraldPanten
+    - joao-p-marques
+  name: Banking maintainers
+  representatives:
+    - sbidoul
+banking-maintainers-psc-representative:
+  members:
+    - StefanRijnhart
+  name: Banking maintainers psc representative
+  representatives: []

@@ -1,0 +1,13 @@
+maintenance-maintainers:
+  members:
+    - pedrobaeza
+    - astirpe
+    - etobella
+  name: Maintenance maintainers
+  representatives:
+    - gurneyalex
+maintenance-maintainers-psc-representative:
+  members:
+    - pedrobaeza
+  name: Maintenance maintainers psc representative
+  representatives: []

@@ -1,0 +1,18 @@
+knowledge:
+  branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Knowledge
+  default_branch: "16.0"
+  name: Odoo document & knowledge management
+  psc: document-maintainers
+  psc_rep: document-maintainers-psc-representative

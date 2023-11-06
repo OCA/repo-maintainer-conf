@@ -1,0 +1,59 @@
+odoo-community.org:
+  branches:
+    - "1.0"
+  category: Odoo
+  default_branch: master
+  name: The odoo community association website
+  psc: board
+  psc_rep: board
+odoo-module-migrator:
+  branches: []
+  category: Odoo
+  default_branch: master
+  name: Python library to migrate odoo base code from a version to another
+  psc: tools-maintainers
+  psc_rep: tools-maintainers-psc-representative
+odoo-pim:
+  branches:
+    - "10.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+  category: Odoo
+  default_branch: "14.0"
+  name: Odoo Pim
+  psc: product-maintainers
+  psc_rep: product-maintainers-psc-representative
+odoo-pre-commit-hooks:
+  branches: []
+  category: Odoo
+  default_branch: main
+  name: Linters of odoo addons that complement pylint Odoo
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative
+odoo-sentinel:
+  branches: []
+  category: Odoo
+  default_branch: master
+  name: Custom odoo client for the stock_scanner module
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
+odoo-test-helper:
+  branches:
+    - "16.0"
+  category: Odoo
+  default_branch: master
+  name: Odoo test helper
+  psc: board
+  psc_rep: board
+pylint-odoo:
+  branches:
+    - "7.0"
+    - "8.0"
+  category: Pylint
+  default_branch: main
+  name: Odoo plugin for pylint
+  psc: core-maintainers
+  psc_rep: core-maintainers-psc-representative

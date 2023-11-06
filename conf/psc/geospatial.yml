@@ -1,0 +1,11 @@
+geospatial-maintainers:
+  members:
+    - lmignon
+    - yvaucher
+  name: Geospatial maintainers
+  representatives: []
+geospatial-maintainers-psc-representative:
+  members:
+    - yvaucher
+  name: Geospatial maintainers psc representative
+  representatives: []

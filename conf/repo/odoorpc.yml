@@ -1,0 +1,7 @@
+odoorpc:
+  branches: []
+  category: Odoorpc
+  default_branch: master
+  name: Python module to pilot your odoo servers through json Rpc.
+  psc: tools-maintainers
+  psc_rep: tools-maintainers-psc-representative
