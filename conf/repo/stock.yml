@@ -41,7 +41,7 @@ stock-logistics-reporting:
     - "12.0"
     - "14.0"
   category: Stock
-  default_branch: "16.0"
+  default_branch: "14.0"
   name: Provides odoo logistics reporting modules
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
