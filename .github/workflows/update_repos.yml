@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: "3.10"
       - name: Install requirements
-        run: pip install pip install https://github.com/OCA-devel/repo-maintainer/archive/master.zip
+        run: pip install pip install https://github.com/OCA/repo-maintainer/archive/master.zip
       - name: Manage repositories
         run:
-          oca-repo-manage --org $GITHUB_REPOSITORY_OWNER --token ${{secrets.ACTION_ORG_TOKEN}} --conf-dir ./conf
+          oca-repo-manage --org $GITHUB_REPOSITORY_OWNER --token ${{secrets.GIT_PUSH_TOKEN}} --conf-dir ./conf
