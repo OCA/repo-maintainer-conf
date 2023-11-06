@@ -1,0 +1,91 @@
+stock-logistics-availability:
+  branches:
+    - "16.0"
+  category: Stock
+  default_branch: "16.0"
+  name:
+    This repository contains modules to provide more information about product
+    stock availability in terms of quantities (immediately usable, potential, unreserved
+    ones, ...).
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
+stock-logistics-barcode:
+  branches:
+    - "14.0"
+    - "16.0"
+  category: Stock
+  default_branch: "16.0"
+  name: Stock Logistics Barcode
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
+stock-logistics-interfaces:
+  branches:
+    - "16.0"
+  category: Stock
+  default_branch: "16.0"
+  name: Stock Logistics Interfaces
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
+stock-logistics-orderpoint:
+  branches:
+    - "16.0"
+  category: Stock
+  default_branch: "16.0"
+  name:
+    This repository contains modules to extend reordering rules (available on
+    warehouses locations) functionalities.
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
+stock-logistics-reporting:
+  branches:
+    - "12.0"
+    - "14.0"
+  category: Stock
+  default_branch: "16.0"
+  name: Provides odoo logistics reporting modules
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
+stock-logistics-request:
+  branches:
+    - "16.0"
+  category: Stock
+  default_branch: "16.0"
+  name:
+    This repository contains modules to provide another way of creating stock
+    movements. provided as a dedicated application, users will be able to create their
+    stock needs by product and location.
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
+stock-logistics-tracking:
+  branches:
+    - "15.0"
+    - "16.0"
+  category: Stock
+  default_branch: "16.0"
+  name: This repository contains modules around stock packages management
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
+stock-logistics-transport:
+  branches:
+    - "16.0"
+  category: Stock
+  default_branch: "16.0"
+  name: "Transport management in odoo "
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
+stock-logistics-warehouse:
+  branches:
+    - "16.0"
+  category: Stock
+  default_branch: "16.0"
+  name: Odoo warehouse management addons
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
+stock-logistics-workflow:
+  branches:
+    - "16.0"
+  category: Stock
+  default_branch: "16.0"
+  name: Odoo stock, workflow and organization
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
