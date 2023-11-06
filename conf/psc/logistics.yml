@@ -1,7 +1,22 @@
-logistics:
+logistics-maintainers:
   members:
-    - etobella
-    - bguillot
+    - tafaRU
+    - sebalix
+    - JordiBForgeFlow
+    - jbaudoux
+    - Cedric-Pigeon
+    - hparfr
+    - rafaelbn
+    - rousseldenis
+    - LoisRForgeFlow
+    - ps-tubtim
+  name: Logistics maintainers
   representatives:
-    - etobella
-  name: Logistics
+    - jgrandguillaume
+    - simahawk
+    - gurneyalex
+logistics-maintainers-psc-representative:
+  members:
+    - rousseldenis
+  name: Logistics maintainers psc representative
+  representatives: []

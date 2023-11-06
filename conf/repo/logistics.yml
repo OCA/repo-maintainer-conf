@@ -1,9 +1,0 @@
-wms:
-  maintainers: []
-  name: Warehouse Management System for advance logistic with Odoo
-  category: Logistics
-  psc: logistics
-  default_branch: "16.0"
-  branches:
-    - "15.0"
-    - "16.0"

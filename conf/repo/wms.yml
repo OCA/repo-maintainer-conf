@@ -1,0 +1,9 @@
+wms:
+  branches:
+    - "13.0"
+    - "16.0"
+  category: Wms
+  default_branch: "16.0"
+  name: Warehouse management system for advance logistic with odoo
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
