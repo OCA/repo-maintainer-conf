@@ -4,7 +4,9 @@ This repo contains configuration files to automatically setup teams and reposito
 
 ## How it works
 When a config change is merged, a Github action will use the [repo-maintainer tool](https://github.com/OCA/repo-maintaine)
-to update or create teams and repositories.
+to update or create teams and repositories and to generate the documentation.
+
+Documentation is hosted on https://oca.github.io/repo-maintainer-conf/
 
 ## Conf structure
 
