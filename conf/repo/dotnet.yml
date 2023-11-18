@@ -9,6 +9,7 @@ dotnet:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Dotnet
   default_branch: "11.0"
   name: This repository holds all addons written in dotnet

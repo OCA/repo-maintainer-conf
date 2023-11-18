@@ -11,6 +11,7 @@ reporting-engine:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Reporting
   default_branch: "16.0"
   name: Odoo alternative reporting engine
@@ -29,6 +30,7 @@ report-print-send:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Report
   default_branch: "14.0"
   name: Odoo printing services and printer related addons

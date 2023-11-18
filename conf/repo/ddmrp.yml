@@ -6,6 +6,7 @@ ddmrp:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Ddmrp
   default_branch: "14.0"
   name: Ddmrp

@@ -11,8 +11,9 @@ margin-analysis:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Margin
   default_branch: "15.0"
   name: Odoo financial controlling (margin, costs, ...)
-  psc: core-maintainers
-  psc_rep: core-maintainers-psc-representative
+  psc: accounting-maintainers
+  psc_rep: accounting-maintainers-psc-representative

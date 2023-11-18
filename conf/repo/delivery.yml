@@ -11,6 +11,7 @@ delivery-carrier:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Delivery
   default_branch: "14.0"
   name: Odoo carriers and deliveries management

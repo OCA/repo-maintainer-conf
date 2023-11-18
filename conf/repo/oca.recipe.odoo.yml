@@ -1,6 +1,7 @@
 oca.recipe.odoo:
   branches:
     - "16.0"
+    - "17.0"
   category: Oca.recipe.odoo
   default_branch: main
   name: Oca.recipe.odoo

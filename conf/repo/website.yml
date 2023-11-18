@@ -9,6 +9,7 @@ website:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Website
   default_branch: "14.0"
   name: Odoo website builder addons
@@ -25,6 +26,7 @@ website-cms:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Website
   default_branch: "13.0"
   name: Cms features for odoo website
@@ -38,6 +40,7 @@ website-themes:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Website
   default_branch: "11.0"
   name: Website themes for odoo

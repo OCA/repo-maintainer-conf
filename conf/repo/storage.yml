@@ -6,6 +6,7 @@ storage:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Storage
   default_branch: "16.0"
   name: Storage

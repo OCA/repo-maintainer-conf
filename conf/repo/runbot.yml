@@ -9,8 +9,9 @@ runbot-addons:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Runbot
   default_branch: "11.0"
   name: Odoo runbot custom features to be used by community.
-  psc: core-maintainers
-  psc_rep: core-maintainers-psc-representative
+  psc: board
+  psc_rep: board
