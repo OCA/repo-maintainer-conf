@@ -19,6 +19,16 @@ NOTE: current files where generated mostly automatically.
 If you think that any of them has not the right name or a piece of content is misplaced,
 feel free to propose a PR to fix it.
 
+## Global conf and checksum
+
+Two files should never be touched:
+
+* `conf/global.yml`: hosts general configuration
+* `conf/checksum.yml`: hosts the checksum of each file.
+
+The checksum is computed and updated on each build
+to ensure that repos and teams will be updated only if necessary.
+
 ## How to add a new repo
 
 1. look for the right category file in the `repo` folder
