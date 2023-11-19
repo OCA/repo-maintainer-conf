@@ -7,6 +7,7 @@ helpdesk:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Helpdesk
   default_branch: "15.0"
   name: Odoo modules for managing a helpdesk system

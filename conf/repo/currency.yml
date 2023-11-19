@@ -7,10 +7,11 @@ currency:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Currency
   default_branch: "16.0"
   name:
     "Odoo currency related addons (crypto currencies, rate conversion, integrations
     with third party applications,...)"
   psc: currency-maintainers
-  psc_rep: core-maintainers-psc-representative
+  psc_rep: accounting-maintainers-psc-representative

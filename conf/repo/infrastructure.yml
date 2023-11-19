@@ -9,10 +9,11 @@ infrastructure:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Infrastructure
   default_branch: "13.0"
   name:
     Odoo modules related to the management of domain name server services within
     network infrastructure
-  psc: core-maintainers
-  psc_rep: core-maintainers-psc-representative
+  psc: board
+  psc_rep: board

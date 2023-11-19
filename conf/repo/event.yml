@@ -9,6 +9,7 @@ event:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Event
   default_branch: "14.0"
   name: Event management addons

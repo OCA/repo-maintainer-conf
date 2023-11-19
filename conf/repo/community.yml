@@ -10,6 +10,7 @@ community-data-files:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Community
   default_branch: "14.0"
   name: Community Data Files

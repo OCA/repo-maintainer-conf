@@ -3,5 +3,5 @@ contribute-md-template:
   category: Contribute
   default_branch: master
   name: The template contribute.md for oss projects
-  psc: core-maintainers
-  psc_rep: core-maintainers-psc-representative
+  psc: board
+  psc_rep: board

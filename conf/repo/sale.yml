@@ -1,10 +1,11 @@
 sale-channel:
   branches:
     - "16.0"
+    - "17.0"
   category: Sale
   default_branch: "16.0"
   name: Sale Channel
-  psc: core-maintainers
+  psc: board
   psc_rep: board
 sale-financial:
   branches:
@@ -19,6 +20,7 @@ sale-financial:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Sale
   default_branch: "11.0"
   name: Odoo sale and financial related addons
@@ -30,6 +32,7 @@ sale-promotion:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Sale
   default_branch: "13.0"
   name: Sale Promotion
@@ -48,6 +51,7 @@ sale-reporting:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Sale
   default_branch: "14.0"
   name: Sale Reporting
@@ -66,6 +70,7 @@ sale-workflow:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Sale
   default_branch: "16.0"
   name: Odoo sales, workflow and organization

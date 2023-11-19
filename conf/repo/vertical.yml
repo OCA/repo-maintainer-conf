@@ -9,6 +9,7 @@ vertical-abbey:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Vertical
   default_branch: "14.0"
   name: Vertical Abbey
@@ -25,6 +26,7 @@ vertical-agriculture:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Vertical
   default_branch: "14.0"
   name: Verticalization of odoo for farms and agroindustries
@@ -41,6 +43,7 @@ vertical-association:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Vertical
   default_branch: "14.0"
   name: Odoo addons for membership related tasks
@@ -57,6 +60,7 @@ vertical-community:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Vertical
   default_branch: "11.0"
   name: Odoo for communities verticalization
@@ -75,6 +79,7 @@ vertical-construction:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Vertical
   default_branch: "11.0"
   name: Odoo for construction company
@@ -85,10 +90,11 @@ vertical-cooperative-supermarket:
     - "12.0"
     - "14.0"
     - "16.0"
+    - "17.0"
   category: Vertical
   default_branch: "12.0"
   name: Vertical Cooperative Supermarket
-  psc: core-maintainers
+  psc: cooperative-maintainers
   psc_rep: cooperative-maintainers-psc-representative
 vertical-edition:
   branches:
@@ -101,6 +107,7 @@ vertical-edition:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Vertical
   default_branch: "11.0"
   name: Vertical Edition
@@ -118,6 +125,7 @@ vertical-education:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Vertical
   default_branch: "11.0"
   name: Odoo modules for schools, universities and other education organizations
@@ -136,6 +144,7 @@ vertical-hotel:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Vertical
   default_branch: "15.0"
   name: Odoo for hotel management
@@ -153,6 +162,7 @@ vertical-isp:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Vertical
   default_branch: "12.0"
   name: Odoo modules for internet service providers
@@ -164,6 +174,7 @@ vertical-medical:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Vertical
   default_branch: "14.0"
   name: Open source healthcare system for odoo
@@ -181,6 +192,7 @@ vertical-ngo:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Vertical
   default_branch: "11.0"
   name: Odoo for ngo's and humanitarian organization
@@ -193,6 +205,7 @@ vertical-realestate:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Vertical
   default_branch: "13.0"
   name: Odoo modules for real estate business
@@ -204,6 +217,7 @@ vertical-rental:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Vertical
   default_branch: "12.0"
   name: Vertical Rental
@@ -221,6 +235,7 @@ vertical-travel:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Vertical
   default_branch: "11.0"
   name: Vertical Travel

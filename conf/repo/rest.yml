@@ -1,11 +1,12 @@
 rest-api:
   branches:
     - "16.0"
+    - "17.0"
   category: Rest
   default_branch: "16.0"
   name: Rest Api
-  psc: core-maintainers
-  psc_rep: core-maintainers-psc-representative
+  psc: board
+  psc_rep: board
 rest-framework:
   branches:
     - "10.0"
@@ -15,6 +16,7 @@ rest-framework:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Rest
   default_branch: "16.0"
   name: Rest Framework

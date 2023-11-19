@@ -9,6 +9,7 @@ business-requirement:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Business
   default_branch: "14.0"
   name: Business requirements management via odoo

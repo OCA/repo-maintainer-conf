@@ -3,8 +3,8 @@ oca-addons-repo-template:
   category: Oca
   default_branch: master
   name: Oca repository template
-  psc: core-maintainers
-  psc_rep: core-maintainers-psc-representative
+  psc: community-maintainers
+  psc_rep: community-maintainers-psc-representative
 oca-ci:
   branches: []
   category: Oca
@@ -23,8 +23,8 @@ oca-custom:
   category: Oca
   default_branch: "14.0"
   name: Custom module for oca instance
-  psc: core-maintainers
-  psc_rep: core-maintainers-psc-representative
+  psc: board
+  psc_rep: board
 oca-decorators:
   branches: []
   category: Oca
@@ -37,15 +37,15 @@ oca-github-bot:
   category: Oca
   default_branch: master
   name: The github bot of the odoo community association (oca)
-  psc: core-maintainers
-  psc_rep: core-maintainers-psc-representative
+  psc: board
+  psc_rep: board
 oca-port:
   branches: []
   category: Oca
   default_branch: main
   name: Tool for porting odoo modules changes from one version to another
-  psc: core-maintainers
-  psc_rep: core-maintainers-psc-representative
+  psc: community-maintainers
+  psc_rep: community-maintainers-psc-representative
 oca-weblate-deployment:
   branches: []
   category: Oca

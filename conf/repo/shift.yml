@@ -3,8 +3,9 @@ shift-planning:
     - "12.0"
     - "14.0"
     - "16.0"
+    - "17.0"
   category: Shift
   default_branch: "12.0"
   name: Shift Planning
-  psc: core-maintainers
+  psc: cooperative-maintainers
   psc_rep: cooperative-maintainers-psc-representative

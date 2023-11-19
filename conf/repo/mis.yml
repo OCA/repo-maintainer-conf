@@ -10,6 +10,7 @@ mis-builder:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Mis
   default_branch: "16.0"
   name:
@@ -28,10 +29,11 @@ mis-builder-contrib:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Mis
   default_branch: "16.0"
   name:
     Modules that provide additional features on top of mis builder. a kind of
     incubator for mis builder features that may land in the core in the future.
-  psc: core-maintainers
-  psc_rep: core-maintainers-psc-representative
+  psc: accounting-maintainers
+  psc_rep: accounting-maintainers-psc-representative

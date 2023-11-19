@@ -9,6 +9,7 @@ intrastat-extrastat:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Intrastat
   default_branch: "16.0"
   name: Intrastat Extrastat

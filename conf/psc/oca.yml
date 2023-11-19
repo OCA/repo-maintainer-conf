@@ -5,5 +5,22 @@ oca-apps-store:
     - elicoidal
     - astirpe
     - espo-tony
-  name: OCA Apps Store
+  name: Oca Apps Store
   representatives: []
+oca-consultants:
+  members:
+    - lfreeke
+    - gva-acsone
+    - TumbaoJu
+  name: Consultants and other functional oriented people
+  representatives:
+    - gurneyalex
+    - CharlineDumontet
+    - vdewulf
+    - francesco-ooops
+    - Ylemoing
+oca-consultants-admin:
+  members: []
+  name: Project administrators for the oca consultants projects
+  representatives:
+    - gurneyalex

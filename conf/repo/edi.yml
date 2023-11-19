@@ -9,6 +9,7 @@ edi:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Edi
   default_branch: "14.0"
   name: Edi
@@ -19,6 +20,7 @@ edi-framework:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
   category: Edi
   default_branch: "16.0"
   name: Edi Framework

@@ -3,8 +3,8 @@ maintainer-quality-tools:
   category: Maintainer
   default_branch: master
   name: Qa tools for odoo maintainers
-  psc: core-maintainers
-  psc_rep: core-maintainers-psc-representative
+  psc: community-maintainers
+  psc_rep: community-maintainers-psc-representative
 maintainer-tools:
   branches: []
   category: Maintainer
@@ -12,5 +12,5 @@ maintainer-tools:
   name:
     Odoo maintainers tools & conventions for oca members which evaluate and maintain
     repositories.
-  psc: core-maintainers
-  psc_rep: core-maintainers-psc-representative
+  psc: community-maintainers
+  psc_rep: community-maintainers-psc-representative
