@@ -355,7 +355,7 @@ l10n-iran:
     - "16.0"
     - "17.0"
   category: L10n
-  default_branch: "16.0"
+  default_branch: "17.0"
   name: Odoo localization for iran
   psc: local-iran-maintainers
   psc_rep: local-iran-maintainers-psc-representative
