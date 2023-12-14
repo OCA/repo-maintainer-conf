@@ -349,6 +349,7 @@ local-macedonia-maintainers-psc-representative:
 local-mexico-maintainers:
   members:
     - nhomar
+    - smaciasosi
   name: Mexican maintainers for localization
   representatives: []
 local-mexico-maintainers-psc-representative:
