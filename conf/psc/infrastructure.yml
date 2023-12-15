@@ -1,5 +1,4 @@
 infrastructure-maintainer:
-  members:
-    - elicoidal
+  members: []
   name: Maintainer of the infrastructure repositories
   representatives: []

@@ -58,7 +58,6 @@ connector-maintainers-psc-representative:
 connector-odoo2odoo:
   members:
     - ajite
-    - elicoidal
     - maljac
   name:
     Team dedicated to inter Company operations (icops) using odoo Connector technology

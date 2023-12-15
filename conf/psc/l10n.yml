@@ -100,13 +100,11 @@ local-chile-maintainers-psc-representative:
   name: Local chile maintainers psc representative
   representatives: []
 local-china-maintainers:
-  members:
-    - elicoidal
+  members: []
   name: Local china maintainers
   representatives: []
 local-china-maintainers-psc-representative:
-  members:
-    - elicoidal
+  members: []
   name: Local china maintainers psc representative
   representatives: []
 local-colombia-maintainers:
@@ -524,7 +522,6 @@ local-turkey-maintainers-psc-representative:
   representatives: []
 local-uk-maintainers:
   members:
-    - elicoidal
     - nuria-opusvl
   name: United kingdom localization team
   representatives: []
