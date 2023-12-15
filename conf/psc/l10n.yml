@@ -211,7 +211,6 @@ local-france-maintainers-psc-representative:
   representatives: []
 local-germany-maintainers:
   members:
-    - OSguard
     - tv-openbig
   name: Local germany maintainers
   representatives: []

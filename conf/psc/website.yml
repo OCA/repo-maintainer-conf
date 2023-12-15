@@ -3,7 +3,6 @@ website-maintainers:
     - nhomar
     - guewen
     - yajo
-    - OSguard
     - antespi
     - hbrunn
     - pedrobaeza
@@ -14,7 +13,6 @@ website-maintainers:
   representatives:
     - simahawk
 website-maintainers-psc-representative:
-  members:
-    - OSguard
+  members: []
   name: Website maintainers psc representative
   representatives: []

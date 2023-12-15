@@ -31,7 +31,6 @@ connector-lims-maintainers-psc-representative:
 connector-magento-maintainers:
   members:
     - guewen
-    - OSguard
   name: Connector magento maintainers
   representatives:
     - simahawk
