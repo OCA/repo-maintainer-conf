@@ -151,7 +151,6 @@ local-ecuador-maintainers-psc-representative:
   representatives: []
 local-el-salvador-maintainers:
   members:
-    - Capriatto
     - JoanMarin
     - lauracvilla-zz
   name: El salvador localization maintainers
