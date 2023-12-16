@@ -275,7 +275,6 @@ local-italy-developers:
     - sergiocorato
     - scigghia
     - MarcoCalcagni
-    - labaggio
     - francesco-ooops
   name:
     Team only used for notifications. see https://github.com/oca/l10n Italy/wiki/team
@@ -292,7 +291,6 @@ local-italy-maintainers:
     - tafaRU
     - sergiocorato
     - alessandrocamilli
-    - labaggio
     - francesco-ooops
   name: Local italy maintainers
   representatives: []
