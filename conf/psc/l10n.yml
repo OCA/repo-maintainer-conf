@@ -118,13 +118,11 @@ local-colombia-maintainers-psc-representative:
   name: Local colombia maintainers psc representative
   representatives: []
 local-costa-rica-maintainers:
-  members:
-    - carlosrve
+  members: []
   name: Local costa Rica maintainers
   representatives: []
 local-costa-rica-maintainers-psc-representative:
-  members:
-    - carlosrve
+  members: []
   name: Local costa Rica maintainers psc representative
   representatives: []
 local-croatia-maintainers:
