@@ -1,7 +1,6 @@
 role-policy-maintainers:
   members:
     - joaoalf
-    - mmalorni
     - pankk
     - luc-demeyer
   name: Role policy maintainers

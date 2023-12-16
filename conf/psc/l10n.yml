@@ -77,7 +77,6 @@ local-cambodia-maintainers-psc-representative:
 local-canada-maintainers:
   members:
     - joaoalf
-    - mmalorni
   name: Local canada maintainers
   representatives: []
 local-canada-maintainers-psc-representative:
@@ -342,13 +341,11 @@ local-mexico-maintainers-psc-representative:
   representatives: []
 local-morocco-maintainers:
   members:
-    - mbelaid
     - redarouichi
   name: Local morocco maintainers
   representatives: []
 local-morocco-maintainers-psc-representative:
-  members:
-    - mbelaid
+  members: []
   name: Local morocco maintainers psc representative
   representatives: []
 local-netherlands-maintainers:
