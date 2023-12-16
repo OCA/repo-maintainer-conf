@@ -105,7 +105,6 @@ vertical-isp-maintainers-psc-representative:
 vertical-medical-maintainers:
   members:
     - nhomar
-    - rgarnau
     - etobella
   name: Vertical medical maintainers
   representatives: []
