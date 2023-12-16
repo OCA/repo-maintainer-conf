@@ -349,7 +349,6 @@ local-mexico-maintainers-psc-representative:
 local-morocco-maintainers:
   members:
     - mbelaid
-    - ierrajai
     - redarouichi
   name: Local morocco maintainers
   representatives: []
