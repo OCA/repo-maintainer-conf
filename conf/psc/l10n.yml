@@ -139,12 +139,10 @@ local-croatia-maintainers-psc-representative:
 local-ecuador-maintainers:
   members:
     - celm1990
-    - coodec
   name: Local ecuador maintainers
   representatives: []
 local-ecuador-maintainers-psc-representative:
-  members:
-    - coodec
+  members: []
   name: Local ecuador maintainers psc representative
   representatives: []
 local-el-salvador-maintainers:
