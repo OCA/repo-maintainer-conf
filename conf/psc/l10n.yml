@@ -498,8 +498,7 @@ local-turkey-maintainers-psc-representative:
   name: Local turkey maintainers psc representative
   representatives: []
 local-uk-maintainers:
-  members:
-    - nuria-opusvl
+  members: []
   name: United kingdom localization team
   representatives: []
 local-ukraine-maintainers:
