@@ -253,13 +253,11 @@ local-indonesia-maintainers-psc-representative:
   representatives: []
 local-iran-maintainers:
   members:
-    - duanyp1991
     - saeed-raeisi
   name: Local iran maintainers
   representatives: []
 local-iran-maintainers-psc-representative:
-  members:
-    - duanyp1991
+  members: []
   name: Local iran maintainers psc representative
   representatives: []
 local-ireland-maintainers:
