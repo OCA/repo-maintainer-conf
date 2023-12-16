@@ -33,18 +33,15 @@ vertical-association-maintainers-psc-representative:
   name: Vertical association maintainers psc representative
   representatives: []
 vertical-community-maintainers:
-  members:
-    - YannickB
+  members: []
   name: Vertical community maintainers
   representatives: []
 vertical-community-maintainers-project-leader:
-  members:
-    - YannickB
+  members: []
   name: Vertical community maintainers project leader
   representatives: []
 vertical-community-maintainers-psc-representative:
-  members:
-    - YannickB
+  members: []
   name: Vertical community maintainers psc representative
   representatives: []
 vertical-construction-maintainers:
