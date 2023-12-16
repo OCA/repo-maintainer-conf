@@ -144,7 +144,6 @@ local-ecuador-maintainers-psc-representative:
 local-el-salvador-maintainers:
   members:
     - JoanMarin
-    - lauracvilla-zz
   name: El salvador localization maintainers
   representatives:
     - grottas
