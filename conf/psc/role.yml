@@ -4,7 +4,6 @@ role-policy-maintainers:
     - fblauer
     - mmalorni
     - pankk
-    - EvvFoxy
     - luc-demeyer
   name: Role policy maintainers
   representatives: []
