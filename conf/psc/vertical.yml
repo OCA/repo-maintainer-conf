@@ -41,8 +41,7 @@ vertical-community-maintainers-project-leader:
   members:
     - YannickB
   name: Vertical community maintainers project leader
-  representatives:
-    - jgrandguillaume
+  representatives: []
 vertical-community-maintainers-psc-representative:
   members:
     - YannickB
@@ -119,7 +118,6 @@ vertical-ngo-maintainers:
   members: []
   name: Vertical ngo maintainers
   representatives:
-    - jgrandguillaume
     - gurneyalex
 vertical-ngo-maintainers-psc-representative:
   members: []

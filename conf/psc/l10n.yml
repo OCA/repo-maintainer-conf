@@ -182,8 +182,7 @@ local-finland-maintainers-project-leader:
   members:
     - jarmokortetjarvi
   name: Local finland maintainers project leader
-  representatives:
-    - jgrandguillaume
+  representatives: []
 local-finland-maintainers-psc-representative:
   members: []
   name: Local finland maintainers psc representative
@@ -210,8 +209,7 @@ local-germany-maintainers-project-leader:
   members:
     - tv-openbig
   name: Local germany maintainers project leader
-  representatives:
-    - jgrandguillaume
+  representatives: []
 local-germany-maintainers-psc-representative:
   members:
     - tv-openbig
@@ -470,8 +468,7 @@ local-switzerland-maintainers:
     - fclementic2c
     - ecino
   name: Local switzerland maintainers
-  representatives:
-    - jgrandguillaume
+  representatives: []
 local-switzerland-maintainers-psc-representative:
   members:
     - yvaucher
