@@ -339,8 +339,7 @@ local-mexico-maintainers-psc-representative:
   name: Local mexico maintainers psc representative
   representatives: []
 local-morocco-maintainers:
-  members:
-    - redarouichi
+  members: []
   name: Local morocco maintainers
   representatives: []
 local-morocco-maintainers-psc-representative:
