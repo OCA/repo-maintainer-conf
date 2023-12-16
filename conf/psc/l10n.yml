@@ -78,7 +78,6 @@ local-cambodia-maintainers-psc-representative:
 local-canada-maintainers:
   members:
     - joaoalf
-    - fblauer
     - mmalorni
   name: Local canada maintainers
   representatives: []
