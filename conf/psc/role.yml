@@ -1,13 +1,8 @@
 role-policy-maintainers:
   members:
     - joaoalf
-    - fblauer
-    - mmalorni
-    - Ehtaga
     - pankk
-    - EvvFoxy
     - luc-demeyer
-    - ddico
   name: Role policy maintainers
   representatives: []
 role-policy-maintainers-psc-representative:

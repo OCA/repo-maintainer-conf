@@ -67,7 +67,6 @@ connector-prestashop-maintainers:
     - flachica
     - arthru
     - sebastienbeau
-    - FFernandez-PlanetaTIC
   name: Connector prestashop maintainers
   representatives:
     - simahawk
@@ -83,7 +82,6 @@ connector-saleforce-maintainers:
     - yvaucher
   name: Connector saleforce maintainers
   representatives:
-    - jgrandguillaume
     - gurneyalex
 connector-spscommerce:
   members:

@@ -33,25 +33,20 @@ vertical-association-maintainers-psc-representative:
   name: Vertical association maintainers psc representative
   representatives: []
 vertical-community-maintainers:
-  members:
-    - YannickB
+  members: []
   name: Vertical community maintainers
   representatives: []
 vertical-community-maintainers-project-leader:
-  members:
-    - YannickB
+  members: []
   name: Vertical community maintainers project leader
-  representatives:
-    - jgrandguillaume
+  representatives: []
 vertical-community-maintainers-psc-representative:
-  members:
-    - YannickB
+  members: []
   name: Vertical community maintainers psc representative
   representatives: []
 vertical-construction-maintainers:
   members:
     - max3903
-    - mathi123
   name: Vertical construction maintainers
   representatives: []
 vertical-construction-maintainers-psc-representative:
@@ -107,7 +102,6 @@ vertical-isp-maintainers-psc-representative:
 vertical-medical-maintainers:
   members:
     - nhomar
-    - rgarnau
     - etobella
   name: Vertical medical maintainers
   representatives: []
@@ -119,7 +113,6 @@ vertical-ngo-maintainers:
   members: []
   name: Vertical ngo maintainers
   representatives:
-    - jgrandguillaume
     - gurneyalex
 vertical-ngo-maintainers-psc-representative:
   members: []
@@ -162,7 +155,6 @@ vertical-rental-psc-representative:
 vertical-travel-maintainers:
   members:
     - max3903
-    - plamarche
   name: Vertical travel maintainers
   representatives: []
 vertical-travel-maintainers-psc-representative:
