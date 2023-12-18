@@ -31,7 +31,6 @@ connector-lims-maintainers-psc-representative:
 connector-magento-maintainers:
   members:
     - guewen
-    - OSguard
   name: Connector magento maintainers
   representatives:
     - simahawk
@@ -58,7 +57,6 @@ connector-maintainers-psc-representative:
 connector-odoo2odoo:
   members:
     - ajite
-    - elicoidal
     - maljac
   name:
     Team dedicated to inter Company operations (icops) using odoo Connector technology
