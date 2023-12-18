@@ -147,14 +147,12 @@ local-el-salvador-maintainers:
 local-estonia-maintainers:
   members:
     - alexey-pelykh
-    - okuryan
     - veryberry
     - nedaszilinskas
   name: Local estonia maintainers
   representatives: []
 local-estonia-maintainers-psc-representative:
-  members:
-    - okuryan
+  members: []
   name: Local estonia maintainers psc representative
   representatives: []
 local-ethiopia-maintainers:
@@ -252,13 +250,11 @@ local-iran-maintainers-psc-representative:
   name: Local iran maintainers psc representative
   representatives: []
 local-ireland-maintainers:
-  members:
-    - okuryan
+  members: []
   name: Local ireland maintainers
   representatives: []
 local-ireland-maintainers-psc-representative:
-  members:
-    - okuryan
+  members: []
   name: Local ireland maintainers psc representative
   representatives: []
 local-italy-developers:
