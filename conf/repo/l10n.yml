@@ -83,6 +83,15 @@ l10n-brazil:
   name: "Localiza\xE7\xE3o brasileira oficial do odoo."
   psc: local-brazil-maintainers
   psc_rep: local-brazil-maintainers-psc-representative
+l10n-bulgaria:
+  branches:
+    - "16.0"
+    - "17.0"
+  category: L10n
+  default_branch: "16.0"
+  name: Odoo bulgarian localization
+  psc: local-bulgaria-maintainers
+  psc_rep: local-bulgaria-maintainers-psc-representative
 l10n-cambodia:
   branches:
     - "14.0"
