@@ -88,7 +88,7 @@ repo/interface.yml: 34e9e69d80c6ff49df98dc80d7a77b6d
 repo/intrastat.yml: f7026cec67053c5f4d9fe655a40e5204
 repo/iot.yml: 36d85c05591d599838e2538ce3cfb623
 repo/knowledge.yml: 4d3eb1d7f099875c1c6186acf7c5ad05
-repo/l10n.yml: 00d5539140f2570a61ebc6be19707b4b
+repo/l10n.yml: cb9208d7b96c1fae608ce2e6a5e6f342
 repo/logistics.yml: e1fd4db57ef660abd2f702e4b5afe71b
 repo/maintainer.yml: 3e72d657f1f450e811cb7857f18609f0
 repo/maintenance.yml: effc446cd9eaba12caa3c4027de7e02d
