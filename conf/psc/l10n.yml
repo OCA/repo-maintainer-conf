@@ -60,7 +60,7 @@ local-brazil-maintainers-psc-representative:
   name: Local brazil maintainers psc representative
   representatives: []
 local-bulgaria-maintainers:
-  members: 
+  members:
     - rosenvladimirov
   name: Bulgarian locales
   representatives: []
