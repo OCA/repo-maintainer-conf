@@ -91,6 +91,7 @@ connector-spscommerce:
 connector-telephony-maintainers:
   members:
     - alexis-via
+    - nimarosa
   name: Connector telephony maintainers
   representatives: []
 connector-telephony-maintainers-psc-representative:
