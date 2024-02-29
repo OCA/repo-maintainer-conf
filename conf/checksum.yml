@@ -128,7 +128,7 @@ repo/sentinel.yml: ae6017f0942746e0d3a93aa71b3f3dd9
 repo/server.yml: 1b9b3930534fc4bc2dafbde3dea0be49
 repo/shift.yml: 76139a4e26868c8fe04267604d6535f5
 repo/sign.yml: 723c76f98f5ebbc8d116659b9d7cf3ae
-repo/social.yml: fe50721b8e96e664727bf377cc041928
+repo/social.yml: 23d0d4cd449cf0fceb924617929f36b5
 repo/sphinx.yml: 3f90aadd0f73d10972310d334d8e87af
 repo/spreadsheet.yml: c33d458281534ca69a40240331cf472d
 repo/storage.yml: 25fdd66765b93a1db8d74c4e88615e5c
