@@ -216,7 +216,7 @@ l10n-ecuador:
     - "16.0"
     - "17.0"
   category: L10n
-  default_branch: "15.0"
+  default_branch: "17.0"
   name: Odoo localization for ecuador
   psc: local-ecuador-maintainers
   psc_rep: local-ecuador-maintainers-psc-representative
