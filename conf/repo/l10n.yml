@@ -629,7 +629,7 @@ l10n-spain:
     - "16.0"
     - "17.0"
   category: L10n
-  default_branch: "16.0"
+  default_branch: "17.0"
   name: Odoo spain localization
   psc: local-spain-maintainers
   psc_rep: local-spain-maintainers-psc-representative
