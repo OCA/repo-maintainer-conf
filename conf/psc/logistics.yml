@@ -19,3 +19,14 @@ logistics-maintainers-psc-representative:
     - rousseldenis
   name: Logistics maintainers psc representative
   representatives: []
+stock-weighing-maintainers:
+  members:
+    - chienandalu
+    - pedrobaeza
+  name: Stock weighing editors
+  representatives: []
+stock-weighing-maintainers-psc-representative:
+  members:
+    - pedrobaeza
+  name: Stock weighing maintainers psc representative
+  representatives: []
