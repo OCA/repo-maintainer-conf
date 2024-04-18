@@ -145,6 +145,16 @@ stock-logistics-workflow:
   name: Odoo stock, workflow and organization
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
+stock-weighing:
+  branches:
+    - "15.0"
+    - "16.0"
+    - "17.0"
+  category: Stock
+  default_branch: "15.0"
+  name: Shopfloor for weighing operations
+  psc: stock-weighing
+  psc_rep: stock-weighing-psc-representative
 wms:
   branches:
     - "10.0"
