@@ -27,7 +27,7 @@ psc/intercompany.yml: bfc0c8895c7889824f93ff6cdb285b56
 psc/intrastat.yml: e1cd6196a90bc203ed9c110804a886b0
 psc/iot.yml: f1b80feb1e0e915d120890d6117a0d52
 psc/l10n.yml: f177174c7798b9a95ed646c70ff213eb
-psc/logistics.yml: 608e86f1f8e10f1ac0c31952192f8912
+psc/logistics.yml: 650a2fed8dce2c9d4510b82ac779d543
 psc/maintenance.yml: 446bfef5e010985c1b87244c4710431e
 psc/management.yml: 89941c96f1fe8439c7ffd77b3bd4ea86
 psc/manufacturing.yml: ad721a9fff424cc71bf0b341f7ccad41
@@ -89,7 +89,7 @@ repo/intrastat.yml: f7026cec67053c5f4d9fe655a40e5204
 repo/iot.yml: 36d85c05591d599838e2538ce3cfb623
 repo/knowledge.yml: 4d3eb1d7f099875c1c6186acf7c5ad05
 repo/l10n.yml: 5de9caabde83b0e9e18de09228f2b02b
-repo/logistics.yml: e1fd4db57ef660abd2f702e4b5afe71b
+repo/logistics.yml: 07f31994504926afd7672870659c7d0f
 repo/maintainer.yml: 3e72d657f1f450e811cb7857f18609f0
 repo/maintenance.yml: effc446cd9eaba12caa3c4027de7e02d
 repo/management.yml: b30fb15201e3d6311c8acbbb69304f47
