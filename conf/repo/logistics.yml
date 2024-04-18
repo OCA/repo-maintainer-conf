@@ -153,8 +153,8 @@ stock-weighing:
   category: Stock
   default_branch: "15.0"
   name: Shopfloor for weighing operations
-  psc: stock-weighing
-  psc_rep: stock-weighing-psc-representative
+  psc: stock-weighing-maintainers
+  psc_rep: stock-weighing-maintainers-psc-representative
 wms:
   branches:
     - "10.0"
