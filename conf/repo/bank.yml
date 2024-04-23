@@ -15,7 +15,7 @@ bank-payment:
     - "16.0"
     - "17.0"
   category: Bank
-  default_branch: "14.0"
+  default_branch: "16.0"
   name: Odoo electronic payment
   psc: banking-maintainers
   psc_rep: banking-maintainers-psc-representative
@@ -33,7 +33,7 @@ bank-statement-import:
     - "16.0"
     - "17.0"
   category: Bank
-  default_branch: "14.0"
+  default_branch: "16.0"
   name: Bank import addons
   psc: banking-maintainers
   psc_rep: banking-maintainers-psc-representative
