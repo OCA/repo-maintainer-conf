@@ -12,7 +12,7 @@ community-data-files:
     - "16.0"
     - "17.0"
   category: Community
-  default_branch: "14.0"
+  default_branch: "17.0"
   name: Community Data Files
   psc: tools-maintainers
   psc_rep: tools-maintainers-psc-representative
