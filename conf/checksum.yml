@@ -70,7 +70,7 @@ repo/crm.yml: 0c1a29428ced14d43a408ed1edbeb0c7
 repo/currency.yml: a053a22f958937db4720aa912d43b61e
 repo/data.yml: 653c43da13f814dc0a19d340c93a8219
 repo/ddmrp.yml: eff88deedbdbb92e789ec35439ffd9e4
-repo/delivery.yml: 541e84378f312f3c9eadf1f75e840a4f
+repo/delivery.yml: 65d77d05e6a43771b4fe9afe5dfe9148
 repo/department.yml: baaadd3d517e5821885565ad42c76720
 repo/dms.yml: fc81ebce7f7e47dc94974fde86308b61
 repo/donation.yml: 4037b914260cb6f138dc8ca9c9bfb920
