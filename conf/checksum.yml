@@ -82,7 +82,7 @@ repo/field.yml: f47ab1d4d47289cdd3f07e3cd00cc681
 repo/fleet.yml: 4b404d5072d0036ecea152ce227fa44a
 repo/geospatial.yml: e53b75d842925563c07f5a923a6e0782
 repo/helpdesk.yml: 4542429b05e267d8d5c7807b729ff8d6
-repo/hr.yml: e4a3d5903b8ef9fbc4b2d29ede1575af
+repo/hr.yml: 9c2c2be8accc5921f800e71ac9f517c2
 repo/infrastructure.yml: 7dcc0b214f5e71b83fc9421668fd578a
 repo/interface.yml: 34e9e69d80c6ff49df98dc80d7a77b6d
 repo/intrastat.yml: f7026cec67053c5f4d9fe655a40e5204
