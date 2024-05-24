@@ -13,7 +13,7 @@ hr:
     - "16.0"
     - "17.0"
   category: Hr
-  default_branch: "14.0"
+  default_branch: "17.0"
   name: Odoo human resources addons
   psc: human-resources-maintainers
   psc_rep: human-resources-maintainers-psc-representative
