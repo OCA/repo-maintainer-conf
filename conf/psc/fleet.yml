@@ -1,6 +1,7 @@
 fleet-maintainers:
   members:
     - ivantodorovich
+    - marcelsavegnago
   name: Fleet maintainers
   representatives:
     - simahawk
