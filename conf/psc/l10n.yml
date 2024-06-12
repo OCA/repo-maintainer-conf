@@ -273,9 +273,9 @@ local-italy-developers:
     - scigghia
     - MarcoCalcagni
     - francesco-ooops
-  name:
-    Team only used for notifications. see https://github.com/oca/l10n Italy/wiki/team
-    Di Sviluppo
+    - SirAionTech
+  name: Team only used for notifications.
+    See https://github.com/OCA/l10n-italy/wiki/Team-di-sviluppo
   representatives:
     - eLBati
 local-italy-maintainers:
@@ -289,6 +289,7 @@ local-italy-maintainers:
     - sergiocorato
     - alessandrocamilli
     - francesco-ooops
+    - SirAionTech
   name: Local italy maintainers
   representatives: []
 local-italy-maintainers-psc-representative:
