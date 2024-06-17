@@ -81,7 +81,7 @@ repo/event.yml: 1ccf02628cbce3b672cd052bf24895ea
 repo/field.yml: f47ab1d4d47289cdd3f07e3cd00cc681
 repo/fleet.yml: 4b404d5072d0036ecea152ce227fa44a
 repo/geospatial.yml: e53b75d842925563c07f5a923a6e0782
-repo/helpdesk.yml: 4542429b05e267d8d5c7807b729ff8d6
+repo/helpdesk.yml: 491df902eaac9dd1b7412136337fc8b4
 repo/hr.yml: 774ed3b6c9c3953a058c639ff004d7c8
 repo/infrastructure.yml: 7dcc0b214f5e71b83fc9421668fd578a
 repo/interface.yml: 34e9e69d80c6ff49df98dc80d7a77b6d
