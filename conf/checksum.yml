@@ -112,7 +112,7 @@ repo/pms.yml: 440b6519921caff5cde2a3f1450fd246
 repo/pos.yml: ee25371bbbb0a1fcb9c64e4ed3cb0ee8
 repo/product.yml: bbf40356e3ddd507d28d727c7dce6dca
 repo/program.yml: 40eb732dcd7bab4cbb5b8d0ca0473fa6
-repo/project.yml: 0a725d1f37b42ba329543b5f5c89fb4f
+repo/project.yml: bb0c3913fd0e58a3e3896b68a62ad959
 repo/purchase.yml: 5fe8f6abdf0d54d567441cb80e146eeb
 repo/pwa.yml: 38bef012fc558b3bb8dd3c182696fb02
 repo/queue.yml: 17fa027f9c6eb6dc61bf1ca24b6fed05
