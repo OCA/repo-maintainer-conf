@@ -13,7 +13,7 @@ project:
     - "16.0"
     - "17.0"
   category: Project
-  default_branch: "14.0"
+  default_branch: "17.0"
   name: Odoo project management and services company addons
   psc: project-service-maintainers
   psc_rep: project-service-maintainers-psc-representative
