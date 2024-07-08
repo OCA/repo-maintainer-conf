@@ -203,7 +203,7 @@ account-reconcile:
     - "16.0"
     - "17.0"
   category: Account
-  default_branch: "14.0"
+  default_branch: "16.0"
   name: Odoo account reconciliation modules (statements, data completion...)
   psc: banking-maintainers
   psc_rep: banking-maintainers-psc-representative
