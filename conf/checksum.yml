@@ -122,7 +122,7 @@ repo/rest.yml: 7bef4801f61e7085a6e49eee30fb10a4
 repo/rma.yml: b9c10739d38b7f4364627e4fb757242d
 repo/role.yml: fe15093f759fb896f1b1f747a5210d3e
 repo/runbot.yml: b43ce52b9f3e211b8ea79567f34cef9c
-repo/sale.yml: 87524cdf649cef355d4f2d97492c4846
+repo/sale.yml: 61749b28539bc0589c91148d3a50fae8
 repo/search.yml: 9a426ad75d8085cb7cd556ffa17f298a
 repo/sentinel.yml: ae6017f0942746e0d3a93aa71b3f3dd9
 repo/server.yml: 1b9b3930534fc4bc2dafbde3dea0be49
