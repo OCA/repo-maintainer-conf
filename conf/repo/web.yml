@@ -28,3 +28,14 @@ web-api:
   name: Web Api
   psc: board
   psc_rep: board
+web-api-contrib:
+  branches:
+    - "14.0"
+    - "15.0"
+    - "16.0"
+    - "17.0"
+  category: Web
+  default_branch: "14.0"
+  name: Web API contrib
+  psc: board
+  psc_rep: board
