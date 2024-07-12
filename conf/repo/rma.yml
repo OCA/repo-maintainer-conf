@@ -14,7 +14,7 @@ rma:
     - "16.0"
     - "17.0"
   category: Rma
-  default_branch: "14.0"
+  default_branch: "16.0"
   name: Odoo for return merchandise authorization (rma)
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
