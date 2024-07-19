@@ -39,7 +39,7 @@ server-brand:
     - "16.0"
     - "17.0"
   category: Server
-  default_branch: "12.0"
+  default_branch: "17.0"
   name: Server Brand
   psc: tools-maintainers
   psc_rep: tools-maintainers-psc-representative
