@@ -21,12 +21,12 @@ psc/field.yml: 7c07c7cacf4e57e4e0877468c6cd32e7
 psc/fleet.yml: 0ea7df237bbccdbfde9ef865926efb1d
 psc/geospatial.yml: c0c39ec5e967d078a7e09f13cde759dc
 psc/helpdesk.yml: d899f818edf9a41a58dc8a8cbd02fa5f
-psc/human.yml: 16d6e152e5d96ebd80fede33f2a6fe6e
+psc/human.yml: afe7ae36dda3927b71395061080ce825
 psc/infrastructure.yml: c4a567ae54001baed1422a2fb3ab0382
 psc/intercompany.yml: bfc0c8895c7889824f93ff6cdb285b56
 psc/intrastat.yml: e1cd6196a90bc203ed9c110804a886b0
 psc/iot.yml: f1b80feb1e0e915d120890d6117a0d52
-psc/l10n.yml: b0df281ac8cb8ea2bef9c74a870826fc
+psc/l10n.yml: 67c7d0a2dcebc7f62c0c38238bab7ea7
 psc/logistics.yml: 650a2fed8dce2c9d4510b82ac779d543
 psc/maintenance.yml: 446bfef5e010985c1b87244c4710431e
 psc/management.yml: 89941c96f1fe8439c7ffd77b3bd4ea86
@@ -49,7 +49,7 @@ psc/social.yml: 325174e22a340e51c806b148c0f9ae79
 psc/storage.yml: ea554c101ded7980d7c3f7142b8603e9
 psc/tools.yml: e4ace7778a67bf035637878901af45b6
 psc/vertical.yml: f9a3dfeed5369f74275858850219e2e8
-psc/web.yml: db9425d2272fcca3ab751ddedff13c8c
+psc/web.yml: 853317c3f35f93cc2d1a96afe02b28e1
 psc/website.yml: 312d214b1cd00a922b122ab2af7167e6
 repo/account.yml: f30143b870bfc82ba469e58656287c14
 repo/agreement.yml: 9f2a328fdd13a0361b90c28170276306
@@ -125,7 +125,7 @@ repo/runbot.yml: b43ce52b9f3e211b8ea79567f34cef9c
 repo/sale.yml: 61749b28539bc0589c91148d3a50fae8
 repo/search.yml: 9a426ad75d8085cb7cd556ffa17f298a
 repo/sentinel.yml: ae6017f0942746e0d3a93aa71b3f3dd9
-repo/server.yml: 1b9b3930534fc4bc2dafbde3dea0be49
+repo/server.yml: 3edd2fd2894e981b0a381a385348ebfe
 repo/shift.yml: 76139a4e26868c8fe04267604d6535f5
 repo/sign.yml: 723c76f98f5ebbc8d116659b9d7cf3ae
 repo/social.yml: 23d0d4cd449cf0fceb924617929f36b5
