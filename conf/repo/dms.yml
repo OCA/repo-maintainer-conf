@@ -7,7 +7,7 @@ dms:
     - "16.0"
     - "17.0"
   category: Dms
-  default_branch: "15.0"
+  default_branch: "17.0"
   name: Odoo modules for a document management system
   psc: document-maintainers
   psc_rep: document-maintainers-psc-representative
