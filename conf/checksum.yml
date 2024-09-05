@@ -118,6 +118,7 @@ repo/pwa.yml: 38bef012fc558b3bb8dd3c182696fb02
 repo/queue.yml: 17fa027f9c6eb6dc61bf1ca24b6fed05
 repo/repair.yml: 5f7b26fb0901de11c3fc40b32ebacaae
 repo/reporting.yml: 793f009de5ce8cd33e3a3ed344e6cbfa
+repo/resource.yml: efcdc5fdb8c7ac381a6988931f195969
 repo/rest.yml: 7bef4801f61e7085a6e49eee30fb10a4
 repo/rma.yml: da0bd3ffbcb3557b7ee4df03c22cc14d
 repo/role.yml: fe15093f759fb896f1b1f747a5210d3e
