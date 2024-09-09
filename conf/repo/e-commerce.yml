@@ -12,7 +12,7 @@ e-commerce:
     - "15.0"
     - "16.0"
   category: E-commerce
-  default_branch: "14.0"
+  default_branch: "17.0"
   name: Odoo e Commerce server automation addons
   psc: e-commerce-maintainers
   psc_rep: e-commerce-maintainers-psc-representative
