@@ -90,7 +90,7 @@ repo/iot.yml: 36d85c05591d599838e2538ce3cfb623
 repo/knowledge.yml: 4d3eb1d7f099875c1c6186acf7c5ad05
 repo/l10n.yml: 5de9caabde83b0e9e18de09228f2b02b
 repo/logistics.yml: 07f31994504926afd7672870659c7d0f
-repo/maintainer.yml: 3e72d657f1f450e811cb7857f18609f0
+repo/maintainer.yml: 463e3e893523b9314d6ffcb6e7ae5214
 repo/maintenance.yml: effc446cd9eaba12caa3c4027de7e02d
 repo/management.yml: b30fb15201e3d6311c8acbbb69304f47
 repo/manufacture.yml: ac2e42f55e2dc2e1f78af03afe81e71e
