@@ -10,8 +10,9 @@ infrastructure:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Infrastructure
-  default_branch: "13.0"
+  default_branch: "18.0"
   name:
     Odoo modules related to the management of domain name server services within
     network infrastructure

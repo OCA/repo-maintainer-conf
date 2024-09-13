@@ -12,8 +12,9 @@ crm:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Crm
-  default_branch: "15.0"
+  default_branch: "18.0"
   name: Odoo crm, mail & newsletter advanced features
   psc: crm-sales-marketing-maintainers
   psc_rep: crm-sales-marketing-maintainers-psc-representative

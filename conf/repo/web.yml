@@ -12,8 +12,9 @@ web:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Web
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Odoo web client ui related addons
   psc: web-maintainers
   psc_rep: web-maintainers-psc-representative
@@ -23,8 +24,9 @@ web-api:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Web
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Web Api
   psc: board
   psc_rep: board
@@ -34,8 +36,9 @@ web-api-contrib:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Web
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Web API contrib
   psc: board
   psc_rep: board

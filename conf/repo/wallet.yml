@@ -4,8 +4,9 @@ wallet:
     - "14.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Wallet
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Wallet
   psc: accounting-maintainers
   psc_rep: accounting-maintainers-psc-representative

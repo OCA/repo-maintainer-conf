@@ -12,8 +12,9 @@ contract:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Contract
-  default_branch: "17.0"
+  default_branch: "18.0"
   name: Contract
   psc: project-service-maintainers
   psc_rep: project-service-maintainers-psc-representative

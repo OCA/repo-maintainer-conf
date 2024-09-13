@@ -7,8 +7,9 @@ storage:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Storage
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Storage
   psc: storage-maintainers
   psc_rep: storage-maintainers-psc-representative

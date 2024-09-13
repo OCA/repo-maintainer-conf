@@ -12,8 +12,9 @@ geospatial:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Geospatial
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Odoo and gis
   psc: geospatial-maintainers
   psc_rep: geospatial-maintainers-psc-representative

@@ -7,8 +7,9 @@ department:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Department
-  default_branch: "8.0"
+  default_branch: "18.0"
   name: "[deprecated since 9.0] odoo department segregation and management"
   psc: human-resources-maintainers
   psc_rep: human-resources-maintainers-psc-representative

@@ -10,8 +10,9 @@ website:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Website
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Odoo website builder addons
   psc: website-maintainers
   psc_rep: website-maintainers-psc-representative
@@ -27,8 +28,9 @@ website-cms:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Website
-  default_branch: "13.0"
+  default_branch: "18.0"
   name: Cms features for odoo website
   psc: website-maintainers
   psc_rep: website-maintainers-psc-representative
@@ -41,8 +43,9 @@ website-themes:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Website
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Website themes for odoo
   psc: website-maintainers
   psc_rep: website-maintainers-psc-representative

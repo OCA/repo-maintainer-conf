@@ -5,8 +5,9 @@ program:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Program
-  default_branch: "7.0"
+  default_branch: "18.0"
   name: Program
   psc: project-service-maintainers
   psc_rep: project-service-maintainers-psc-representative

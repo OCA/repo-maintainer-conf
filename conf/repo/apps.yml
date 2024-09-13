@@ -8,8 +8,9 @@ apps-store:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Apps
-  default_branch: "15.0"
+  default_branch: "18.0"
   name: Oca apps store module repository
   psc: website-maintainers
   psc_rep: website-maintainers-psc-representative

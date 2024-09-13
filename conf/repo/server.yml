@@ -10,8 +10,9 @@ server-auth:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Server
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Server Auth
   psc: tools-maintainers
   psc_rep: tools-maintainers-psc-representative
@@ -24,8 +25,9 @@ server-backend:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Server
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Server Backend
   psc: tools-maintainers
   psc_rep: tools-maintainers-psc-representative
@@ -38,8 +40,9 @@ server-brand:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Server
-  default_branch: "17.0"
+  default_branch: "18.0"
   name: Server Brand
   psc: tools-maintainers
   psc_rep: tools-maintainers-psc-representative
@@ -72,8 +75,9 @@ server-tools:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Server
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Tools for odoo administrators to improve some technical features on odoo.
   psc: tools-maintainers
   psc_rep: tools-maintainers-psc-representative
@@ -87,8 +91,9 @@ server-ux:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Server
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Server Ux
   psc: tools-maintainers
   psc_rep: tools-maintainers-psc-representative

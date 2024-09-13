@@ -10,8 +10,9 @@ business-requirement:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Business
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Business requirements management via odoo
   psc: project-service-maintainers
   psc_rep: project-service-maintainers-psc-representative

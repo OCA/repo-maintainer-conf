@@ -10,8 +10,9 @@ event:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Event
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Event management addons
   psc: crm-sales-marketing-maintainers
   psc_rep: crm-sales-marketing-maintainers-psc-representative

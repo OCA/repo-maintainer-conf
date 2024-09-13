@@ -8,8 +8,9 @@ maintenance:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Maintenance
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Odoo modules for businesses that implies maintenance tasks
   psc: maintenance-maintainers
   psc_rep: maintenance-maintainers-psc-representative

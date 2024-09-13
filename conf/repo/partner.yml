@@ -12,8 +12,9 @@ partner-contact:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Partner
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Odoo partner and contact related addons
   psc: crm-sales-marketing-maintainers
   psc_rep: crm-sales-marketing-maintainers-psc-representative

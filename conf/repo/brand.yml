@@ -6,8 +6,9 @@ brand:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Brand
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Manage brands for products and companies
   psc: brand-maintainers
   psc_rep: brand-maintainers-psc-representative

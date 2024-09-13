@@ -11,8 +11,9 @@ connector:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Odoo generic connector framework (jobs queue, asynchronous tasks, channels)
   psc: connector-maintainers
   psc_rep: connector-maintainers-psc-representative
@@ -30,8 +31,9 @@ connector-accountedge:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Odoo modules to connect with account edge (aka myob)
   psc: accounting-maintainers
   psc_rep: accounting-maintainers-psc-representative
@@ -47,8 +49,9 @@ connector-cmis:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Cmis connector
   psc: document-maintainers
   psc_rep: document-maintainers-psc-representative
@@ -65,8 +68,9 @@ connector-ecommerce:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Generic module used on odoo for e Commerce industry
   psc: connector-maintainers
   psc_rep: connector-maintainers-psc-representative
@@ -79,8 +83,9 @@ connector-infor:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Odoo modules to integrate with infor
   psc: connector-infor-maintainers
   psc_rep: connector-infor-maintainers-psc-representative
@@ -97,8 +102,9 @@ connector-interfaces:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Odoo generic connector for odbc, .csv,...
   psc: connector-maintainers
   psc_rep: connector-maintainers-psc-representative
@@ -111,8 +117,9 @@ connector-jira:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
-  default_branch: "15.0"
+  default_branch: "18.0"
   name: Connector Jira
   psc: project-service-maintainers
   psc_rep: project-service-maintainers-psc-representative
@@ -126,8 +133,9 @@ connector-lengow:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Connector Lengow
   psc: connector-lengow-maintainers
   psc_rep: connector-lengow-maintainers-psc-representative
@@ -143,8 +151,9 @@ connector-lims:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Connector Lims
   psc: connector-lims-maintainers
   psc_rep: connector-lims-maintainers-psc-representative
@@ -161,8 +170,9 @@ connector-magento:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Connect odoo with magento
   psc: connector-magento-maintainers
   psc_rep: connector-magento-maintainers-psc-representative
@@ -185,8 +195,9 @@ connector-odoo2odoo:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Connector Odoo2odoo. intercompany process, based on odoo Connector
   psc: board
   psc_rep: board
@@ -204,8 +215,9 @@ connector-prestashop:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Connect odoo with prestashop
   psc: connector-prestashop-maintainers
   psc_rep: connector-prestashop-maintainers-psc-representative
@@ -222,8 +234,9 @@ connector-redmine:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Connector redmine (http://redmine.org)
   psc: project-service-maintainers
   psc_rep: project-service-maintainers-psc-representative
@@ -241,8 +254,9 @@ connector-sage:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Connector with sage
   psc: accounting-maintainers
   psc_rep: accounting-maintainers-psc-representative
@@ -259,8 +273,9 @@ connector-salesforce:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Connect salesforce with odoo
   psc: connector-saleforce-maintainers
   psc_rep: board
@@ -274,8 +289,9 @@ connector-spscommerce:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Connector sps commerce
   psc: board
   psc_rep: board
@@ -295,8 +311,9 @@ connector-telephony:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Odoo modules for telephony integration
   psc: connector-telephony-maintainers
   psc_rep: connector-telephony-maintainers-psc-representative
@@ -312,8 +329,9 @@ connector-woocommerce:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Connector Woocommerce
   psc: connector-woocommerce-maintainers
   psc_rep: connector-woocommerce-maintainers-psc-representative

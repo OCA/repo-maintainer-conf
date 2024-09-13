@@ -12,8 +12,9 @@ account-analytic:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Account
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Odoo account analytic related addons
   psc: accounting-maintainers
   psc_rep: accounting-maintainers-psc-representative
@@ -30,8 +31,9 @@ account-budgeting:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Account
-  default_branch: "12.0"
+  default_branch: "18.0"
   name: Account Budgeting
   psc: accounting-maintainers
   psc_rep: accounting-maintainers-psc-representative
@@ -49,8 +51,9 @@ account-closing:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Account
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Odoo accountant closing tools
   psc: accounting-maintainers
   psc_rep: accounting-maintainers-psc-representative
@@ -68,8 +71,9 @@ account-consolidation:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Account
-  default_branch: "12.0"
+  default_branch: "18.0"
   name: Odoo account consolidation addons
   psc: accounting-maintainers
   psc_rep: accounting-maintainers-psc-representative
@@ -88,8 +92,9 @@ account-financial-reporting:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Account
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Financial reports for odoo
   psc: accounting-maintainers
   psc_rep: accounting-maintainers-psc-representative
@@ -107,8 +112,9 @@ account-financial-tools:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Account
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Odoo accountant financial tools and utils
   psc: accounting-maintainers
   psc_rep: accounting-maintainers-psc-representative
@@ -126,8 +132,9 @@ account-fiscal-rule:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Account
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Odoo taxes & fiscal rules management
   psc: accounting-maintainers
   psc_rep: accounting-maintainers-psc-representative
@@ -145,8 +152,9 @@ account-invoice-reporting:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Account
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Odoo invoicing reports
   psc: accounting-maintainers
   psc_rep: accounting-maintainers-psc-representative
@@ -164,8 +172,9 @@ account-invoicing:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Account
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Odoo invoicing extension addons
   psc: accounting-maintainers
   psc_rep: accounting-maintainers-psc-representative
@@ -183,8 +192,9 @@ account-payment:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Account
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Project supervised by the banking psc
   psc: banking-maintainers
   psc_rep: banking-maintainers-psc-representative
@@ -202,8 +212,9 @@ account-reconcile:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Account
-  default_branch: "17.0"
+  default_branch: "18.0"
   name: Odoo account reconciliation modules (statements, data completion...)
   psc: banking-maintainers
   psc_rep: banking-maintainers-psc-representative
