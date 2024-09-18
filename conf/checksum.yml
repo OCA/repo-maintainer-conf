@@ -16,6 +16,7 @@ psc/document.yml: db9a8725218ff4ad2563bde8e0588f2a
 psc/donation.yml: 28bf5696ca9d851c712007c7dd9f70b9
 psc/dotnet.yml: be13078f37554377e66ca7976591cbf0
 psc/e-commerce.yml: a3ac7b751e468a2c28d904a5a323137e
+psc/e-learning.yml: 2ea8673556b03446203df7bfbca49166
 psc/edi.yml: f6ae09518276e3a759de72d5886831a4
 psc/field.yml: 7c07c7cacf4e57e4e0877468c6cd32e7
 psc/fleet.yml: 0ea7df237bbccdbfde9ef865926efb1d
@@ -76,6 +77,7 @@ repo/dms.yml: 425f01ff194335a7456d0b77776f464d
 repo/donation.yml: 4037b914260cb6f138dc8ca9c9bfb920
 repo/dotnet.yml: b22b1ec691e05e956631cd8366761fa3
 repo/e-commerce.yml: 623561204bbccf958b385ad6756650f9
+repo/e-learning.yml: 9ad122b7718019f214b9e5009b7a40ee
 repo/edi.yml: f68803ad14aa2aa87f3e73f347331b96
 repo/event.yml: 1ccf02628cbce3b672cd052bf24895ea
 repo/field.yml: f47ab1d4d47289cdd3f07e3cd00cc681
