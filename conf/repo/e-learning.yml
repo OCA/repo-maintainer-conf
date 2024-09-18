@@ -1,0 +1,10 @@
+e-learning:
+  branches:
+    - "15.0"
+    - "16.0"
+    - "17.0"
+  category: Event
+  default_branch: "17.0"
+  name: E-learning addons
+  psc: e-learning-maintainers
+  psc_rep: e-learning-maintainers-psc-representative
