@@ -102,7 +102,7 @@ repo/mis.yml: e116538eda3d6ed1dd6c28f523692c82
 repo/multi.yml: 24527f47384732cb8f6e9c9b76f27293
 repo/oca.recipe.odoo.yml: 9ef093e3abe33cd7f9efb58311bdcb6b
 repo/oca.yml: 93098fec9feee276d01be3386d459fe1
-repo/ocb.yml: 1864b59bdbe8f50606b6857149cd8a10
+repo/ocb.yml: 3834604f267b78df08067f5491732a3e
 repo/odoo-community.yml: d96efe1006b45935e0770460b6debaba
 repo/odoorpc.yml: 61a6e6e588a33cae15072b2dfa37e587
 repo/openupgrade.yml: 62a74362489916371f95691c5fa3cc60
