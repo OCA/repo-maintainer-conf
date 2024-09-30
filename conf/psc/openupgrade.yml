@@ -13,5 +13,8 @@ openupgrade-maintainers:
 openupgrade-maintainers-psc-representative:
   members:
     - StefanRijnhart
+    - legalsylvain
+    - pedrobaeza
+    - MiquelRForgeFlow
   name: Openupgrade maintainers psc representative
   representatives: []
