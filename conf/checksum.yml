@@ -34,7 +34,7 @@ psc/management.yml: 89941c96f1fe8439c7ffd77b3bd4ea86
 psc/manufacturing.yml: ad721a9fff424cc71bf0b341f7ccad41
 psc/mis.yml: 2f3692f56a5923086dc493727547a600
 psc/oca.yml: fe021e25f708c17fb23a687d0be7e211
-psc/openupgrade.yml: 15c9b2d9f07e47b7b9c2958cc6e056e6
+psc/openupgrade.yml: 3294d16f42803f8fbeea170c8bbfdd12
 psc/payroll.yml: d0371fca8c0d6437ce062827399ba800
 psc/pms.yml: fdb3ace0e34a695e36ee79f505486f11
 psc/pos.yml: 85d5ed7517d80219320abc78d360dace
