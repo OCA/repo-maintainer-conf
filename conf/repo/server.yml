@@ -52,8 +52,9 @@ server-env:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Server
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Tools to manage environment Dependent configuration
   psc: tools-maintainers
   psc_rep: tools-maintainers-psc-representative
