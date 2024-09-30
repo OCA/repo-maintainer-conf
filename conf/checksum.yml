@@ -128,7 +128,7 @@ repo/runbot.yml: b43ce52b9f3e211b8ea79567f34cef9c
 repo/sale.yml: 61749b28539bc0589c91148d3a50fae8
 repo/search.yml: 9a426ad75d8085cb7cd556ffa17f298a
 repo/sentinel.yml: ae6017f0942746e0d3a93aa71b3f3dd9
-repo/server.yml: 3edd2fd2894e981b0a381a385348ebfe
+repo/server.yml: 3fbe74678ccac5347cb9e14186a1db7f
 repo/shift.yml: 76139a4e26868c8fe04267604d6535f5
 repo/sign.yml: 723c76f98f5ebbc8d116659b9d7cf3ae
 repo/social.yml: 23d0d4cd449cf0fceb924617929f36b5
