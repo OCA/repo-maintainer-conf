@@ -98,7 +98,7 @@ repo/management.yml: b30fb15201e3d6311c8acbbb69304f47
 repo/manufacture.yml: ac2e42f55e2dc2e1f78af03afe81e71e
 repo/margin.yml: ffdcebb6b39333b64a2e7c02a22c2884
 repo/mirrors.yml: e031a9121908b0c3fd74225481fee295
-repo/mis.yml: e116538eda3d6ed1dd6c28f523692c82
+repo/mis.yml: 6658ac779830ec1e157234b38d3a0d1d
 repo/multi.yml: 24527f47384732cb8f6e9c9b76f27293
 repo/oca.recipe.odoo.yml: 9ef093e3abe33cd7f9efb58311bdcb6b
 repo/oca.yml: 93098fec9feee276d01be3386d459fe1
@@ -128,13 +128,13 @@ repo/runbot.yml: b43ce52b9f3e211b8ea79567f34cef9c
 repo/sale.yml: 61749b28539bc0589c91148d3a50fae8
 repo/search.yml: 9a426ad75d8085cb7cd556ffa17f298a
 repo/sentinel.yml: ae6017f0942746e0d3a93aa71b3f3dd9
-repo/server.yml: 3fbe74678ccac5347cb9e14186a1db7f
+repo/server.yml: edae3acc95d50f132ecf388f37bae410
 repo/shift.yml: 76139a4e26868c8fe04267604d6535f5
 repo/sign.yml: 723c76f98f5ebbc8d116659b9d7cf3ae
 repo/social.yml: 23d0d4cd449cf0fceb924617929f36b5
 repo/sphinx.yml: 3f90aadd0f73d10972310d334d8e87af
 repo/spreadsheet.yml: c33d458281534ca69a40240331cf472d
-repo/storage.yml: 25fdd66765b93a1db8d74c4e88615e5c
+repo/storage.yml: a872e409b0e1dfcd4488f6013202aece
 repo/survey.yml: 405df379a5a350c95bebc3386117dcfc
 repo/timesheet.yml: 10f84a3207965b3145a3c2111c9daa67
 repo/vertical.yml: 27f3331997d0e67b3f179dc8390aa81a
