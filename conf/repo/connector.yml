@@ -11,6 +11,7 @@ connector:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
   default_branch: "16.0"
   name: Odoo generic connector framework (jobs queue, asynchronous tasks, channels)
@@ -97,6 +98,7 @@ connector-interfaces:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Connector
   default_branch: "16.0"
   name: Odoo generic connector for odbc, .csv,...
