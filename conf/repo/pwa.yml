@@ -2,6 +2,7 @@ pwa-builder:
   branches:
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Pwa
   default_branch: "16.0"
   name: Pwa Builder

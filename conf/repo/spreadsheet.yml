@@ -2,6 +2,7 @@ spreadsheet:
   branches:
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Spreadsheet
   default_branch: "16.0"
   name: Spreadsheet

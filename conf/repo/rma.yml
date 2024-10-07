@@ -13,6 +13,7 @@ rma:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Rma
   default_branch: "16.0"
   name: Odoo for return merchandise authorization (rma)

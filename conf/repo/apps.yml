@@ -8,6 +8,7 @@ apps-store:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Apps
   default_branch: "15.0"
   name: Oca apps store module repository
