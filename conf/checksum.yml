@@ -62,7 +62,7 @@ repo/business.yml: d2bf35097b3ba24e01f837df1ce7fe90
 repo/calendar.yml: f127e3150232e5a17e0fb5e1ddf0a4ed
 repo/commission.yml: 51931640695e0dda24ce071292b14391
 repo/community.yml: 31dc52068060a347b7c6814ae8ed7146
-repo/connector.yml: 86c0f66309ed4b5600ff8153b970e039
+repo/connector.yml: c020d038059e8ec1b85cf44b78b233b6
 repo/contract.yml: 357d000bc8bdeb79442fa7f447bf1829
 repo/contribute.yml: 56aeb27f4303bcbcc180334da44659fe
 repo/cooperative.yml: 3a48e8f3a820b5f611cd320d34390dcd
@@ -101,7 +101,7 @@ repo/mirrors.yml: e031a9121908b0c3fd74225481fee295
 repo/mis.yml: 6658ac779830ec1e157234b38d3a0d1d
 repo/multi.yml: 24527f47384732cb8f6e9c9b76f27293
 repo/oca.recipe.odoo.yml: 9ef093e3abe33cd7f9efb58311bdcb6b
-repo/oca.yml: 93098fec9feee276d01be3386d459fe1
+repo/oca.yml: 964c1318c856e2351551f2dd62519234
 repo/ocb.yml: 3834604f267b78df08067f5491732a3e
 repo/odoo-community.yml: d96efe1006b45935e0770460b6debaba
 repo/odoorpc.yml: 61a6e6e588a33cae15072b2dfa37e587
@@ -117,7 +117,7 @@ repo/program.yml: 40eb732dcd7bab4cbb5b8d0ca0473fa6
 repo/project.yml: bb0c3913fd0e58a3e3896b68a62ad959
 repo/purchase.yml: 5fe8f6abdf0d54d567441cb80e146eeb
 repo/pwa.yml: 38bef012fc558b3bb8dd3c182696fb02
-repo/queue.yml: 17fa027f9c6eb6dc61bf1ca24b6fed05
+repo/queue.yml: e181b84811fc76192b045ef299806422
 repo/repair.yml: 5f7b26fb0901de11c3fc40b32ebacaae
 repo/reporting.yml: 793f009de5ce8cd33e3a3ed344e6cbfa
 repo/resource.yml: efcdc5fdb8c7ac381a6988931f195969
