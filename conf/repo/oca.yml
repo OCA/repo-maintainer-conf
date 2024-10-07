@@ -25,6 +25,7 @@ oca-custom:
   name: Custom module for oca instance
   psc: board
   psc_rep: board
+  manual_branch_mgmt: true
 oca-decorators:
   branches: []
   category: Oca
