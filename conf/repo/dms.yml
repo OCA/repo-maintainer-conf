@@ -6,6 +6,7 @@ dms:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Dms
   default_branch: "17.0"
   name: Odoo modules for a document management system

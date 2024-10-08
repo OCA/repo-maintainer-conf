@@ -1,22 +1,3 @@
-reporting-engine:
-  branches:
-    - "6.1"
-    - "7.0"
-    - "8.0"
-    - "9.0"
-    - "10.0"
-    - "11.0"
-    - "12.0"
-    - "13.0"
-    - "14.0"
-    - "15.0"
-    - "16.0"
-    - "17.0"
-  category: Reporting
-  default_branch: "16.0"
-  name: Odoo alternative reporting engine
-  psc: tools-maintainers
-  psc_rep: tools-maintainers-psc-representative
 report-print-send:
   branches:
     - "6.1"
@@ -31,8 +12,29 @@ report-print-send:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Report
   default_branch: "14.0"
   name: Odoo printing services and printer related addons
+  psc: tools-maintainers
+  psc_rep: tools-maintainers-psc-representative
+reporting-engine:
+  branches:
+    - "6.1"
+    - "7.0"
+    - "8.0"
+    - "9.0"
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+    - "16.0"
+    - "17.0"
+    - "18.0"
+  category: Reporting
+  default_branch: "16.0"
+  name: Odoo alternative reporting engine
   psc: tools-maintainers
   psc_rep: tools-maintainers-psc-representative

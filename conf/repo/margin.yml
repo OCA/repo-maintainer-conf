@@ -12,6 +12,7 @@ margin-analysis:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Margin
   default_branch: "15.0"
   name: Odoo financial controlling (margin, costs, ...)

@@ -12,6 +12,7 @@ timesheet:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Timesheet
   default_branch: "14.0"
   name: Odoo timesheet management addons

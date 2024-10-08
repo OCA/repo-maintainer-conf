@@ -9,6 +9,7 @@ calendar:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Calendar
   default_branch: "14.0"
   name: Calendar

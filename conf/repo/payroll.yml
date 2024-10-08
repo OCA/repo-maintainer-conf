@@ -5,6 +5,7 @@ payroll:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Payroll
   default_branch: "14.0"
   name: Odoo modules for payroll management

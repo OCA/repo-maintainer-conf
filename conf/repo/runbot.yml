@@ -10,6 +10,7 @@ runbot-addons:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Runbot
   default_branch: "11.0"
   name: Odoo runbot custom features to be used by community.

@@ -4,6 +4,7 @@ pms:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Pms
   default_branch: "14.0"
   name: Property management system on odoo

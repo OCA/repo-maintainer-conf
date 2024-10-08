@@ -21,6 +21,7 @@ odoo-pim:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "18.0"
   category: Odoo
   default_branch: "14.0"
   name: Odoo Pim

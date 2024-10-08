@@ -1,6 +1,7 @@
 stock-logistics-availability:
   branches:
     - "16.0"
+    - "18.0"
   category: Stock
   default_branch: "16.0"
   name:
@@ -22,6 +23,7 @@ stock-logistics-barcode:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "18.0"
   category: Stock
   default_branch: "16.0"
   name: Stock Logistics Barcode
@@ -30,6 +32,7 @@ stock-logistics-barcode:
 stock-logistics-interfaces:
   branches:
     - "16.0"
+    - "18.0"
   category: Stock
   default_branch: "16.0"
   name: Stock Logistics Interfaces
@@ -38,6 +41,7 @@ stock-logistics-interfaces:
 stock-logistics-orderpoint:
   branches:
     - "16.0"
+    - "18.0"
   category: Stock
   default_branch: "16.0"
   name:
@@ -58,6 +62,7 @@ stock-logistics-reporting:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "18.0"
   category: Stock
   default_branch: "16.0"
   name: Provides odoo logistics reporting modules
@@ -66,6 +71,7 @@ stock-logistics-reporting:
 stock-logistics-request:
   branches:
     - "16.0"
+    - "18.0"
   category: Stock
   default_branch: "16.0"
   name:
@@ -87,6 +93,7 @@ stock-logistics-tracking:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "18.0"
   category: Stock
   default_branch: "16.0"
   name: This repository contains modules around stock packages management
@@ -104,6 +111,7 @@ stock-logistics-transport:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "18.0"
   category: Stock
   default_branch: "16.0"
   name: "Transport management in odoo "
@@ -122,6 +130,7 @@ stock-logistics-warehouse:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "18.0"
   category: Stock
   default_branch: "16.0"
   name: Odoo warehouse management addons
@@ -140,6 +149,7 @@ stock-logistics-workflow:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "18.0"
   category: Stock
   default_branch: "16.0"
   name: Odoo stock, workflow and organization
@@ -150,6 +160,7 @@ stock-weighing:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Stock
   default_branch: "15.0"
   name: Shopfloor for weighing operations
@@ -163,6 +174,7 @@ wms:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "18.0"
   category: Wms
   default_branch: "16.0"
   name: Warehouse management system for advance logistic with odoo

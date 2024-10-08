@@ -10,6 +10,7 @@ server-auth:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Server
   default_branch: "16.0"
   name: Server Auth
@@ -24,6 +25,7 @@ server-backend:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Server
   default_branch: "14.0"
   name: Server Backend
@@ -38,6 +40,7 @@ server-brand:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Server
   default_branch: "17.0"
   name: Server Brand
@@ -88,6 +91,7 @@ server-ux:
     - "15.0"
     - "16.0"
     - "17.0"
+    - "18.0"
   category: Server
   default_branch: "16.0"
   name: Server Ux
