@@ -48,7 +48,7 @@ vertical-association:
     - "17.0"
     - "18.0"
   category: Vertical
-  default_branch: "14.0"
+  default_branch: "17.0"
   name: Odoo addons for membership related tasks
   psc: vertical-association-maintainers
   psc_rep: vertical-association-maintainers-psc-representative
