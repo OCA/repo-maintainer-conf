@@ -136,7 +136,7 @@ repo/spreadsheet.yml: 7ab843a2108ca7bbb5dcbc41041a123b
 repo/storage.yml: a872e409b0e1dfcd4488f6013202aece
 repo/survey.yml: 5077e7fb19449c63720107ffe2aacbb8
 repo/timesheet.yml: e3a4d1a797f6d781b6ed495341da9802
-repo/vertical.yml: fd9af2d8ec63bc450a546a9134e49350
+repo/vertical.yml: 59d1ff51cf10469ee491d5c4f89fdad1
 repo/wallet.yml: efdfa08b46e39679593617a965869e5d
 repo/web.yml: 01d27ee855e208a1cbfa974f11a6ef01
 repo/webhook.yml: b8cda0e195676527fc881f54518c8317
