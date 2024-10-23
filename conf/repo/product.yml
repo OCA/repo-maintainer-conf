@@ -26,7 +26,7 @@ product-configurator:
     - "17.0"
     - "18.0"
   category: Product
-  default_branch: "14.0"
+  default_branch: "16.0"
   name:
     Advanced product configurator (from the original pledra project https://github.com/pledra/odoo
     Product Configurator)
