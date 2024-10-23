@@ -112,7 +112,7 @@ repo/payroll.yml: bc7665c7a8e1eecfbb5b8910b9a4e8ce
 repo/pim.yml: e1f062c49a67c5d82748707c6a823456
 repo/pms.yml: 1213d611aefec85d945933815403c187
 repo/pos.yml: 251332ecc589cd70d921209cd061ad66
-repo/product.yml: 5b904a17404a6dbb6667c8bdd170ed31
+repo/product.yml: 96a32e9411bb95c19c8d651e03d81e1d
 repo/program.yml: 30019e2d817c123565bdd23c66d73547
 repo/project.yml: 5db7b6d1c96d571c970be62ffd0a4a8d
 repo/purchase.yml: e6f506ea21d402caf8e00691a8ec2f4b
