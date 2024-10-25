@@ -275,6 +275,7 @@ local-italy-developers:
     - MarcoCalcagni
     - francesco-ooops
     - SirAionTech
+    - Borruso
   name: Team only used for notifications.
     See https://github.com/OCA/l10n-italy/wiki/Team-di-sviluppo
   representatives:
@@ -292,6 +293,7 @@ local-italy-maintainers:
     - francesco-ooops
     - SirAionTech
     - MarcoCalcagni
+    - Borruso
   name: Local italy maintainers
   representatives: []
 local-italy-maintainers-psc-representative:
