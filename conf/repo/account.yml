@@ -14,7 +14,7 @@ account-analytic:
     - "17.0"
     - "18.0"
   category: Account
-  default_branch: "14.0"
+  default_branch: "17.0"
   name: Odoo account analytic related addons
   psc: accounting-maintainers
   psc_rep: accounting-maintainers-psc-representative
