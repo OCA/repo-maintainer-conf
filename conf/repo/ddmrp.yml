@@ -9,7 +9,7 @@ ddmrp:
     - "17.0"
     - "18.0"
   category: Ddmrp
-  default_branch: "14.0"
+  default_branch: "17.0"
   name: Ddmrp
   psc: ddmrp-maintainers
   psc_rep: ddmrp-maintainers-psc-representative
