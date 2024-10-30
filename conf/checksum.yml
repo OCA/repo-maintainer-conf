@@ -70,7 +70,7 @@ repo/credit.yml: 29311889d24781d329da6b71f4d1332c
 repo/crm.yml: 5aef7350388f3abb636359e763aee530
 repo/currency.yml: 02be382384500821b4e51ac3d1893720
 repo/data.yml: cb9f75c57f6dd275ca5ef19b8fa280ca
-repo/ddmrp.yml: 03b529de92fe7c96a4cffb54753e2ae2
+repo/ddmrp.yml: 618375c2414a22ddfb00c1a05082b133
 repo/delivery.yml: a0e37f10edb2192f5d20896279f515e4
 repo/department.yml: 2bf56d084e041294268544dfca1c9697
 repo/dms.yml: 0c78f97c66c01c4b08c20da5ff77204c
@@ -95,7 +95,7 @@ repo/logistics.yml: 752605c291dd02026290f885de9aa926
 repo/maintainer.yml: 463e3e893523b9314d6ffcb6e7ae5214
 repo/maintenance.yml: a8faa4f7d033c1f628f7f965ec942e88
 repo/management.yml: ac32c126038debf4423769228f960783
-repo/manufacture.yml: f0efe17197190682dd4412356b338e68
+repo/manufacture.yml: 8d9195e1265f7e305a667e5695287423
 repo/margin.yml: 5b3f4337a39445f45ac2986ed4eae11b
 repo/mirrors.yml: e031a9121908b0c3fd74225481fee295
 repo/mis.yml: 632a57c5dd33e655c2057f92c234c7e5
@@ -118,7 +118,7 @@ repo/project.yml: 5db7b6d1c96d571c970be62ffd0a4a8d
 repo/purchase.yml: e6f506ea21d402caf8e00691a8ec2f4b
 repo/pwa.yml: d8a7875d5a7fc0ffe156d0029d1d814f
 repo/queue.yml: e181b84811fc76192b045ef299806422
-repo/repair.yml: 9be2dab05c3ee43763e581a6092766aa
+repo/repair.yml: 6c330e20eecc154862b14e1e2a2d4f7f
 repo/reporting.yml: a9797a2b1cf436ff909327b9d7fdc960
 repo/resource.yml: 17a4777d8cbfdfc6d098e112c19c7ed6
 repo/rest.yml: 1ebdcea4fd8189c69b0f0476e6d075c1
