@@ -29,6 +29,7 @@ psc/intrastat.yml: e1cd6196a90bc203ed9c110804a886b0
 psc/iot.yml: f1b80feb1e0e915d120890d6117a0d52
 psc/l10n.yml: d53607f4cb471a603f271ba663c741e1
 psc/logistics.yml: 650a2fed8dce2c9d4510b82ac779d543
+psc/mail.yml: 8db9c91fd9e6355ab542d796cc6bb61a
 psc/maintenance.yml: 446bfef5e010985c1b87244c4710431e
 psc/management.yml: 89941c96f1fe8439c7ffd77b3bd4ea86
 psc/manufacturing.yml: 66e22a60f0687f8370b1fb99882eb1a4
@@ -92,6 +93,7 @@ repo/iot.yml: 50ccd36d610107eb3a8fa2a407332644
 repo/knowledge.yml: c45c6768c0d40992172dcb4f7c12f942
 repo/l10n.yml: 09ced35005286949071f9c4fafae89a5
 repo/logistics.yml: 752605c291dd02026290f885de9aa926
+repo/mail.yml: 9636a382ddb8c36d0eeefc4213a42ba1
 repo/maintainer.yml: 463e3e893523b9314d6ffcb6e7ae5214
 repo/maintenance.yml: a8faa4f7d033c1f628f7f965ec942e88
 repo/management.yml: ac32c126038debf4423769228f960783
