@@ -1,0 +1,16 @@
+mail-maintainers:
+  members:
+    - yajo
+    - antespi
+    - hbrunn
+    - pedrobaeza
+    - rafaelbn
+    - etobella
+  name: Mail maintainers
+  representatives:
+    - simahawk
+mail-maintainers-psc-representative:
+  members:
+    - hbrunn
+  name: Mail maintainers psc representative
+  representatives: []

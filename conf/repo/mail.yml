@@ -1,0 +1,8 @@
+mail:
+  branches:
+    - "18.0"
+  category: Mail
+  default_branch: "18.0"
+  name: Addons related to odoo's messaging features
+  psc: mail-maintainers
+  psc_rep: mail-maintainers-psc-representative
