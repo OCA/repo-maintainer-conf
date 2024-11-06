@@ -20,6 +20,7 @@ web:
   psc_rep: web-maintainers-psc-representative
 web-api:
   branches:
+    - "13.0"
     - "14.0"
     - "15.0"
     - "16.0"
