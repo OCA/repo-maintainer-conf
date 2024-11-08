@@ -94,7 +94,7 @@ account-financial-reporting:
     - "17.0"
     - "18.0"
   category: Account
-  default_branch: "16.0"
+  default_branch: "17.0"
   name: Financial reports for odoo
   psc: accounting-maintainers
   psc_rep: accounting-maintainers-psc-representative
