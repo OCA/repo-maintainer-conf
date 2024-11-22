@@ -140,7 +140,7 @@ repo/survey.yml: 5077e7fb19449c63720107ffe2aacbb8
 repo/timesheet.yml: e3a4d1a797f6d781b6ed495341da9802
 repo/vertical.yml: 59d1ff51cf10469ee491d5c4f89fdad1
 repo/wallet.yml: efdfa08b46e39679593617a965869e5d
-repo/web.yml: f4c81a741ce715a469c1a92b672f9cbd
+repo/web.yml: 9cf2e4b23c909aff7c0262bce892ae1f
 repo/webhook.yml: b8cda0e195676527fc881f54518c8317
 repo/webkit.yml: a62f65a38e03f0ae5ad2a95adc9e0845
 repo/website.yml: c363222c213a3c29fb5be646fec8125d
