@@ -54,3 +54,10 @@ oca-weblate-deployment:
   name: Oca Weblate Deployment
   psc: community-maintainers
   psc_rep: community-maintainers-psc-representative
+docs:
+  branches: []
+  category: Oca
+  default_branch: master
+  name: The documentation of OCA module
+  psc: board
+  psc_rep: board
