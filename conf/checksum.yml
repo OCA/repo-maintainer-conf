@@ -7,7 +7,7 @@ psc/community.yml: 845c70f73f5bc3bda78810dad1fa17da
 psc/connector.yml: 653c977958dca7883f47792fa23e4fe6
 psc/cooperative.yml: 136d29e737e540f3f44864dc53803d06
 psc/core.yml: 299dc9e3cb2acebb8670b92957b556db
-psc/crm.yml: 5911ec2a68c8981ae2e731dad5a6e1bc
+psc/crm.yml: 3b6b389f2ceb646af46c482e10c5bf44
 psc/currency.yml: 95f83679af7ad96b25489ec255233e68
 psc/data.yml: 369d9753dd2e02b9f4d581ad4cf12a6a
 psc/ddmrp.yml: ea8d4325ec386fd1b3dc552a7f600442
@@ -39,8 +39,8 @@ psc/openupgrade.yml: 3294d16f42803f8fbeea170c8bbfdd12
 psc/payroll.yml: d0371fca8c0d6437ce062827399ba800
 psc/pms.yml: fdb3ace0e34a695e36ee79f505486f11
 psc/pos.yml: 85d5ed7517d80219320abc78d360dace
-psc/procurement.yml: c6125ecdb3221dc736a6e99426fa3232
-psc/product.yml: d1f32c2ad627c506b4ad2d3772eab7ea
+psc/procurement.yml: 843ac0a36e282c09f952bfe7601129fe
+psc/product.yml: 8717ce72fb4fcdc308c7be25d75a1a4a
 psc/project.yml: 90ac8281b6f28a01f7ac6a9d32c76cb1
 psc/reporting.yml: 644e7efd717eb016f3f3645f2ed2e640
 psc/rest.yml: 02d3a15264a8ebdec9916ac8f293a268
