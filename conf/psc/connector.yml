@@ -92,6 +92,7 @@ connector-telephony-maintainers:
   members:
     - alexis-via
     - nimarosa
+    - thomaspaulb
   name: Connector telephony maintainers
   representatives: []
 connector-telephony-maintainers-psc-representative:
