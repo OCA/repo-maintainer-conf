@@ -47,7 +47,6 @@ connector-maintainers:
   name: Connector maintainers
   representatives:
     - simahawk
-    - sbidoul
     - gurneyalex
 connector-maintainers-psc-representative:
   members:
