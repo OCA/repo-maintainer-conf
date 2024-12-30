@@ -12,5 +12,5 @@ queue:
   category: Queue
   default_branch: "16.0"
   name: Asynchronous job queue
-  psc: connector-maintainers
-  psc_rep: connector-maintainers-psc-representative
+  psc: queue-maintainers
+  psc_rep: queue-maintainers-psc-representative
