@@ -1,0 +1,14 @@
+queue-maintainers:
+  members:
+    - guewen
+    - lmignon
+  name: Asynchronous job queue maintainers
+  representatives:
+    - simahawk
+    - sbidoul
+    - gurneyalex
+queue-maintainers-psc-representative:
+  members:
+    - guewen
+  name: Asynchronous job queue maintainers psc representative
+  representatives: []
