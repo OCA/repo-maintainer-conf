@@ -6,9 +6,9 @@ cooperative-maintainers:
     - carmenbianca
     - remytms
   name: Manage cooperatives in general, as well as participative supermarkets
-  representatives:
+  representatives: []
 cooperative-maintainers-psc-representative:
   members:
     - robinkeunen
   name: Cooperative maintainers psc representative
-  representatives:
+  representatives: []
