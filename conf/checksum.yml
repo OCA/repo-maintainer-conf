@@ -4,8 +4,8 @@ psc/banking.yml: fed0c766ee24b27ea6ec2361a7bf611f
 psc/board.yml: 9901309ccc777ad017759bae7313d2e4
 psc/brand.yml: 618dfd03dc19182c68305dabb4bdd004
 psc/community.yml: 845c70f73f5bc3bda78810dad1fa17da
-psc/connector.yml: 653c977958dca7883f47792fa23e4fe6
-psc/cooperative.yml: 136d29e737e540f3f44864dc53803d06
+psc/connector.yml: 8c993a52fa292ee7801cfc79475e78e6
+psc/cooperative.yml: a1c482a253fd87459d6bfc8b13945323
 psc/core.yml: 299dc9e3cb2acebb8670b92957b556db
 psc/crm.yml: 3b6b389f2ceb646af46c482e10c5bf44
 psc/currency.yml: 95f83679af7ad96b25489ec255233e68
@@ -42,6 +42,7 @@ psc/pos.yml: 85d5ed7517d80219320abc78d360dace
 psc/procurement.yml: 843ac0a36e282c09f952bfe7601129fe
 psc/product.yml: 8717ce72fb4fcdc308c7be25d75a1a4a
 psc/project.yml: 90ac8281b6f28a01f7ac6a9d32c76cb1
+psc/queue.yml: b80956c4721c7311cdb91d472108ac80
 psc/reporting.yml: 644e7efd717eb016f3f3645f2ed2e640
 psc/rest.yml: 02d3a15264a8ebdec9916ac8f293a268
 psc/role.yml: f6940601265efd06b758830a0b31a700
@@ -119,7 +120,7 @@ repo/program.yml: 30019e2d817c123565bdd23c66d73547
 repo/project.yml: 5db7b6d1c96d571c970be62ffd0a4a8d
 repo/purchase.yml: e6f506ea21d402caf8e00691a8ec2f4b
 repo/pwa.yml: d8a7875d5a7fc0ffe156d0029d1d814f
-repo/queue.yml: e181b84811fc76192b045ef299806422
+repo/queue.yml: 2e921ff10766a000923fbff387afb62b
 repo/repair.yml: 6c330e20eecc154862b14e1e2a2d4f7f
 repo/reporting.yml: a9797a2b1cf436ff909327b9d7fdc960
 repo/resource.yml: 17a4777d8cbfdfc6d098e112c19c7ed6
