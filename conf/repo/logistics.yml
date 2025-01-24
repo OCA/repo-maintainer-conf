@@ -80,6 +80,16 @@ stock-logistics-request:
     stock needs by product and location.
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
+stock-logistics-release-channel:
+  branches:
+    - "18.0"
+  category: Stock
+  default_branch: "18.0"
+  name: This repository contains modules to manage release channels.
+    Release channels represent a way of grouping deliveries and their
+    pickings in order to enhance resource management in the warehouse.
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
 stock-logistics-tracking:
   branches:
     - "6.1"
