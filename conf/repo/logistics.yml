@@ -90,6 +90,23 @@ stock-logistics-release-channel:
     pickings in order to enhance resource management in the warehouse.
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
+stock-logistics-reservation:
+  branches:
+    - "18.0"
+  category: Stock
+  default_branch: "18.0"
+  name: This repository contains modules related to products reservations.
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
+stock-logistics-shopfloor:
+  branches:
+    - "18.0"
+  category: Stock
+  default_branch: "18.0"
+  name: This repository contains modules to manage Shopfloor application.
+    That application allows to manage all logistics flows as a mobile one.
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
 stock-logistics-tracking:
   branches:
     - "6.1"
