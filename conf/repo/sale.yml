@@ -81,3 +81,13 @@ sale-workflow:
   name: Odoo sales, workflow and organization
   psc: crm-sales-marketing-maintainers
   psc_rep: crm-sales-marketing-maintainers-psc-representative
+sale-blanket:
+  branches:
+    - "16.0"
+    - "17.0"
+    - "18.0"
+  category: Sale
+  default_branch: "16.0"
+  name: Sales blanket order
+  psc: sale-blanket-maintainers
+  psc_rep: sale-blanket-maintainers-psc-representative
