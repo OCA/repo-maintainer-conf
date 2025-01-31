@@ -36,7 +36,7 @@ local-belarus-maintainers-psc-representative:
   representatives: []
 local-belgium-maintainers:
   members:
-    - robinkeunen
+    - remytms
     - luc-demeyer
   name: Local belgium maintainers
   representatives:
