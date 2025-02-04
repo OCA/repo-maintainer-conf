@@ -46,6 +46,7 @@ psc/queue.yml: b80956c4721c7311cdb91d472108ac80
 psc/reporting.yml: 644e7efd717eb016f3f3645f2ed2e640
 psc/rest.yml: 02d3a15264a8ebdec9916ac8f293a268
 psc/role.yml: f6940601265efd06b758830a0b31a700
+psc/sale.yml: 2e662020c82ec2a36d3a0ea3a27f024b
 psc/search.yml: cabdb93e6312fe03fd903dd4963e9e48
 psc/server.yml: eae2a2800ed0c6bb240a532b10f4f6b7
 psc/social.yml: 325174e22a340e51c806b148c0f9ae79
@@ -93,7 +94,7 @@ repo/intrastat.yml: cd1612e06c710e9abd6225c0111d6c23
 repo/iot.yml: 50ccd36d610107eb3a8fa2a407332644
 repo/knowledge.yml: c45c6768c0d40992172dcb4f7c12f942
 repo/l10n.yml: 09ced35005286949071f9c4fafae89a5
-repo/logistics.yml: 752605c291dd02026290f885de9aa926
+repo/logistics.yml: d4591efb9b9c45c1c92c1fec1dfbbd2e
 repo/mail.yml: 9636a382ddb8c36d0eeefc4213a42ba1
 repo/maintainer.yml: 463e3e893523b9314d6ffcb6e7ae5214
 repo/maintenance.yml: a8faa4f7d033c1f628f7f965ec942e88
@@ -127,7 +128,7 @@ repo/resource.yml: 17a4777d8cbfdfc6d098e112c19c7ed6
 repo/rest.yml: 1ebdcea4fd8189c69b0f0476e6d075c1
 repo/rma.yml: 31d421830482d0b00012d09d25a97447
 repo/role.yml: 6056e84726a1ae345eedfa9e671b9395
-repo/sale.yml: fd667e45286956b74fd10875351729ee
+repo/sale.yml: 01fb84efedc3d723317b79d1c11118fe
 repo/search.yml: 557777122a2e2c008d8f4927eead8adb
 repo/sentinel.yml: ae6017f0942746e0d3a93aa71b3f3dd9
 repo/server.yml: e8a798a5c074c384c2939eecfebf7ef2
