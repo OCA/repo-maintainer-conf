@@ -1,0 +1,10 @@
+shopfloor-app-maintainers:
+  members:
+    - simahawk
+    - jbaudoux
+  name: Shopfloor app maintainers
+shopfloor-app-maintainers-psc-representative:
+  members:
+    - simahawk
+  name: Shopfloor app maintainers psc representative
+  representatives: []
