@@ -4,6 +4,8 @@ shopfloor-app-maintainers:
     - jbaudoux
     - rousseldenis
   name: Shopfloor app maintainers
+  representatives:
+    - simahawk
 shopfloor-app-maintainers-psc-representative:
   members:
     - simahawk
