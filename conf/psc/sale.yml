@@ -12,3 +12,17 @@ sale-blanket-maintainers-psc-representative:
     - jbaudoux
   name: Sales blanket maintainers psc representative
   representatives: []
+sale-prebook-maintainers:
+  members:
+    - jbaudoux
+    - rousseldenis
+    - lmignon
+  name: Sales prebook maintainers
+  representatives:
+    - jbaudoux
+    - rousseldenis
+sale-prebook-maintainers-psc-representative:
+  members:
+    - jbaudoux
+  name: Sales prebook maintainers psc representative
+  representatives: []

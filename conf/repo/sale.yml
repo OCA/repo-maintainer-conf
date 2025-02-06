@@ -91,3 +91,18 @@ sale-blanket:
   name: Sales blanket order
   psc: sale-blanket-maintainers
   psc_rep: sale-blanket-maintainers-psc-representative
+sale-prebook:
+  branches:
+    - "14.0"
+    - "16.0"
+    - "17.0"
+    - "18.0"
+  category: Sale
+  default_branch: "16.0"
+  name: Sales order's stock prebooking
+
+    This repository provides addons for stock prebooking in sales orders. Unlike
+    default Odoo, it enables stock reservation before order confirmation and
+    integrates this feature into related processes.
+  psc: sale-prebook-maintainers
+  psc_rep: sale-prebook-maintainers-psc-representative
