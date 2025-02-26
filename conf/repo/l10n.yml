@@ -807,7 +807,7 @@ l10n-usa:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Us localization of odoo
   psc: local-usa-maintainers
   psc_rep: local-usa-maintainers-psc-representative
