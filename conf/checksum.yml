@@ -94,7 +94,7 @@ repo/interface.yml: efecf9aa34ca1321f032170cb073d582
 repo/intrastat.yml: cd1612e06c710e9abd6225c0111d6c23
 repo/iot.yml: 50ccd36d610107eb3a8fa2a407332644
 repo/knowledge.yml: c45c6768c0d40992172dcb4f7c12f942
-repo/l10n.yml: b6c25b50fe44d70de28c516bc14157c7
+repo/l10n.yml: cdbb494b208b20968a2d4373affde2eb
 repo/logistics.yml: d4591efb9b9c45c1c92c1fec1dfbbd2e
 repo/mail.yml: 9636a382ddb8c36d0eeefc4213a42ba1
 repo/maintainer.yml: 463e3e893523b9314d6ffcb6e7ae5214
