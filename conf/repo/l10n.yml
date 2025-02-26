@@ -492,7 +492,7 @@ l10n-mexico:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "13.0"
+  default_branch: "18.0"
   name: Mexican localization.
   psc: local-mexico-maintainers
   psc_rep: local-mexico-maintainers-psc-representative
