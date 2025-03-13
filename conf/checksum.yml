@@ -56,7 +56,7 @@ psc/tools.yml: e4ace7778a67bf035637878901af45b6
 psc/vertical.yml: f9a3dfeed5369f74275858850219e2e8
 psc/web.yml: 853317c3f35f93cc2d1a96afe02b28e1
 psc/website.yml: 312d214b1cd00a922b122ab2af7167e6
-repo/account.yml: dcd8a4e8853ae24140c4f6fc97af4026
+repo/account.yml: 9ccdda6aac5aeae69f8e2168ceaf0b8a
 repo/agreement.yml: a82d6baa4ca4268999e1d971becef8ae
 repo/ansible.yml: 7be462af968a93092b5f0325bcc771ed
 repo/apps.yml: ec9e090a66458e0d558d27caf254a98e
