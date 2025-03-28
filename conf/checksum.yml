@@ -53,7 +53,7 @@ psc/shopfloor-app.yml: 34c04a59067e551eec31ec4d6361d8db
 psc/social.yml: 325174e22a340e51c806b148c0f9ae79
 psc/storage.yml: ea554c101ded7980d7c3f7142b8603e9
 psc/tools.yml: e4ace7778a67bf035637878901af45b6
-psc/vertical.yml: f9a3dfeed5369f74275858850219e2e8
+psc/vertical.yml: 0b1204049f2c1272ec1751848793f5ec
 psc/web.yml: 853317c3f35f93cc2d1a96afe02b28e1
 psc/website.yml: 312d214b1cd00a922b122ab2af7167e6
 repo/account.yml: 9ccdda6aac5aeae69f8e2168ceaf0b8a
