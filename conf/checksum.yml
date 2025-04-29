@@ -64,7 +64,7 @@ repo/bank.yml: fc0b78191765d7a4ad4d3bc62a87a6cc
 repo/brand.yml: 18fadcea8106eb0edf2dcd15530cbae0
 repo/business.yml: 80e0eccf117eb00e9add7a668cf36eef
 repo/calendar.yml: 5c2febff6fdfe2b660a79794ab4128f8
-repo/commission.yml: 2240bcdae252cb2b75c1770611c8fe69
+repo/commission.yml: 26d1229abdc045627e65f2758588bd8b
 repo/community.yml: 9eedf1ad7c92cddd3992f0c086bfbea4
 repo/connector.yml: 118e088e2e1313685c9d87cd7a0efc36
 repo/contract.yml: 6c3187730be637872105437c05d4fac9
