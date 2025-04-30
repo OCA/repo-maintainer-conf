@@ -1,6 +1,4 @@
 board:
-  members:
-    - etobella
   name: The oca board
   representatives:
     - jgrandguillaume
@@ -9,6 +7,8 @@ board:
     - sbidoul
     - dreispt
     - bguillot
-    - gurneyalex
     - gdgellatly
     - vdewulf
+    - ivs-cetmix
+    - thomaspaulb
+    - rousseldenis
