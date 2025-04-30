@@ -20,6 +20,14 @@ bank-payment:
   name: Odoo electronic payment
   psc: banking-maintainers
   psc_rep: banking-maintainers-psc-representative
+bank-payment-alternative:
+  branches:
+    - "18.0"
+  category: Bank
+  default_branch: "18.0"
+  name: Odoo payment orders and direct debits
+  psc: banking-maintainers
+  psc_rep: banking-maintainers-psc-representative
 bank-statement-import:
   branches:
     - "7.0"
