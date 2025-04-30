@@ -60,7 +60,7 @@ repo/account.yml: 9ccdda6aac5aeae69f8e2168ceaf0b8a
 repo/agreement.yml: a82d6baa4ca4268999e1d971becef8ae
 repo/ansible.yml: 7be462af968a93092b5f0325bcc771ed
 repo/apps.yml: ec9e090a66458e0d558d27caf254a98e
-repo/bank.yml: fc0b78191765d7a4ad4d3bc62a87a6cc
+repo/bank.yml: 1347672a4f6c2672845877239e787492
 repo/brand.yml: 18fadcea8106eb0edf2dcd15530cbae0
 repo/business.yml: 80e0eccf117eb00e9add7a668cf36eef
 repo/calendar.yml: 5c2febff6fdfe2b660a79794ab4128f8
