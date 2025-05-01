@@ -1,6 +1,6 @@
 board:
   name: The oca board
-  representatives:
+  members:
     - jgrandguillaume
     - simahawk
     - OSevangelist
@@ -12,3 +12,5 @@ board:
     - ivs-cetmix
     - thomaspaulb
     - rousseldenis
+  representatives:
+    - jgrandguillaume
