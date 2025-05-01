@@ -128,7 +128,7 @@ repo/repair.yml: 6c330e20eecc154862b14e1e2a2d4f7f
 repo/reporting.yml: a9797a2b1cf436ff909327b9d7fdc960
 repo/resource.yml: 17a4777d8cbfdfc6d098e112c19c7ed6
 repo/rest.yml: 1ebdcea4fd8189c69b0f0476e6d075c1
-repo/rma.yml: 31d421830482d0b00012d09d25a97447
+repo/rma.yml: 58f43184941f177bd1e23fcd17918d84
 repo/role.yml: 6056e84726a1ae345eedfa9e671b9395
 repo/sale.yml: 5493252acc764821fd890fba42d8c7ef
 repo/search.yml: 557777122a2e2c008d8f4927eead8adb
