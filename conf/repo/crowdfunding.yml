@@ -1,0 +1,9 @@
+crowdfunding:
+  branches:
+    - "17.0"
+    - "18.0"
+  category: Crowdfunding
+  default_branch: "18.0"
+  name: Crowdfunding
+  psc: crowdfunding-maintainers
+  psc_rep: crowdfunding-maintainers-psc-representative
