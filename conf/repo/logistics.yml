@@ -49,6 +49,14 @@ stock-logistics-orderpoint:
     warehouses locations) functionalities.
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
+stock-logistics-putaway:
+  branches:
+    - "18.0"
+  category: Stock
+  default_branch: "18.0"
+  name: This repository contains modules to manage put-aways.
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
 stock-logistics-reporting:
   branches:
     - "6.1"
