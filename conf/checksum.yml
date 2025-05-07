@@ -8,6 +8,7 @@ psc/connector.yml: a2695f2372777667abefd1cd8f58c941
 psc/cooperative.yml: a1c482a253fd87459d6bfc8b13945323
 psc/core.yml: 299dc9e3cb2acebb8670b92957b556db
 psc/crm.yml: 3b6b389f2ceb646af46c482e10c5bf44
+psc/crowdfunding.yml: 69e841446733fc9edeae296830345cec
 psc/currency.yml: 95f83679af7ad96b25489ec255233e68
 psc/data.yml: 369d9753dd2e02b9f4d581ad4cf12a6a
 psc/ddmrp.yml: ea8d4325ec386fd1b3dc552a7f600442
@@ -72,6 +73,7 @@ repo/contribute.yml: 56aeb27f4303bcbcc180334da44659fe
 repo/cooperative.yml: 1fbf7e82ed8035c039133012ad306057
 repo/credit.yml: 29311889d24781d329da6b71f4d1332c
 repo/crm.yml: 5aef7350388f3abb636359e763aee530
+repo/crowdfunding.yml: dcd06c395d92db559edc88e5937e6d93
 repo/currency.yml: 02be382384500821b4e51ac3d1893720
 repo/data.yml: cb9f75c57f6dd275ca5ef19b8fa280ca
 repo/ddmrp.yml: 618375c2414a22ddfb00c1a05082b133
