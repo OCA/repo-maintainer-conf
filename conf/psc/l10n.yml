@@ -174,16 +174,14 @@ local-ethiopia-maintainers-psc-representative:
 local-finland-maintainers:
   members:
     - jarmokortetjarvi
-    - mlaitinen
+    - jusle
+    - stadnitski
+    - ossimantylahti
   name: Local finland maintainers
   representatives: []
-local-finland-maintainers-project-leader:
+local-finland-maintainers-psc-representative:
   members:
     - jarmokortetjarvi
-  name: Local finland maintainers project leader
-  representatives: []
-local-finland-maintainers-psc-representative:
-  members: []
   name: Local finland maintainers psc representative
   representatives: []
 local-france-maintainers:
