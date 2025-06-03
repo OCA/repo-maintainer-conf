@@ -10,7 +10,7 @@ queue:
     - "17.0"
     - "18.0"
   category: Queue
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Asynchronous job queue
   psc: queue-maintainers
   psc_rep: queue-maintainers-psc-representative
