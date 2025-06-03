@@ -106,7 +106,7 @@ repo/manufacture.yml: 8d9195e1265f7e305a667e5695287423
 repo/margin.yml: 5b3f4337a39445f45ac2986ed4eae11b
 repo/mass-mailing.yml: f40442a88a1e11f85c12524eca6da9ce
 repo/mirrors.yml: e031a9121908b0c3fd74225481fee295
-repo/mis.yml: 632a57c5dd33e655c2057f92c234c7e5
+repo/mis.yml: 00be995892a6f35cffadb499372fd6a8
 repo/multi.yml: 4af7fd150a501083454ab660fca13a46
 repo/oca.recipe.odoo.yml: 9ef093e3abe33cd7f9efb58311bdcb6b
 repo/oca.yml: 964c1318c856e2351551f2dd62519234
@@ -125,7 +125,7 @@ repo/program.yml: 30019e2d817c123565bdd23c66d73547
 repo/project.yml: 5db7b6d1c96d571c970be62ffd0a4a8d
 repo/purchase.yml: e6f506ea21d402caf8e00691a8ec2f4b
 repo/pwa.yml: d8a7875d5a7fc0ffe156d0029d1d814f
-repo/queue.yml: 2e921ff10766a000923fbff387afb62b
+repo/queue.yml: 94e21c443fb68c751db4dc052f656c6b
 repo/repair.yml: 6c330e20eecc154862b14e1e2a2d4f7f
 repo/reporting.yml: a9797a2b1cf436ff909327b9d7fdc960
 repo/resource.yml: 17a4777d8cbfdfc6d098e112c19c7ed6
