@@ -6,7 +6,7 @@ resource:
     - "17.0"
     - "18.0"
   category: Resource
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Resource
   psc: tools-maintainers
   psc_rep: tools-maintainers-psc-representative

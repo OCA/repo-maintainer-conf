@@ -11,7 +11,7 @@ interface-github:
     - "17.0"
     - "18.0"
   category: Interface
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Tools to interact with github from odoo
   psc: tools-maintainers
   psc_rep: tools-maintainers-psc-representative

@@ -6,7 +6,7 @@ sign:
     - "17.0"
     - "18.0"
   category: Sign
-  default_branch: "13.0"
+  default_branch: "18.0"
   name: Sign
   psc: document-maintainers
   psc_rep: document-maintainers-psc-representative

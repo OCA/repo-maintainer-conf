@@ -14,7 +14,7 @@ multi-company:
     - "17.0"
     - "18.0"
   category: Multi
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Multi Company
   psc: intercompany-maintainers
   psc_rep: intercompany-maintainers-psc-representative

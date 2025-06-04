@@ -12,7 +12,7 @@ data-protection:
     - "17.0"
     - "18.0"
   category: Data
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Data protection
   psc: data-protection-maintainers
   psc_rep: data-protection-maintainers-psc-representative

@@ -14,7 +14,7 @@ purchase-reporting:
     - "17.0"
     - "18.0"
   category: Purchase
-  default_branch: "12.0"
+  default_branch: "18.0"
   name: Purchase Reporting
   psc: procurement-purchase-maintainers
   psc_rep: procurement-purchase-maintainers-psc-representative
@@ -34,7 +34,7 @@ purchase-workflow:
     - "17.0"
     - "18.0"
   category: Purchase
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Odoo purchases, workflow and organization
   psc: procurement-purchase-maintainers
   psc_rep: procurement-purchase-maintainers-psc-representative

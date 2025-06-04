@@ -11,7 +11,7 @@ webhook:
     - "17.0"
     - "18.0"
   category: Webhook
-  default_branch: "11.0"
+  default_branch: "18.0"
   name:
     "Modules with community help modules: webhook_* (gitlab, bitbucket... other
     webhook consumer) "

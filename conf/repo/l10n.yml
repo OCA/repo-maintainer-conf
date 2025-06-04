@@ -13,7 +13,7 @@ l10n-argentina:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Odoo modules for argentina
   psc: local-argentina-maintainers
   psc_rep: local-argentina-maintainers-psc-representative
@@ -29,7 +29,7 @@ l10n-austria:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "10.0"
+  default_branch: "18.0"
   name: Odoo austria localization
   psc: local-austria-maintainers
   psc_rep: local-austria-maintainers-psc-representative
@@ -44,7 +44,7 @@ l10n-belarus:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: L10n Belarus
   psc: local-belarus-maintainers
   psc_rep: local-belarus-maintainers-psc-representative
@@ -63,7 +63,7 @@ l10n-belgium:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: L10n Belgium
   psc: local-belgium-maintainers
   psc_rep: local-belgium-maintainers-psc-representative
@@ -84,7 +84,7 @@ l10n-brazil:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: "Localiza\xE7\xE3o brasileira oficial do odoo."
   psc: local-brazil-maintainers
   psc_rep: local-brazil-maintainers-psc-representative
@@ -94,7 +94,7 @@ l10n-bulgaria:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Odoo bulgarian localization
   psc: local-bulgaria-maintainers
   psc_rep: local-bulgaria-maintainers-psc-representative
@@ -106,7 +106,7 @@ l10n-cambodia:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Odoo cambodian localization
   psc: local-cambodia-maintainers
   psc_rep: local-cambodia-maintainers-psc-representative
@@ -126,7 +126,7 @@ l10n-canada:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Odoo modules for canada
   psc: local-canada-maintainers
   psc_rep: local-canada-maintainers-psc-representative
@@ -144,7 +144,7 @@ l10n-chile:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "12.0"
+  default_branch: "18.0"
   name: Odoo chilean localization
   psc: local-chile-maintainers
   psc_rep: local-chile-maintainers-psc-representative
@@ -161,7 +161,7 @@ l10n-china:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "12.0"
+  default_branch: "18.0"
   name: Chinese localization of odoo
   psc: local-china-maintainers
   psc_rep: local-china-maintainers-psc-representative
@@ -178,7 +178,7 @@ l10n-colombia:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Odoo modules for colombia
   psc: local-colombia-maintainers
   psc_rep: local-colombia-maintainers-psc-representative
@@ -195,7 +195,7 @@ l10n-costa-rica:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "12.0"
+  default_branch: "18.0"
   name: Odoo modules for costa Rica
   psc: local-costa-rica-maintainers
   psc_rep: local-costa-rica-maintainers-psc-representative
@@ -212,7 +212,7 @@ l10n-croatia:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Odoo croatian localization
   psc: local-croatia-maintainers
   psc_rep: local-croatia-maintainers-psc-representative
@@ -230,7 +230,7 @@ l10n-ecuador:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "17.0"
+  default_branch: "18.0"
   name: Odoo localization for ecuador
   psc: local-ecuador-maintainers
   psc_rep: local-ecuador-maintainers-psc-representative
@@ -245,7 +245,7 @@ l10n-estonia:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: L10n Estonia
   psc: local-estonia-maintainers
   psc_rep: local-estonia-maintainers-psc-representative
@@ -264,7 +264,7 @@ l10n-ethiopia:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Ethiopian localization project
   psc: local-ethiopia-maintainers
   psc_rep: local-ethiopia-maintainers-psc-representative
@@ -282,7 +282,7 @@ l10n-finland:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: L10n Finland
   psc: local-finland-maintainers-project-leader
   psc_rep: local-finland-maintainers-psc-representative
@@ -301,7 +301,7 @@ l10n-france:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: France localization for odoo
   psc: local-france-maintainers
   psc_rep: local-france-maintainers-psc-representative
@@ -320,7 +320,7 @@ l10n-germany:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: L10n Germany
   psc: local-germany-maintainers-project-leader
   psc_rep: local-germany-maintainers-psc-representative
@@ -336,7 +336,7 @@ l10n-greece:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Odoo greek localization
   psc: local-greece-maintainers
   psc_rep: local-greece-maintainers-psc-representative
@@ -354,7 +354,7 @@ l10n-india:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Odoo localization for india
   psc: local-india-maintainers
   psc_rep: local-india-maintainers-psc-representative
@@ -369,7 +369,7 @@ l10n-indonesia:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "8.0"
+  default_branch: "18.0"
   name: Indonesian localization project
   psc: local-indonesia-maintainers
   psc_rep: local-indonesia-maintainers-psc-representative
@@ -404,7 +404,7 @@ l10n-ireland:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Odoo localization for ireland
   psc: local-ireland-maintainers
   psc_rep: local-ireland-maintainers-psc-representative
@@ -426,7 +426,7 @@ l10n-italy:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Odoo italian localization
   psc: local-italy-maintainers
   psc_rep: local-italy-maintainers-psc-representative
@@ -441,7 +441,7 @@ l10n-japan:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: L10n Japan
   psc: local-japan-maintainers
   psc_rep: local-japan-maintainers-psc-representative
@@ -462,7 +462,7 @@ l10n-luxemburg:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: L10n Luxemburg
   psc: local-luxemburg-maintainers
   psc_rep: local-luxemburg-maintainers-psc-representative
@@ -475,7 +475,7 @@ l10n-macedonia:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "12.0"
+  default_branch: "18.0"
   name: Odoo macedonian localization
   psc: local-macedonia-maintainers
   psc_rep: local-macedonia-maintainers-psc-representative
@@ -510,7 +510,7 @@ l10n-morocco:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Moroccan localization
   psc: local-morocco-maintainers
   psc_rep: local-morocco-maintainers-psc-representative
@@ -529,7 +529,7 @@ l10n-netherlands:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Odoo dutch localization
   psc: local-netherlands-maintainers
   psc_rep: local-netherlands-maintainers-psc-representative
@@ -546,7 +546,7 @@ l10n-norway:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: The norwegian localization for odoo
   psc: local-norway-maintainers
   psc_rep: local-norway-maintainers-psc-representative
@@ -565,7 +565,7 @@ l10n-peru:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Peruvian localization
   psc: local-peru-maintainers
   psc_rep: local-peru-maintainers-psc-representative
@@ -580,7 +580,7 @@ l10n-poland:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Odoo polish localization
   psc: local-poland-maintainers
   psc_rep: local-poland-maintainers-psc-representative
@@ -600,7 +600,7 @@ l10n-portugal:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Odoo portuguese localization
   psc: local-portugal-maintainers
   psc_rep: local-portugal-maintainers-psc-representative
@@ -619,7 +619,7 @@ l10n-romania:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Romanian localization for odoo
   psc: local-romania-maintainers
   psc_rep: local-romania-maintainers-psc-representative
@@ -631,7 +631,7 @@ l10n-russia:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: L10n Russia
   psc: local-russia-maintainers
   psc_rep: local-russia-maintainers-psc-representative
@@ -645,7 +645,7 @@ l10n-slovenia:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "10.0"
+  default_branch: "18.0"
   name: Slovenian localization project
   psc: local-slovenia-maintainers
   psc_rep: local-slovenia-maintainers-psc-representative
@@ -668,7 +668,7 @@ l10n-spain:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "17.0"
+  default_branch: "18.0"
   name: Odoo spain localization
   psc: local-spain-maintainers
   psc_rep: local-spain-maintainers-psc-representative
@@ -690,7 +690,7 @@ l10n-switzerland:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Odoo swiss localization
   psc: local-switzerland-maintainers
   psc_rep: local-switzerland-maintainers-psc-representative
@@ -707,7 +707,7 @@ l10n-taiwan:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Taiwanese localization
   psc: board
   psc_rep: board
@@ -723,7 +723,7 @@ l10n-thailand:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Thai localization
   psc: local-thailand-maintainers
   psc_rep: local-thailand-maintainers-psc-representative
@@ -741,7 +741,7 @@ l10n-turkey:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Turkish localization project
   psc: local-turkey-maintainers
   psc_rep: local-turkey-maintainers-psc-representative
@@ -755,7 +755,7 @@ l10n-ukraine:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "12.0"
+  default_branch: "18.0"
   name: Ukrainian localization
   psc: local-ukraine-maintainers
   psc_rep: local-ukraine-maintainers-psc-representative
@@ -773,7 +773,7 @@ l10n-united-kingdom:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Odoo localization for united kingdom
   psc: local-uk-maintainers
   psc_rep: board
@@ -788,7 +788,7 @@ l10n-uruguay:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "12.0"
+  default_branch: "18.0"
   name: Odoo localization for uruguay
   psc: local-uruguay-maintainers
   psc_rep: local-uruguay-maintainers-psc-representative
@@ -825,7 +825,7 @@ l10n-venezuela:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Odoo modules for venezuela
   psc: local-venezuela-maintainers
   psc_rep: local-venezuela-maintainers-psc-representative
@@ -842,7 +842,7 @@ l10n-vietnam:
     - "17.0"
     - "18.0"
   category: L10n
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: L10n Vietnam
   psc: local-vietnam-maintainers
   psc_rep: local-vietnam-maintainers-psc-representative

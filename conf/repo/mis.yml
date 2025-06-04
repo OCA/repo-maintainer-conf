@@ -33,7 +33,7 @@ mis-builder-contrib:
     - "17.0"
     - "18.0"
   category: Mis
-  default_branch: "16.0"
+  default_branch: "18.0"
   name:
     Modules that provide additional features on top of mis builder. a kind of
     incubator for mis builder features that may land in the core in the future.

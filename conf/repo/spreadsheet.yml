@@ -4,7 +4,7 @@ spreadsheet:
     - "17.0"
     - "18.0"
   category: Spreadsheet
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Spreadsheet
   psc: web-maintainers
   psc_rep: web-maintainers-psc-representative

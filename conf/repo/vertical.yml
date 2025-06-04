@@ -12,7 +12,7 @@ vertical-abbey:
     - "17.0"
     - "18.0"
   category: Vertical
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Vertical Abbey
   psc: vertical-abbey-maintainers
   psc_rep: vertical-abbey-maintainers-psc-representative
@@ -30,7 +30,7 @@ vertical-agriculture:
     - "17.0"
     - "18.0"
   category: Vertical
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Verticalization of odoo for farms and agroindustries
   psc: vertical-agriculture-maintainers
   psc_rep: vertical-agriculture-maintainers-psc-representative
@@ -48,7 +48,7 @@ vertical-association:
     - "17.0"
     - "18.0"
   category: Vertical
-  default_branch: "17.0"
+  default_branch: "18.0"
   name: Odoo addons for membership related tasks
   psc: vertical-association-maintainers
   psc_rep: vertical-association-maintainers-psc-representative
@@ -66,7 +66,7 @@ vertical-community:
     - "17.0"
     - "18.0"
   category: Vertical
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Odoo for communities verticalization
   psc: vertical-community-maintainers-project-leader
   psc_rep: vertical-community-maintainers-psc-representative
@@ -86,7 +86,7 @@ vertical-construction:
     - "17.0"
     - "18.0"
   category: Vertical
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Odoo for construction company
   psc: vertical-construction-maintainers
   psc_rep: vertical-construction-maintainers-psc-representative
@@ -98,7 +98,7 @@ vertical-cooperative-supermarket:
     - "17.0"
     - "18.0"
   category: Vertical
-  default_branch: "12.0"
+  default_branch: "18.0"
   name: Vertical Cooperative Supermarket
   psc: cooperative-maintainers
   psc_rep: cooperative-maintainers-psc-representative
@@ -116,7 +116,7 @@ vertical-edition:
     - "17.0"
     - "18.0"
   category: Vertical
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Vertical Edition
   psc: vertical-edition-maintainers
   psc_rep: vertical-edition-maintainers-psc-representative
@@ -135,7 +135,7 @@ vertical-education:
     - "17.0"
     - "18.0"
   category: Vertical
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Odoo modules for schools, universities and other education organizations
   psc: vertical-education-maintainers
   psc_rep: vertical-education-maintainers-psc-representative
@@ -155,7 +155,7 @@ vertical-hotel:
     - "17.0"
     - "18.0"
   category: Vertical
-  default_branch: "15.0"
+  default_branch: "18.0"
   name: Odoo for hotel management
   psc: vertical-hotel-maintainers
   psc_rep: vertical-hotel-maintainers-psc-representative
@@ -174,7 +174,7 @@ vertical-isp:
     - "17.0"
     - "18.0"
   category: Vertical
-  default_branch: "12.0"
+  default_branch: "18.0"
   name: Odoo modules for internet service providers
   psc: vertical-isp-maintainers
   psc_rep: vertical-isp-maintainers-psc-representative
@@ -187,7 +187,7 @@ vertical-medical:
     - "17.0"
     - "18.0"
   category: Vertical
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Open source healthcare system for odoo
   psc: vertical-medical-maintainers
   psc_rep: vertical-medical-maintainers-psc-representative
@@ -206,7 +206,7 @@ vertical-ngo:
     - "17.0"
     - "18.0"
   category: Vertical
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Odoo for ngo"s and humanitarian organization
   psc: vertical-ngo-maintainers
   psc_rep: vertical-ngo-maintainers-psc-representative
@@ -220,7 +220,7 @@ vertical-realestate:
     - "17.0"
     - "18.0"
   category: Vertical
-  default_branch: "13.0"
+  default_branch: "18.0"
   name: Odoo modules for real estate business
   psc: vertical-real-estate-maintainers
   psc_rep: vertical-real-estate-maintainers-psc-representative
@@ -233,7 +233,7 @@ vertical-rental:
     - "17.0"
     - "18.0"
   category: Vertical
-  default_branch: "12.0"
+  default_branch: "18.0"
   name: Vertical Rental
   psc: vertical-rental-maintainers
   psc_rep: vertical-rental-maintainers-psc-representative
@@ -252,7 +252,7 @@ vertical-travel:
     - "17.0"
     - "18.0"
   category: Vertical
-  default_branch: "11.0"
+  default_branch: "18.0"
   name: Vertical Travel
   psc: vertical-travel-maintainers
   psc_rep: vertical-travel-maintainers-psc-representative
