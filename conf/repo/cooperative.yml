@@ -6,7 +6,7 @@ cooperative:
     - "17.0"
     - "18.0"
   category: Cooperative
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Cooperative
   psc: cooperative-maintainers
   psc_rep: cooperative-maintainers-psc-representative

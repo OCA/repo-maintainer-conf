@@ -6,7 +6,7 @@ role-policy:
     - "17.0"
     - "18.0"
   category: Role
-  default_branch: "13.0"
+  default_branch: "18.0"
   name: Role Policy
   psc: role-policy-maintainers
   psc_rep: role-policy-maintainers-psc-representative

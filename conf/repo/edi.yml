@@ -12,7 +12,7 @@ edi:
     - "17.0"
     - "18.0"
   category: Edi
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Edi
   psc: edi-maintainers
   psc_rep: edi-maintainers-psc-representative
@@ -24,7 +24,7 @@ edi-framework:
     - "17.0"
     - "18.0"
   category: Edi
-  default_branch: "16.0"
+  default_branch: "18.0"
   name: Edi Framework
   psc: edi-framework-maintainers
   psc_rep: edi-framework-maintainers-psc-representative

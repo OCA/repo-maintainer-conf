@@ -6,7 +6,7 @@ pms:
     - "17.0"
     - "18.0"
   category: Pms
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Property management system on odoo
   psc: pms-maintainers
   psc_rep: pms-maintainers-psc-representative
