@@ -284,7 +284,7 @@ l10n-finland:
   category: L10n
   default_branch: "18.0"
   name: L10n Finland
-  psc: local-finland-maintainers-project-leader
+  psc: local-finland-maintainers
   psc_rep: local-finland-maintainers-psc-representative
 l10n-france:
   branches:
@@ -322,7 +322,7 @@ l10n-germany:
   category: L10n
   default_branch: "18.0"
   name: L10n Germany
-  psc: local-germany-maintainers-project-leader
+  psc: local-germany-maintainers
   psc_rep: local-germany-maintainers-psc-representative
 l10n-greece:
   branches:

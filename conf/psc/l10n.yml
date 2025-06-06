@@ -202,11 +202,6 @@ local-germany-maintainers:
     - tv-openbig
   name: Local germany maintainers
   representatives: []
-local-germany-maintainers-project-leader:
-  members:
-    - tv-openbig
-  name: Local germany maintainers project leader
-  representatives: []
 local-germany-maintainers-psc-representative:
   members:
     - tv-openbig
