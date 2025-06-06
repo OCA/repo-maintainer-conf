@@ -1,0 +1,12 @@
+ai-maintainers:
+  members:
+    - etobella
+    - ValentinVinagre
+  name: IA maintainers
+  representatives:
+    - etobella
+ai-maintainers-psc-representative:
+  members:
+    - etobella
+  name: Artificial Intelligence psc representaive
+  representatives: []

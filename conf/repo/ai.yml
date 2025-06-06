@@ -1,0 +1,9 @@
+ai:
+  branches:
+    - "17.0"
+    - "18.0"
+  category: Artificial Intelligence
+  default_branch: "18.0"
+  name: Artificial Intelligence repository
+  psc: ai-maintainers
+  psc_rep: ai-maintainers-psc-representative
