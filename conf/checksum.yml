@@ -1,4 +1,5 @@
 psc/accounting.yml: 61ff2570b07399dd80f6c0a08651f1d2
+psc/ai.yml: bbcc2d45baed5a370386a3a30a09c8a6
 psc/backport.yml: a154c221a9ff7c7f363de738db288bb1
 psc/banking.yml: fed0c766ee24b27ea6ec2361a7bf611f
 psc/board.yml: 1a28c9df27312eb6f521ef5ee16d32fd
@@ -59,6 +60,7 @@ psc/web.yml: 853317c3f35f93cc2d1a96afe02b28e1
 psc/website.yml: 312d214b1cd00a922b122ab2af7167e6
 repo/account.yml: 23a9d1db3929778428682e24fa1921ae
 repo/agreement.yml: 5951a3820c25ed4030448ebf9e84b71e
+repo/ai.yml: eb7507c81f33e62a81685f2afd355ed4
 repo/ansible.yml: 7be462af968a93092b5f0325bcc771ed
 repo/apps.yml: 4b55651c16b733f9e573be1c1e49c782
 repo/bank.yml: 5f9e3aca4215cc27758a76d009d3d7fe
