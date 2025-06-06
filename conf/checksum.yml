@@ -29,7 +29,7 @@ psc/infrastructure.yml: c4a567ae54001baed1422a2fb3ab0382
 psc/intercompany.yml: bfc0c8895c7889824f93ff6cdb285b56
 psc/intrastat.yml: e1cd6196a90bc203ed9c110804a886b0
 psc/iot.yml: f1b80feb1e0e915d120890d6117a0d52
-psc/l10n.yml: 20f6515bbfcb2d4d4c4a88e0888f0e9e
+psc/l10n.yml: cd83e5285c5ddbd22379ef76ba1adce3
 psc/logistics.yml: 1798ef3efcfeb21a224dab66361a448d
 psc/mail.yml: 8db9c91fd9e6355ab542d796cc6bb61a
 psc/maintenance.yml: 446bfef5e010985c1b87244c4710431e
@@ -98,7 +98,7 @@ repo/interface.yml: 7f0806b71c1c1f1e0ad8f4444f5790d7
 repo/intrastat.yml: f4335940b22e787b178c398535b335a0
 repo/iot.yml: 5c2fb5d34785b393b9f508a478dddbe6
 repo/knowledge.yml: a8ec89e76be084c9352537de8ac2bb82
-repo/l10n.yml: 4f536b1d46df8c1f11b768e4cc7c5bee
+repo/l10n.yml: 26f10c55e6df4d2d20c3e328329b1d4d
 repo/logistics.yml: 7c0c90255f2adb809c5498f70deb9d98
 repo/mail.yml: f1e5ec40f13ffb463aea741f947fc0e9
 repo/maintainer.yml: 463e3e893523b9314d6ffcb6e7ae5214
