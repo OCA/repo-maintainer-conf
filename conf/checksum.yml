@@ -60,7 +60,7 @@ psc/web.yml: 853317c3f35f93cc2d1a96afe02b28e1
 psc/website.yml: 312d214b1cd00a922b122ab2af7167e6
 repo/account.yml: 23a9d1db3929778428682e24fa1921ae
 repo/agreement.yml: 5951a3820c25ed4030448ebf9e84b71e
-repo/ai.yml: eb7507c81f33e62a81685f2afd355ed4
+repo/ai.yml: 4cf8810ea3066b8b47f6a5bd7f244841
 repo/ansible.yml: 7be462af968a93092b5f0325bcc771ed
 repo/apps.yml: 4b55651c16b733f9e573be1c1e49c782
 repo/bank.yml: 5f9e3aca4215cc27758a76d009d3d7fe
