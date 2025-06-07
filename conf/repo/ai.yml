@@ -1,5 +1,6 @@
 ai:
   branches:
+    - "16.0"
     - "17.0"
     - "18.0"
   category: Artificial Intelligence
