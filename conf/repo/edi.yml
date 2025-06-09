@@ -13,7 +13,39 @@ edi:
     - "18.0"
   category: Edi
   default_branch: "18.0"
-  name: Edi
+  name: EDI generic modules
+  psc: edi-maintainers
+  psc_rep: edi-maintainers-psc-representative
+edi-sale:
+  branches:
+    - "18.0"
+  category: Edi
+  default_branch: "18.0"
+  name: EDI Sale modules
+  psc: edi-maintainers
+  psc_rep: edi-maintainers-psc-representative
+edi-purchase:
+  branches:
+    - "18.0"
+  category: Edi
+  default_branch: "18.0"
+  name: EDI Purchase modules
+  psc: edi-maintainers
+  psc_rep: edi-maintainers-psc-representative
+edi-stock:
+  branches:
+    - "18.0"
+  category: Edi
+  default_branch: "18.0"
+  name: EDI Stock modules
+  psc: edi-maintainers
+  psc_rep: edi-maintainers-psc-representative
+edi-account:
+  branches:
+    - "18.0"
+  category: Edi
+  default_branch: "18.0"
+  name: EDI Stock modules
   psc: edi-maintainers
   psc_rep: edi-maintainers-psc-representative
 edi-framework:
