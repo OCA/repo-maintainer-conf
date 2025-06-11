@@ -1,0 +1,12 @@
+cim-maintainers:
+  members:
+    - moval-agroingenieria
+  name: Complaint and Infringement Management maintainers
+  representatives:
+    - moval-agroingenieria
+cim-maintainers-psc-representative:
+  members:
+    - moval-agroingenieria
+    - einiesta
+  name: Complaint and Infringement Management maintainers psc representative
+  representatives: []
