@@ -1,0 +1,11 @@
+cim-maintainers:
+  members:
+    - einiesta
+  name: Complaint and Infringement Management maintainers
+  representatives:
+    - einiesta
+cim-maintainers-psc-representative:
+  members:
+    - einiesta
+  name: Complaint and Infringement Management maintainers psc representative
+  representatives: []
