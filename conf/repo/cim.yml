@@ -1,0 +1,10 @@
+cim:
+  branches:
+    - "16.0"
+    - "17.0"
+    - "18.0"
+  category: CIM
+  default_branch: "16.0"
+  name: Complaint and Infringement Management
+  psc: cim-maintainers
+  psc_rep: cim-maintainers-psc-representative
