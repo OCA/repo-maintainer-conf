@@ -4,6 +4,7 @@ psc/backport.yml: a154c221a9ff7c7f363de738db288bb1
 psc/banking.yml: fed0c766ee24b27ea6ec2361a7bf611f
 psc/board.yml: 1a28c9df27312eb6f521ef5ee16d32fd
 psc/brand.yml: 618dfd03dc19182c68305dabb4bdd004
+psc/cim.yml: 90ce65d83ef600025ece92220144688a
 psc/community.yml: 845c70f73f5bc3bda78810dad1fa17da
 psc/connector.yml: a2695f2372777667abefd1cd8f58c941
 psc/cooperative.yml: a1c482a253fd87459d6bfc8b13945323
@@ -67,6 +68,7 @@ repo/bank.yml: 5f9e3aca4215cc27758a76d009d3d7fe
 repo/brand.yml: bcbe0ea053bbce8f75faedd4a3aa9b8d
 repo/business.yml: 063d6b01f88d640fc620900a81336a01
 repo/calendar.yml: a52479aa59cedb510fef9c68e93690ad
+repo/cim.yml: a7270e3b56fba29cd25a1e5b022ac302
 repo/commission.yml: 26d1229abdc045627e65f2758588bd8b
 repo/community.yml: 9808e818d505b272c50468e620c3540b
 repo/connector.yml: 9d5c249f05a88006bf494058f51c1c36
