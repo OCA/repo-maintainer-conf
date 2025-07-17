@@ -37,3 +37,11 @@ edi-ediversa:
   name: Edi Ediversa
   psc: edi-maintainers
   psc_rep: edi-maintainers-psc-representative
+edi-voxel:
+  branches:
+    - "18.0"
+  category: Edi
+  default_branch: "18.0"
+  name: EDI Voxel
+  psc: edi-maintainers
+  psc_rep: edi-maintainers-psc-representative
