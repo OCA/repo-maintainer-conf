@@ -20,7 +20,7 @@ psc/donation.yml: 28bf5696ca9d851c712007c7dd9f70b9
 psc/dotnet.yml: be13078f37554377e66ca7976591cbf0
 psc/e-commerce.yml: a3ac7b751e468a2c28d904a5a323137e
 psc/e-learning.yml: 2ea8673556b03446203df7bfbca49166
-psc/edi.yml: bbe4981f5355c94f8e0e16681321e9fd
+psc/edi.yml: bc9c994a4ace8d33b40561802e314b66
 psc/field.yml: 9d64fa2c121033b0f4ff7b19114ad31d
 psc/fleet.yml: 0ea7df237bbccdbfde9ef865926efb1d
 psc/geospatial.yml: c0c39ec5e967d078a7e09f13cde759dc
@@ -88,7 +88,7 @@ repo/donation.yml: e998e89ccea66279cbfb3ebd94ad9a7a
 repo/dotnet.yml: fa4db55c1ce1990eeca21f75df42e5c6
 repo/e-commerce.yml: e8b5ec08f25ee2cdd08d5e4cbdc5c633
 repo/e-learning.yml: 0d7a2928dd9b2ece1476190f90eb01b3
-repo/edi.yml: 0686b3a0ee0de17311b5034771072110
+repo/edi.yml: e623214746a1528aea108d9637cb9aaf
 repo/event.yml: c303f9f15b13a8a7d9d99c8cd0e6e3ab
 repo/field.yml: 9d02c26f0b790c078f62c495e0ef5d4a
 repo/fleet.yml: 592ae78d8c3735901aae1990d66ab36c
