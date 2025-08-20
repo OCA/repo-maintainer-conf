@@ -9,6 +9,12 @@ edi-framework-maintainers-psc-representative:
   name: Edi framework maintainers psc representative
   representatives:
     - simahawk
+edi-ediversa-maintainers:
+  members:
+    - ValentinVinagre
+  name: Edi Ediversa maintainers
+  representatives:
+    - ValentinVinagre
 edi-maintainers:
   members:
     - njeudy
