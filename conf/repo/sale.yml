@@ -3,6 +3,7 @@ sale-blanket:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Sale
   default_branch: "18.0"
   name: Sales blanket order
@@ -13,6 +14,7 @@ sale-channel:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Sale
   default_branch: "18.0"
   name: Sale Channel
@@ -33,6 +35,7 @@ sale-financial:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Sale
   default_branch: "18.0"
   name: Odoo sale and financial related addons
@@ -44,6 +47,7 @@ sale-prebook:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Sale
   default_branch: "18.0"
   name: "Sales order's stock prebooking
@@ -61,6 +65,7 @@ sale-promotion:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Sale
   default_branch: "18.0"
   name: Sale Promotion
@@ -81,6 +86,7 @@ sale-reporting:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Sale
   default_branch: "18.0"
   name: Sale Reporting
@@ -101,6 +107,7 @@ sale-workflow:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Sale
   default_branch: "18.0"
   name: Odoo sales, workflow and organization

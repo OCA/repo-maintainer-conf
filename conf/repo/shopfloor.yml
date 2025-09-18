@@ -1,6 +1,7 @@
 shopfloor-app:
   branches:
     - "18.0"
+    - "19.0"
   category: Mobile apps
   default_branch: "18.0"
   name: Shopfloor App

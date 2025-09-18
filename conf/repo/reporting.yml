@@ -13,6 +13,7 @@ report-print-send:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Report
   default_branch: "18.0"
   name: Odoo printing services and printer related addons
@@ -33,6 +34,7 @@ reporting-engine:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Reporting
   default_branch: "18.0"
   name: Odoo alternative reporting engine

@@ -13,6 +13,7 @@ account-analytic:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Account
   default_branch: "18.0"
   name: Odoo account analytic related addons
@@ -32,6 +33,7 @@ account-budgeting:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Account
   default_branch: "18.0"
   name: Account Budgeting
@@ -52,6 +54,7 @@ account-closing:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Account
   default_branch: "18.0"
   name: Odoo accountant closing tools
@@ -72,6 +75,7 @@ account-consolidation:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Account
   default_branch: "18.0"
   name: Odoo account consolidation addons
@@ -93,6 +97,7 @@ account-financial-reporting:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Account
   default_branch: "18.0"
   name: Financial reports for odoo
@@ -113,6 +118,7 @@ account-financial-tools:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Account
   default_branch: "18.0"
   name: Odoo accountant financial tools and utils
@@ -133,6 +139,7 @@ account-fiscal-rule:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Account
   default_branch: "18.0"
   name: Odoo taxes & fiscal rules management
@@ -153,6 +160,7 @@ account-invoice-reporting:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Account
   default_branch: "18.0"
   name: Odoo invoicing reports
@@ -173,6 +181,7 @@ account-invoicing:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Account
   default_branch: "18.0"
   name: Odoo invoicing extension addons
@@ -193,6 +202,7 @@ account-payment:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Account
   default_branch: "18.0"
   name: Project supervised by the banking psc
@@ -213,6 +223,7 @@ account-reconcile:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Account
   default_branch: "18.0"
   name: Odoo account reconciliation modules (statements, data completion...)
