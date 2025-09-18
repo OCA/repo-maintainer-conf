@@ -13,6 +13,7 @@ project:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Project
   default_branch: "18.0"
   name: Odoo project management and services company addons
@@ -29,6 +30,7 @@ project-agile:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Project
   default_branch: "18.0"
   name: Project Agile
@@ -49,6 +51,7 @@ project-reporting:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Project
   default_branch: "18.0"
   name: Project Reporting

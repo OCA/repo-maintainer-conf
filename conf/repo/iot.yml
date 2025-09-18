@@ -8,6 +8,7 @@ iot:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Iot
   default_branch: "18.0"
   name: Internet of things (iot)

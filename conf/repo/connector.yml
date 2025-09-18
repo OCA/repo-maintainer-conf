@@ -33,6 +33,7 @@ connector-accountedge:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Connector
   default_branch: "18.0"
   name: Odoo modules to connect with account edge (aka myob)
@@ -51,6 +52,7 @@ connector-cmis:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Connector
   default_branch: "18.0"
   name: Cmis connector
@@ -70,6 +72,7 @@ connector-ecommerce:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Connector
   default_branch: "18.0"
   name: Generic module used on odoo for e Commerce industry
@@ -85,6 +88,7 @@ connector-infor:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Connector
   default_branch: "18.0"
   name: Odoo modules to integrate with infor
@@ -120,6 +124,7 @@ connector-jira:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Connector
   default_branch: "18.0"
   name: Connector Jira
@@ -136,6 +141,7 @@ connector-lengow:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Connector
   default_branch: "18.0"
   name: Connector Lengow
@@ -154,6 +160,7 @@ connector-lims:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Connector
   default_branch: "18.0"
   name: Connector Lims
@@ -173,6 +180,7 @@ connector-magento:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Connector
   default_branch: "18.0"
   name: Connect odoo with magento
@@ -198,6 +206,7 @@ connector-odoo2odoo:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Connector
   default_branch: "18.0"
   name: Connector Odoo2odoo. intercompany process, based on odoo Connector
@@ -218,6 +227,7 @@ connector-prestashop:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Connector
   default_branch: "18.0"
   name: Connect odoo with prestashop
@@ -237,6 +247,7 @@ connector-redmine:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Connector
   default_branch: "18.0"
   name: Connector redmine (http://redmine.org)
@@ -257,6 +268,7 @@ connector-sage:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Connector
   default_branch: "18.0"
   name: Connector with sage
@@ -276,6 +288,7 @@ connector-salesforce:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Connector
   default_branch: "18.0"
   name: Connect salesforce with odoo
@@ -292,6 +305,7 @@ connector-spscommerce:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Connector
   default_branch: "18.0"
   name: Connector sps commerce
@@ -314,6 +328,7 @@ connector-telephony:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Connector
   default_branch: "18.0"
   name: Odoo modules for telephony integration
@@ -332,6 +347,7 @@ connector-woocommerce:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Connector
   default_branch: "18.0"
   name: Connector Woocommerce
