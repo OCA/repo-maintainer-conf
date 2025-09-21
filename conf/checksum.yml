@@ -71,7 +71,7 @@ repo/calendar.yml: a52479aa59cedb510fef9c68e93690ad
 repo/cim.yml: a7270e3b56fba29cd25a1e5b022ac302
 repo/commission.yml: 26d1229abdc045627e65f2758588bd8b
 repo/community.yml: 9808e818d505b272c50468e620c3540b
-repo/connector.yml: 9d5c249f05a88006bf494058f51c1c36
+repo/connector.yml: bcb16f4ebdca901bb1e4daf5038758da
 repo/contract.yml: 59e3cca0a973d19ce7b6dfe4083202b4
 repo/contribute.yml: 56aeb27f4303bcbcc180334da44659fe
 repo/cooperative.yml: 0886ffcf79080304bdecce14c6014f64
@@ -139,7 +139,7 @@ repo/role.yml: c7f0a54df32129be341522d4b67f227d
 repo/sale.yml: 2d46a74db94325abb4e4267b73c0e919
 repo/search.yml: 83efbaa942c8db35da5026e64d6c4762
 repo/sentinel.yml: ae6017f0942746e0d3a93aa71b3f3dd9
-repo/server.yml: 598aa50f37e86dfa675d6fe512fc8418
+repo/server.yml: df799db324382f3d81716c2cdae57b05
 repo/shift.yml: 94b14b698e8c3df63f94010477fb787a
 repo/shopfloor.yml: c414b23b0d03ea92026a28d095652c47
 repo/sign.yml: 7686404cdfb5a8731a0c0d811ca78e1d
