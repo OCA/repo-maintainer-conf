@@ -13,6 +13,7 @@ purchase-reporting:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Purchase
   default_branch: "18.0"
   name: Purchase Reporting
@@ -33,6 +34,7 @@ purchase-workflow:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Purchase
   default_branch: "18.0"
   name: Odoo purchases, workflow and organization

@@ -11,6 +11,7 @@ server-auth:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Server
   default_branch: "18.0"
   name: Server Auth
@@ -26,6 +27,7 @@ server-backend:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Server
   default_branch: "18.0"
   name: Server Backend
@@ -41,6 +43,7 @@ server-brand:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Server
   default_branch: "18.0"
   name: Server Brand
@@ -56,6 +59,7 @@ server-env:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Server
   default_branch: "18.0"
   name: Tools to manage environment Dependent configuration
@@ -93,6 +97,7 @@ server-ux:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Server
   default_branch: "18.0"
   name: Server Ux

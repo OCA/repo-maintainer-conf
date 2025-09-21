@@ -3,6 +3,7 @@ spreadsheet:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Spreadsheet
   default_branch: "18.0"
   name: Spreadsheet

@@ -15,6 +15,7 @@ bank-payment:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Bank
   default_branch: "18.0"
   name: Odoo electronic payment
@@ -23,6 +24,7 @@ bank-payment:
 bank-payment-alternative:
   branches:
     - "18.0"
+    - "19.0"
   category: Bank
   default_branch: "18.0"
   name: Odoo payment orders and direct debits
@@ -42,6 +44,7 @@ bank-statement-import:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Bank
   default_branch: "18.0"
   name: Bank import addons

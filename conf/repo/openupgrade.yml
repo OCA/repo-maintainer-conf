@@ -15,6 +15,7 @@ OpenUpgrade:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Openupgrade
   default_branch: "18.0"
   name: Open source upgrade path for odoo/openerp

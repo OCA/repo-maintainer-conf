@@ -2,6 +2,7 @@ stock-logistics-availability:
   branches:
     - "16.0"
     - "18.0"
+    - "19.0"
   category: Stock
   default_branch: "18.0"
   name:
@@ -24,6 +25,7 @@ stock-logistics-barcode:
     - "15.0"
     - "16.0"
     - "18.0"
+    - "19.0"
   category: Stock
   default_branch: "18.0"
   name: Stock Logistics Barcode
@@ -33,6 +35,7 @@ stock-logistics-interfaces:
   branches:
     - "16.0"
     - "18.0"
+    - "19.0"
   category: Stock
   default_branch: "18.0"
   name: Stock Logistics Interfaces
@@ -42,6 +45,7 @@ stock-logistics-orderpoint:
   branches:
     - "16.0"
     - "18.0"
+    - "19.0"
   category: Stock
   default_branch: "18.0"
   name:
@@ -52,6 +56,7 @@ stock-logistics-orderpoint:
 stock-logistics-putaway:
   branches:
     - "18.0"
+    - "19.0"
   category: Stock
   default_branch: "18.0"
   name: This repository contains modules to manage put-aways.
@@ -60,6 +65,7 @@ stock-logistics-putaway:
 stock-logistics-release-channel:
   branches:
     - "18.0"
+    - "19.0"
   category: Stock
   default_branch: "18.0"
   name:
@@ -82,6 +88,7 @@ stock-logistics-reporting:
     - "15.0"
     - "16.0"
     - "18.0"
+    - "19.0"
   category: Stock
   default_branch: "18.0"
   name: Provides odoo logistics reporting modules
@@ -91,6 +98,7 @@ stock-logistics-request:
   branches:
     - "16.0"
     - "18.0"
+    - "19.0"
   category: Stock
   default_branch: "18.0"
   name:
@@ -102,6 +110,7 @@ stock-logistics-request:
 stock-logistics-reservation:
   branches:
     - "18.0"
+    - "19.0"
   category: Stock
   default_branch: "18.0"
   name: This repository contains modules related to products reservations.
@@ -110,6 +119,7 @@ stock-logistics-reservation:
 stock-logistics-shopfloor:
   branches:
     - "18.0"
+    - "19.0"
   category: Stock
   default_branch: "18.0"
   name:
@@ -131,6 +141,7 @@ stock-logistics-tracking:
     - "15.0"
     - "16.0"
     - "18.0"
+    - "19.0"
   category: Stock
   default_branch: "18.0"
   name: This repository contains modules around stock packages management
@@ -149,6 +160,7 @@ stock-logistics-transport:
     - "15.0"
     - "16.0"
     - "18.0"
+    - "19.0"
   category: Stock
   default_branch: "18.0"
   name: "Transport management in odoo "
@@ -168,6 +180,7 @@ stock-logistics-warehouse:
     - "15.0"
     - "16.0"
     - "18.0"
+    - "19.0"
   category: Stock
   default_branch: "18.0"
   name: Odoo warehouse management addons
@@ -187,6 +200,7 @@ stock-logistics-workflow:
     - "15.0"
     - "16.0"
     - "18.0"
+    - "19.0"
   category: Stock
   default_branch: "18.0"
   name: Odoo stock, workflow and organization
@@ -198,6 +212,7 @@ stock-weighing:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Stock
   default_branch: "18.0"
   name: Shopfloor for weighing operations
@@ -212,6 +227,7 @@ wms:
     - "15.0"
     - "16.0"
     - "18.0"
+    - "19.0"
   category: Wms
   default_branch: "18.0"
   name: Warehouse management system for advance logistic with odoo
