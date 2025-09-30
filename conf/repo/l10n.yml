@@ -12,6 +12,7 @@ l10n-argentina:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo modules for argentina
@@ -28,6 +29,7 @@ l10n-austria:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo austria localization
@@ -43,6 +45,7 @@ l10n-belarus:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: L10n Belarus
@@ -62,6 +65,7 @@ l10n-belgium:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: L10n Belgium
@@ -83,6 +87,7 @@ l10n-brazil:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: "Localiza\xE7\xE3o brasileira oficial do odoo."
@@ -93,6 +98,7 @@ l10n-bulgaria:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo bulgarian localization
@@ -105,6 +111,7 @@ l10n-cambodia:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo cambodian localization
@@ -125,6 +132,7 @@ l10n-canada:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo modules for canada
@@ -143,6 +151,7 @@ l10n-chile:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo chilean localization
@@ -160,6 +169,7 @@ l10n-china:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Chinese localization of odoo
@@ -177,6 +187,7 @@ l10n-colombia:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo modules for colombia
@@ -194,6 +205,7 @@ l10n-costa-rica:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo modules for costa Rica
@@ -211,6 +223,7 @@ l10n-croatia:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo croatian localization
@@ -229,6 +242,7 @@ l10n-ecuador:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo localization for ecuador
@@ -244,6 +258,7 @@ l10n-estonia:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: L10n Estonia
@@ -263,6 +278,7 @@ l10n-ethiopia:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Ethiopian localization project
@@ -281,6 +297,7 @@ l10n-finland:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: L10n Finland
@@ -300,6 +317,7 @@ l10n-france:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: France localization for odoo
@@ -319,6 +337,7 @@ l10n-germany:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: L10n Germany
@@ -335,6 +354,7 @@ l10n-greece:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo greek localization
@@ -353,6 +373,7 @@ l10n-india:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo localization for india
@@ -368,6 +389,7 @@ l10n-indonesia:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Indonesian localization project
@@ -386,6 +408,7 @@ l10n-iran:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo localization for iran
@@ -403,6 +426,7 @@ l10n-ireland:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo localization for ireland
@@ -425,6 +449,7 @@ l10n-italy:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo italian localization
@@ -440,6 +465,7 @@ l10n-japan:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: L10n Japan
@@ -461,6 +487,7 @@ l10n-luxemburg:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: L10n Luxemburg
@@ -474,6 +501,7 @@ l10n-macedonia:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo macedonian localization
@@ -491,6 +519,7 @@ l10n-mexico:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Mexican localization.
@@ -509,6 +538,7 @@ l10n-morocco:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Moroccan localization
@@ -528,6 +558,7 @@ l10n-netherlands:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo dutch localization
@@ -545,6 +576,7 @@ l10n-norway:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: The norwegian localization for odoo
@@ -564,6 +596,7 @@ l10n-peru:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Peruvian localization
@@ -579,6 +612,7 @@ l10n-poland:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo polish localization
@@ -599,6 +633,7 @@ l10n-portugal:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo portuguese localization
@@ -618,6 +653,7 @@ l10n-romania:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Romanian localization for odoo
@@ -630,6 +666,7 @@ l10n-russia:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: L10n Russia
@@ -644,6 +681,7 @@ l10n-slovenia:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Slovenian localization project
@@ -667,6 +705,7 @@ l10n-spain:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo spain localization
@@ -689,6 +728,7 @@ l10n-switzerland:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo swiss localization
@@ -706,6 +746,7 @@ l10n-taiwan:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Taiwanese localization
@@ -722,6 +763,7 @@ l10n-thailand:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Thai localization
@@ -740,6 +782,7 @@ l10n-turkey:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Turkish localization project
@@ -754,6 +797,7 @@ l10n-ukraine:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Ukrainian localization
@@ -772,6 +816,7 @@ l10n-united-kingdom:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo localization for united kingdom
@@ -787,6 +832,7 @@ l10n-uruguay:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo localization for uruguay
@@ -806,6 +852,7 @@ l10n-usa:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Us localization of odoo
@@ -824,6 +871,7 @@ l10n-venezuela:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: Odoo modules for venezuela
@@ -841,6 +889,7 @@ l10n-vietnam:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: L10n
   default_branch: "18.0"
   name: L10n Vietnam

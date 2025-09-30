@@ -13,6 +13,7 @@ hr:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Hr
   default_branch: "18.0"
   name: Odoo human resources addons
@@ -26,6 +27,7 @@ hr-attendance:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Hr
   default_branch: "18.0"
   name: Hr attendance oca modules for odoo
@@ -39,6 +41,7 @@ hr-expense:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Hr
   default_branch: "18.0"
   name: Human resources expenses oca modules for odoo
@@ -52,6 +55,7 @@ hr-holidays:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Hr
   default_branch: "18.0"
   name: Human resources holidays oca modules for odoo

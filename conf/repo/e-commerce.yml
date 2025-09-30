@@ -12,6 +12,7 @@ e-commerce:
     - "15.0"
     - "16.0"
     - "18.0"
+    - "19.0"
   category: E-commerce
   default_branch: "18.0"
   name: Odoo e Commerce server automation addons

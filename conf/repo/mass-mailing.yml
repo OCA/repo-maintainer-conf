@@ -1,6 +1,7 @@
 mass-mailing:
   branches:
     - "18.0"
+    - "19.0"
   category: Mail
   default_branch: "18.0"
   name: Addons related to Odoo"s mass mailing feature

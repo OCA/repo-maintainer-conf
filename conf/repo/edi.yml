@@ -11,10 +11,21 @@ edi:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Edi
   default_branch: "18.0"
   name: Edi
   psc: edi-maintainers
+  psc_rep: edi-maintainers-psc-representative
+edi-ediversa:
+  branches:
+    - "17.0"
+    - "18.0"
+    - "19.0"
+  category: Edi
+  default_branch: "18.0"
+  name: Edi Ediversa
+  psc: edi-ediversa-maintainers
   psc_rep: edi-maintainers-psc-representative
 edi-framework:
   branches:
@@ -23,24 +34,17 @@ edi-framework:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Edi
   default_branch: "18.0"
   name: Edi Framework
   psc: edi-framework-maintainers
   psc_rep: edi-framework-maintainers-psc-representative
-edi-ediversa:
-  branches:
-    - "17.0"
-    - "18.0"
-  category: Edi
-  default_branch: "18.0"
-  name: Edi Ediversa
-  psc: edi-ediversa-maintainers
-  psc_rep: edi-maintainers-psc-representative
 edi-voxel:
   branches:
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Edi
   default_branch: "18.0"
   name: EDI Voxel

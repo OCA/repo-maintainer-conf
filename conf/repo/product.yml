@@ -13,6 +13,7 @@ product-attribute:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Product
   default_branch: "18.0"
   name: Odoo product attribute
@@ -25,6 +26,7 @@ product-configurator:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Product
   default_branch: "18.0"
   name:
@@ -47,6 +49,7 @@ product-kitting:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Product
   default_branch: "18.0"
   name: Odoo kitting addons
@@ -61,6 +64,7 @@ product-pack:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Product
   default_branch: "18.0"
   name: Odoo modules related to product packs
@@ -81,6 +85,7 @@ product-variant:
     - "16.0"
     - "17.0"
     - "18.0"
+    - "19.0"
   category: Product
   default_branch: "18.0"
   name: Product Variant
