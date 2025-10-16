@@ -2,6 +2,7 @@ rest-framework-maintainers:
   members:
     - lmignon
     - sebastienbeau
+    - hoangtrann
   name: Rest framework maintainers
   representatives:
     - simahawk
