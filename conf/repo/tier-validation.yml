@@ -1,0 +1,8 @@
+tier-validation:
+  branches:
+    - "19.0"
+  category: Tier Validation
+  default_branch: "18.0"
+  name: Tier Validation
+  psc: tier-validation-maintainers
+  psc_rep: tier-validation-maintainers-psc-representative
