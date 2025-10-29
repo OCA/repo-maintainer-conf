@@ -1,0 +1,12 @@
+tier-validation-maintainers:
+  members:
+    - LoisRForgeFlow
+    - pedrobaeza
+  name: Tier Validation maintainers
+  representatives:
+    - LoisRForgeFlow
+tier-validation-maintainers-psc-representative:
+  members:
+    - LoisRForgeFlow
+  name: Tier Validation maintainers psc representative
+  representatives: []
