@@ -109,6 +109,7 @@ local-china-maintainers-psc-representative:
 local-colombia-maintainers:
   members:
     - nhomar
+    - yanchirino
   name: Local colombia maintainers
   representatives: []
 local-colombia-maintainers-psc-representative:
