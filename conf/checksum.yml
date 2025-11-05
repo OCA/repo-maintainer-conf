@@ -55,6 +55,7 @@ psc/server.yml: eae2a2800ed0c6bb240a532b10f4f6b7
 psc/shopfloor-app.yml: 34c04a59067e551eec31ec4d6361d8db
 psc/social.yml: 325174e22a340e51c806b148c0f9ae79
 psc/storage.yml: ea554c101ded7980d7c3f7142b8603e9
+psc/tier-validation.yml: 3fb56cbe9da662eacc4744cdd2f0279d
 psc/tools.yml: e4ace7778a67bf035637878901af45b6
 psc/vertical.yml: 0b1204049f2c1272ec1751848793f5ec
 psc/web.yml: 853317c3f35f93cc2d1a96afe02b28e1
@@ -102,7 +103,7 @@ repo/iot.yml: f47cbb0b1fa6f0dc98981c826851c8e1
 repo/knowledge.yml: 52c8fc2a7d646218ee8d25c7e05913ae
 repo/l10n.yml: 617219b321a181ae373647cce8755b27
 repo/logistics.yml: 7686b29c7276108309cf69a1ec63fdbe
-repo/mail.yml: 01db1ad05da4bb207088d0e0cf17ae37
+repo/mail.yml: 2a05e20bcb4a23805848f0b232efde03
 repo/maintainer.yml: 463e3e893523b9314d6ffcb6e7ae5214
 repo/maintenance.yml: 387e6b1d5d945eb54cf46912b781bb88
 repo/management.yml: 5a45e86cd90a67b0544dae85681ba8d2
@@ -113,7 +114,7 @@ repo/mirrors.yml: e031a9121908b0c3fd74225481fee295
 repo/mis.yml: e876505484bf8b340efb603b5a0a4e5f
 repo/multi.yml: 58abcfda8d5164920c92b3d7a0cdd129
 repo/oca.recipe.odoo.yml: 9ef093e3abe33cd7f9efb58311bdcb6b
-repo/oca.yml: 964c1318c856e2351551f2dd62519234
+repo/oca.yml: a974584c6f00d87ef49f0c0e60e2c06b
 repo/ocb.yml: c74a27f642aba9330009b1d40a0ad940
 repo/odoo-community.yml: bc585ae362c4ebca519f65168b445166
 repo/odoorpc.yml: 61a6e6e588a33cae15072b2dfa37e587
@@ -148,6 +149,7 @@ repo/sphinx.yml: 3f90aadd0f73d10972310d334d8e87af
 repo/spreadsheet.yml: 5c488f93acb83f503823e8d0039589e7
 repo/storage.yml: 598b7a2f8f9a84de09b2e29c05270c12
 repo/survey.yml: 71e318166a5ca41b978c8c150b1ce309
+repo/tier-validation.yml: d0a7a4daa84287ca3f964845dd9bb9cc
 repo/timesheet.yml: ea33f0988479f650a1a939d1e2d27ffb
 repo/vertical.yml: d6ed4f16414f7fc4407c7e1974fc8e0b
 repo/wallet.yml: 8662d9d7faa007962dc6a5cf81dc868c
