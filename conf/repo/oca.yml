@@ -20,8 +20,9 @@ oca-custom:
     - "12.0"
     - "13.0"
     - "14.0"
+    - "18.0"
   category: Oca
-  default_branch: "14.0"
+  default_branch: "18.0"
   name: Custom module for oca instance
   psc: board
   psc_rep: board
