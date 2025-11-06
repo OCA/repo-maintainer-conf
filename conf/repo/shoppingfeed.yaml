@@ -1,0 +1,9 @@
+shoppingfeed:
+  branches:
+    - "18.0"
+    - "19.0"
+  category: Shoppingfeed
+  default_branch: "18.0"
+  name: Shoppingfeed
+  psc: shoppingfeed-maintainers
+  psc_rep: shoppingfeed-maintainers-psc-representative
