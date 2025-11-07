@@ -53,6 +53,7 @@ psc/sale.yml: 46822420e5af95e9a297dbde4f867261
 psc/search.yml: cabdb93e6312fe03fd903dd4963e9e48
 psc/server.yml: eae2a2800ed0c6bb240a532b10f4f6b7
 psc/shopfloor-app.yml: 34c04a59067e551eec31ec4d6361d8db
+psc/shoppingfeed.yml: 1fc1ccccb608da7009824d127b2dec2f
 psc/social.yml: 325174e22a340e51c806b148c0f9ae79
 psc/storage.yml: ea554c101ded7980d7c3f7142b8603e9
 psc/tier-validation.yml: 3fb56cbe9da662eacc4744cdd2f0279d
@@ -143,6 +144,7 @@ repo/sentinel.yml: ae6017f0942746e0d3a93aa71b3f3dd9
 repo/server.yml: 2b7e778f5816d4eba8b4648da1ccd990
 repo/shift.yml: 4c4f22c8b1cccbbd415f19bd79b9bf05
 repo/shopfloor.yml: 6b900bf98a3261bc1afed90dbc7307e1
+repo/shoppingfeed.yml: e60263cbe68616a850fd48f70743690f
 repo/sign.yml: 76d7d7bc07c4b8f6056d1cb97068bd1a
 repo/social.yml: 1faf6b177961ebe57e81672979b89050
 repo/sphinx.yml: 3f90aadd0f73d10972310d334d8e87af
