@@ -27,6 +27,8 @@ oca-custom:
   psc: board
   psc_rep: board
   manual_branch_mgmt: true
+  maintainers:
+    - petrus-v
 oca-decorators:
   branches: []
   category: Oca
