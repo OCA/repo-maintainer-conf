@@ -1,4 +1,5 @@
 infrastructure-maintainer:
-  members: []
+  members:
+    - flotho
   name: Maintainer of the infrastructure repositories
   representatives: []
