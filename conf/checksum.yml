@@ -26,7 +26,7 @@ psc/fleet.yml: 0ea7df237bbccdbfde9ef865926efb1d
 psc/geospatial.yml: c0c39ec5e967d078a7e09f13cde759dc
 psc/helpdesk.yml: d899f818edf9a41a58dc8a8cbd02fa5f
 psc/human.yml: afe7ae36dda3927b71395061080ce825
-psc/infrastructure.yml: c4a567ae54001baed1422a2fb3ab0382
+psc/infrastructure.yml: 2cb7622f0781b87b10953ae87897a0f5
 psc/intercompany.yml: 10a29e9f014355cd4a17478aa093ffd9
 psc/intrastat.yml: e1cd6196a90bc203ed9c110804a886b0
 psc/iot.yml: f1b80feb1e0e915d120890d6117a0d52
