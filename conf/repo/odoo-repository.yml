@@ -1,0 +1,8 @@
+odoo-repository:
+  branches:
+    - "16.0"
+  category: Odoo Repositories Data
+  default_branch: "16.0"
+  name: Odoo Repositories Data
+  psc: odoo-repository-maintainers
+  psc_rep: odoo-repository-maintainers-psc-representative

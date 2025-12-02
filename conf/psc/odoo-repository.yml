@@ -1,0 +1,11 @@
+odoo-repository-maintainers:
+  members:
+    - sebalix
+  name: Odoo Repositories Data maintainers
+  representatives:
+    - sebalix
+odoo-repository-maintainers-psc-representative:
+  members:
+    - sebalix
+  name: Odoo Repositories Data psc representaive
+  representatives: []
