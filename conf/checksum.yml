@@ -23,7 +23,7 @@ psc/e-learning.yml: 2ea8673556b03446203df7bfbca49166
 psc/edi.yml: bc9c994a4ace8d33b40561802e314b66
 psc/field.yml: 9d64fa2c121033b0f4ff7b19114ad31d
 psc/fleet.yml: 0ea7df237bbccdbfde9ef865926efb1d
-psc/geospatial.yml: c0c39ec5e967d078a7e09f13cde759dc
+psc/geospatial.yml: 472c7dbf755aa4dadac11e9eb6845880
 psc/helpdesk.yml: d899f818edf9a41a58dc8a8cbd02fa5f
 psc/human.yml: afe7ae36dda3927b71395061080ce825
 psc/infrastructure.yml: 2cb7622f0781b87b10953ae87897a0f5
@@ -31,7 +31,7 @@ psc/intercompany.yml: 10a29e9f014355cd4a17478aa093ffd9
 psc/intrastat.yml: e1cd6196a90bc203ed9c110804a886b0
 psc/iot.yml: f1b80feb1e0e915d120890d6117a0d52
 psc/l10n.yml: e815b4c6618a3bbfda3a6da8ae28fe12
-psc/logistics.yml: a6e065a28a62226371cb13ae4bd9c8f1
+psc/logistics.yml: 00442a0e0e7ebcde6757b023a33c2a34
 psc/mail.yml: 8db9c91fd9e6355ab542d796cc6bb61a
 psc/maintenance.yml: 446bfef5e010985c1b87244c4710431e
 psc/management.yml: 89941c96f1fe8439c7ffd77b3bd4ea86
