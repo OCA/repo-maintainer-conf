@@ -12,6 +12,17 @@ local-austria-maintainers:
     - wtaferner
   name: Local austria maintainers
   representatives: []
+local-australia-maintainers:
+  members:
+    - JhonRomero26
+    - gdgellatly
+  name: Local australia maintainers
+  representatives: []
+local-australia-maintainers-psc-representative:
+  members:
+    - gdgellatly
+  name: Local australia maintainers psc representative
+  representatives: []
 local-austria-maintainers-psc-representative:
   members:
     - wtaferner
