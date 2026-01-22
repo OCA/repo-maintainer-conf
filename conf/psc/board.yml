@@ -1,16 +1,14 @@
 board:
   name: The oca board
   members:
+    - dreispt
+    - etobella
+    - ivs-cetmix
+    - jelenapoblet
     - jgrandguillaume
-    - simahawk
     - OSevangelist
     - sbidoul
-    - dreispt
-    - bguillot
-    - gdgellatly
-    - vdewulf
-    - ivs-cetmix
+    - sebastienbeau
     - thomaspaulb
-    - rousseldenis
   representatives:
     - jgrandguillaume
