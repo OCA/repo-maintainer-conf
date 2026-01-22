@@ -35,6 +35,15 @@ l10n-austria:
   name: Odoo austria localization
   psc: local-austria-maintainers
   psc_rep: local-austria-maintainers-psc-representative
+l10n-australia:
+  branches:
+    - "18.0"
+    - "19.0"
+  category: L10n
+  default_branch: "18.0"
+  name: Odoo Australia localization
+  psc: local-australia-maintainers
+  psc_rep: local-australia-maintainers-psc-representative
 l10n-belarus:
   branches:
     - "11.0"
