@@ -1,0 +1,12 @@
+vcp-maintainers:
+  members:
+    - sebastienbeau
+    - etobella
+  name: Version Control Platform maintainers
+  representatives:
+    - etobella
+vcp-psc-representative:
+  members: []
+  name: Version Control Platform psc representative
+  representatives:
+    - etobella
