@@ -1,0 +1,8 @@
+module-composition-analysis:
+  branches:
+    - "16.0"
+  category: Module Composition Analysis
+  default_branch: "16.0"
+  name: Module Composition Analysis
+  psc: module-composition-analysis-maintainers
+  psc_rep: module-composition-analysis-maintainers-psc-representative
