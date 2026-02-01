@@ -37,6 +37,7 @@ psc/maintenance.yml: 446bfef5e010985c1b87244c4710431e
 psc/management.yml: 89941c96f1fe8439c7ffd77b3bd4ea86
 psc/manufacturing.yml: 05f351f3dab1889acb52d3f1dd58159c
 psc/mis.yml: 2f3692f56a5923086dc493727547a600
+psc/module-composition-analysis.yml: 4a1ba7f593184bebeafc6a404f5553ea
 psc/oca.yml: fe021e25f708c17fb23a687d0be7e211
 psc/openupgrade.yml: 3294d16f42803f8fbeea170c8bbfdd12
 psc/payroll.yml: d0371fca8c0d6437ce062827399ba800
@@ -113,6 +114,7 @@ repo/margin.yml: 7aaa7a9e4dfa9fe0848a1ed181d55b5a
 repo/mass-mailing.yml: d2cdb024631b58eff178b88a6f497266
 repo/mirrors.yml: e031a9121908b0c3fd74225481fee295
 repo/mis.yml: e876505484bf8b340efb603b5a0a4e5f
+repo/module-composition-analysis.yml: adb9588f14e9fd77a27600aa78ec1c88
 repo/multi.yml: 58abcfda8d5164920c92b3d7a0cdd129
 repo/oca.recipe.odoo.yml: 9ef093e3abe33cd7f9efb58311bdcb6b
 repo/oca.yml: a974584c6f00d87ef49f0c0e60e2c06b
