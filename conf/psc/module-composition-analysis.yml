@@ -1,0 +1,12 @@
+module-composition-analysis-maintainers:
+  members:
+    - sebalix
+    - hparfr
+  name: Module Composition Analysis maintainers
+  representatives:
+    - sebalix
+module-composition-analysis-maintainers-psc-representative:
+  members:
+    - sebalix
+  name: Module Composition Analysis psc representaive
+  representatives: []
