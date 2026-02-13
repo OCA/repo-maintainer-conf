@@ -269,20 +269,17 @@ local-italy-developers:
     - MarcoCalcagni
     - francesco-ooops
     - monen17
-  name: Team only used for notifications.
-    See https://github.com/OCA/l10n-italy/wiki/Team-di-sviluppo
+  name: Team only used for notifications. See
+    https://github.com/OCA/l10n-italy/wiki/Team-di-sviluppo
   representatives:
     - eLBati
 local-italy-maintainers:
   members:
     - primes2h
-    - OpenCode
-    - dcorio
     - TheMule71
     - eLBati
     - tafaRU
     - sergiocorato
-    - alessandrocamilli
     - francesco-ooops
     - monen17
     - MarcoCalcagni
