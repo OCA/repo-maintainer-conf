@@ -376,6 +376,16 @@ local-peru-maintainers-psc-representative:
     - nhomar
   name: Local peru maintainers psc representative
   representatives: []
+local-paraguay-maintainers:
+  members:
+    - mileo
+  name: Local paraguay maintainers
+  representatives: []
+local-paraguay-maintainers-psc-representative:
+  members:
+    - mileo
+  name: Local paraguay maintainers psc representative
+  representatives: []
 local-poland-maintainers:
   members:
     - okuryan

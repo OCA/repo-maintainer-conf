@@ -602,6 +602,17 @@ l10n-peru:
   name: Peruvian localization
   psc: local-peru-maintainers
   psc_rep: local-peru-maintainers-psc-representative
+l10n-paraguay:
+  branches:
+    - "16.0"
+    - "17.0"
+    - "18.0"
+    - "19.0"
+  category: L10n
+  default_branch: "16.0"
+  name: Odoo Paraguay localization
+  psc: local-paraguay-maintainers
+  psc_rep: local-paraguay-maintainers-psc-representative
 l10n-poland:
   branches:
     - "11.0"
