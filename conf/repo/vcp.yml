@@ -1,0 +1,9 @@
+version-control-platform:
+  branches:
+    - "18.0"
+    - "19.0"
+  category: Version Control Platform
+  default_branch: "18.0"
+  name: Odoo version control platform addons
+  psc: vcp-maintainers
+  psc_rep: vcp-psc-representative
