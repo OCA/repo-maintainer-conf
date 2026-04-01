@@ -59,6 +59,7 @@ psc/social.yml: 325174e22a340e51c806b148c0f9ae79
 psc/storage.yml: ea554c101ded7980d7c3f7142b8603e9
 psc/tier-validation.yml: 3fb56cbe9da662eacc4744cdd2f0279d
 psc/tools.yml: e4ace7778a67bf035637878901af45b6
+psc/vcp.yml: 725cca2a50b11b157ef239cfbbe229ab
 psc/vertical.yml: 0b1204049f2c1272ec1751848793f5ec
 psc/web.yml: 853317c3f35f93cc2d1a96afe02b28e1
 psc/website.yml: 312d214b1cd00a922b122ab2af7167e6
@@ -155,6 +156,7 @@ repo/storage.yml: 598b7a2f8f9a84de09b2e29c05270c12
 repo/survey.yml: 71e318166a5ca41b978c8c150b1ce309
 repo/tier-validation.yml: d0a7a4daa84287ca3f964845dd9bb9cc
 repo/timesheet.yml: ea33f0988479f650a1a939d1e2d27ffb
+repo/vcp.yml: d45ec7b7dbb897830c22ce7d5c19ca43
 repo/vertical.yml: d6ed4f16414f7fc4407c7e1974fc8e0b
 repo/wallet.yml: 8662d9d7faa007962dc6a5cf81dc868c
 repo/web.yml: b49491254cf6012d6b69a8aafb61188c
