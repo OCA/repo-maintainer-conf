@@ -233,6 +233,7 @@ local-india-maintainers-psc-representative:
 local-indonesia-maintainers:
   members:
     - andhit-r
+    - hitrosol
   name: Local indonesia maintainers
   representatives: []
 local-indonesia-maintainers-psc-representative:
