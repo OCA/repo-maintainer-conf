@@ -1,4 +1,4 @@
-interface-github:
+interface-git:
   branches:
     - "8.0"
     - "10.0"
@@ -13,6 +13,6 @@ interface-github:
     - "19.0"
   category: Interface
   default_branch: "18.0"
-  name: Tools to interact with github from odoo
+  name: Tools to interact with git (GitHub/Gitlab) from Odoo
   psc: tools-maintainers
   psc_rep: tools-maintainers-psc-representative
