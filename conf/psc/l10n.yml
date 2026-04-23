@@ -201,6 +201,7 @@ local-france-maintainers-psc-representative:
 local-germany-maintainers:
   members:
     - tv-openbig
+    - pniederlag
   name: Local germany maintainers
   representatives: []
 local-germany-maintainers-psc-representative:
