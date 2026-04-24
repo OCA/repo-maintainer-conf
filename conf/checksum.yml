@@ -30,7 +30,7 @@ psc/infrastructure.yml: 2cb7622f0781b87b10953ae87897a0f5
 psc/intercompany.yml: 10a29e9f014355cd4a17478aa093ffd9
 psc/intrastat.yml: e1cd6196a90bc203ed9c110804a886b0
 psc/iot.yml: f1b80feb1e0e915d120890d6117a0d52
-psc/l10n.yml: 6b0431b255096c6bfeaba00390813001
+psc/l10n.yml: 220a06462a88e9f13fbb7633c9c38935
 psc/logistics.yml: 00442a0e0e7ebcde6757b023a33c2a34
 psc/mail.yml: 8db9c91fd9e6355ab542d796cc6bb61a
 psc/maintenance.yml: 446bfef5e010985c1b87244c4710431e
@@ -55,7 +55,7 @@ psc/search.yml: cabdb93e6312fe03fd903dd4963e9e48
 psc/server.yml: eae2a2800ed0c6bb240a532b10f4f6b7
 psc/shopfloor-app.yml: 34c04a59067e551eec31ec4d6361d8db
 psc/shoppingfeed.yml: 1fc1ccccb608da7009824d127b2dec2f
-psc/social.yml: 325174e22a340e51c806b148c0f9ae79
+psc/social.yml: 70167cfc14dcef305b6d9fc0b57f20b2
 psc/storage.yml: ea554c101ded7980d7c3f7142b8603e9
 psc/tier-validation.yml: 3fb56cbe9da662eacc4744cdd2f0279d
 psc/tools.yml: e4ace7778a67bf035637878901af45b6
