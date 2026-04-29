@@ -1,0 +1,12 @@
+route-planning-maintainers:
+  members:
+    - carlos-lopez-tecnativa
+    - pedrobaeza
+  name: Route planning maintainers
+  representatives:
+    - carlos-lopez-tecnativa
+route-planning-maintainers-psc-representative:
+  members:
+    - carlos-lopez-tecnativa
+  name: Route planning maintainers psc representative
+  representatives: []

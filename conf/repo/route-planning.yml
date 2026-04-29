@@ -1,0 +1,9 @@
+route-planning:
+  branches:
+    - "18.0"
+    - "19.0"
+  category: Route planning
+  default_branch: "18.0"
+  name: Route planning
+  psc: route-planning-maintainers
+  psc_rep: route-planning-maintainers-psc-representative
