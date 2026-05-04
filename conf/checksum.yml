@@ -50,6 +50,7 @@ psc/queue.yml: b80956c4721c7311cdb91d472108ac80
 psc/reporting.yml: 644e7efd717eb016f3f3645f2ed2e640
 psc/rest.yml: 02d3a15264a8ebdec9916ac8f293a268
 psc/role.yml: f6940601265efd06b758830a0b31a700
+psc/route-planning.yml: e2831c852982336559cfa5319b57b98f
 psc/sale.yml: 46822420e5af95e9a297dbde4f867261
 psc/search.yml: cabdb93e6312fe03fd903dd4963e9e48
 psc/server.yml: eae2a2800ed0c6bb240a532b10f4f6b7
@@ -141,6 +142,7 @@ repo/resource.yml: c39ef6d3f531d025cecfdfc60754801a
 repo/rest.yml: f9fec74bf3cdf6d4a3c2a2b22bfafc77
 repo/rma.yml: 8c3c0b4eeef9efb63b4a52df5beca974
 repo/role.yml: c73b5368102cfa631da0083d417399fc
+repo/route-planning.yml: 5ef85994ac285b8a05dc236327cd04f1
 repo/sale.yml: 16a7cca6973638d4fd286e06cd053d73
 repo/search.yml: c45442bb2313eecff81af5c3e4bd7cc4
 repo/sentinel.yml: ae6017f0942746e0d3a93aa71b3f3dd9
