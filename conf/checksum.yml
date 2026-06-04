@@ -123,7 +123,7 @@ repo/oca.yml: a974584c6f00d87ef49f0c0e60e2c06b
 repo/ocb.yml: c74a27f642aba9330009b1d40a0ad940
 repo/odoo-community.yml: bc585ae362c4ebca519f65168b445166
 repo/odoorpc.yml: 61a6e6e588a33cae15072b2dfa37e587
-repo/openupgrade.yml: 7730fcd9407df4d31818d4dad5639ab6
+repo/openupgrade.yml: 9d342c9921d47a4e1f1629a858b3a529
 repo/operating.yml: be00c51bab356212d7f1817593778139
 repo/partner.yml: e25972b67f35e4bc773a5e8efeaf7ae0
 repo/payroll.yml: 6576eea64e2b366a1b9ab656a3f9c35b
