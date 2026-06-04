@@ -18,7 +18,7 @@ psc/deployment.yml: 14b8b20b161230595599ea6dd01aa9aa
 psc/document.yml: db9a8725218ff4ad2563bde8e0588f2a
 psc/donation.yml: 28bf5696ca9d851c712007c7dd9f70b9
 psc/dotnet.yml: be13078f37554377e66ca7976591cbf0
-psc/e-commerce.yml: a3ac7b751e468a2c28d904a5a323137e
+psc/e-commerce.yml: bcd8caca574e9e294859403d7b5c2bb7
 psc/e-learning.yml: 2ea8673556b03446203df7bfbca49166
 psc/edi.yml: b519505e4584edc4170d35a12431b6d3
 psc/field.yml: 9d64fa2c121033b0f4ff7b19114ad31d
