@@ -508,6 +508,7 @@ local-uk-maintainers:
 local-ukraine-maintainers:
   members:
     - alexey-pelykh
+    - PeleOlala
   name: Local ukraine maintainers
   representatives: []
 local-ukraine-maintainers-psc-representative:
