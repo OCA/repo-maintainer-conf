@@ -1,0 +1,15 @@
+oca-apps-store-maintainers:
+  members:
+    - sebastienbeau
+    - thibaultrey
+    - dora-jurcevic
+  name: OCA Apps Store Maintainers
+  representatives:
+    - thibaultrey
+    - dora-jurcevic
+oca-apps-store-psc-representative:
+  members: []
+  name: OCA Apps Store psc representative
+  representatives:
+    - thibaultrey
+    - dora-jurcevic
