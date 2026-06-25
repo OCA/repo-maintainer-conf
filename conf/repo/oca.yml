@@ -27,6 +27,15 @@ oca-custom:
   psc: board
   psc_rep: board
   manual_branch_mgmt: true
+oca-apps-store:
+  branches:
+    - "main"
+  category: Oca
+  default_branch: "main"
+  name: Oca Apps Store on apps.odoo-community.org
+  psc: oca-apps-store-maintainers
+  psc_rep: oca-apps-store-psc-representative
+  manual_branch_mgmt: true
 oca-decorators:
   branches: []
   category: Oca
