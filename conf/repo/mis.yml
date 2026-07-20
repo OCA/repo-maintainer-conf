@@ -14,7 +14,7 @@ mis-builder:
     - "18.0"
     - "19.0"
   category: Mis
-  default_branch: "18.0"
+  default_branch: "19.0"
   name:
     "Management information system reports for odoo: easily build super fast,
     beautiful, custom reports such as p&l, balance sheets and more."
