@@ -31,7 +31,7 @@ psc/intercompany.yml: 10a29e9f014355cd4a17478aa093ffd9
 psc/intrastat.yml: e1cd6196a90bc203ed9c110804a886b0
 psc/iot.yml: f1b80feb1e0e915d120890d6117a0d52
 psc/l10n.yml: f96fb3ab3721c1f4c7c282c22f2346d1
-psc/logistics.yml: 00442a0e0e7ebcde6757b023a33c2a34
+psc/logistics.yml: bf7dcd8dbe79fb632690af6030d99065
 psc/mail.yml: 8db9c91fd9e6355ab542d796cc6bb61a
 psc/maintenance.yml: 446bfef5e010985c1b87244c4710431e
 psc/management.yml: 89941c96f1fe8439c7ffd77b3bd4ea86
@@ -144,7 +144,7 @@ repo/rest.yml: f9fec74bf3cdf6d4a3c2a2b22bfafc77
 repo/rma.yml: 8c3c0b4eeef9efb63b4a52df5beca974
 repo/role.yml: c73b5368102cfa631da0083d417399fc
 repo/route-planning.yml: 5ef85994ac285b8a05dc236327cd04f1
-repo/sale.yml: 16a7cca6973638d4fd286e06cd053d73
+repo/sale.yml: b9f29acc7a6fb748102a94906c46a3bb
 repo/search.yml: c45442bb2313eecff81af5c3e4bd7cc4
 repo/sentinel.yml: ae6017f0942746e0d3a93aa71b3f3dd9
 repo/server.yml: 2b7e778f5816d4eba8b4648da1ccd990
