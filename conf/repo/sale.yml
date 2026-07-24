@@ -18,8 +18,8 @@ sale-channel:
   category: Sale
   default_branch: "18.0"
   name: Sale Channel
-  psc: board
-  psc_rep: board
+  psc: crm-sales-marketing-maintainers
+  psc_rep: crm-sales-marketing-maintainers-psc-representative
 sale-financial:
   branches:
     - "6.1"
