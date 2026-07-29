@@ -109,8 +109,7 @@ connector-shopify-maintainers-psc-representative:
   members:
     - sawirricardo
   name: Connector shopify maintainers psc representative
-  representatives:
-    - sawirricardo
+  representatives: []
 connector-woocommerce-maintainers:
   members: []
   name: Connector woocommerce maintainers
