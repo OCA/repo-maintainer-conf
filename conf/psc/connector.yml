@@ -99,6 +99,17 @@ connector-telephony-maintainers-psc-representative:
     - alexis-via
   name: Connector telephony maintainers psc representative
   representatives: []
+connector-shopify-maintainers:
+  members:
+    - sawirricardo
+  name: Connector shopify maintainers
+  representatives:
+    - sawirricardo
+connector-shopify-maintainers-psc-representative:
+  members:
+    - sawirricardo
+  name: Connector shopify maintainers psc representative
+  representatives: []
 connector-woocommerce-maintainers:
   members: []
   name: Connector woocommerce maintainers
