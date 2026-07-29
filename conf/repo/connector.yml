@@ -294,6 +294,14 @@ connector-salesforce:
   name: Connect salesforce with odoo
   psc: connector-saleforce-maintainers
   psc_rep: board
+connector-shopify:
+  branches:
+    - "19.0"
+  category: Connector
+  default_branch: "19.0"
+  name: Connector Shopify
+  psc: connector-shopify-maintainers
+  psc_rep: connector-shopify-maintainers-psc-representative
 connector-spscommerce:
   branches:
     - "9.0"
