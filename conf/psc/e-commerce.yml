@@ -1,14 +1,9 @@
 e-commerce-maintainers:
   members:
-    - yajo
     - pedrobaeza
-    - rafaelbn
-    - gfcapalbo
     - ivantodorovich
   name: E-Commerce maintainers
-  representatives:
-    - simahawk
-    - gurneyalex
+  representatives: []
 e-commerce-maintainers-psc-representative:
   members: []
   name: E-Commerce maintainers psc representative
