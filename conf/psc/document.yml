@@ -3,8 +3,10 @@ document-maintainers:
     - etobella
     - HaraldPanten
   name: Document maintainers
-  representatives: []
+  representatives:
+    - etobella
 document-maintainers-psc-representative:
-  members: []
+  members:
+    - etobella
   name: Document maintainers psc representative
   representatives: []
