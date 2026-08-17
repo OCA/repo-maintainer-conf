@@ -1,10 +1,8 @@
 mail-maintainers:
   members:
     - yajo
-    - antespi
     - hbrunn
     - pedrobaeza
-    - rafaelbn
     - etobella
   name: Mail maintainers
   representatives:
