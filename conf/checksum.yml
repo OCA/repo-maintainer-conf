@@ -34,7 +34,7 @@ psc/l10n.yml: f96fb3ab3721c1f4c7c282c22f2346d1
 psc/logistics.yml: bf7dcd8dbe79fb632690af6030d99065
 psc/mail.yml: 8db9c91fd9e6355ab542d796cc6bb61a
 psc/maintenance.yml: 446bfef5e010985c1b87244c4710431e
-psc/management.yml: 89941c96f1fe8439c7ffd77b3bd4ea86
+psc/management.yml: 81b3a4d5997fd939546c8292db5a659a
 psc/manufacturing.yml: 05f351f3dab1889acb52d3f1dd58159c
 psc/mis.yml: 2f3692f56a5923086dc493727547a600
 psc/module-composition-analysis.yml: 4a1ba7f593184bebeafc6a404f5553ea
