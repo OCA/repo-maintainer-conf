@@ -361,3 +361,13 @@ connector-woocommerce:
   name: Connector Woocommerce
   psc: connector-woocommerce-maintainers
   psc_rep: connector-woocommerce-maintainers-psc-representative
+connector-mautic:
+  branches:
+    - "17.0"
+    - "18.0"
+    - "19.0"
+  category: Connector
+  default_branch: "18.0"
+  name: Connector Mautic
+  psc: connector-mautic-maintainers
+  psc_rep: connector-mautic-maintainers-psc-representative
