@@ -1,7 +1,6 @@
 queue-maintainers:
   members:
     - guewen
-    - lmignon
   name: Asynchronous job queue maintainers
   representatives:
     - simahawk
