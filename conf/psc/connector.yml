@@ -118,3 +118,15 @@ connector-woocommerce-maintainers-psc-representative:
   members: []
   name: Connector woocommerce maintainers psc representative
   representatives: []
+mautic-connector-maintainers:
+  members:
+    - CristianoMafraJunior
+    - marcelsavegnago
+  name: Mautic connector maintainers
+  representatives: []
+mautic-connector-maintainers-psc-representative:
+  members:
+    - CristianoMafraJunior
+    - marcelsavegnago
+  name: Mautic connector maintainers psc representative
+  representatives: []
