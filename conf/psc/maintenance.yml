@@ -1,7 +1,9 @@
 maintenance-maintainers:
   members:
+    - dalonsod
     - pedrobaeza
     - etobella
+    - victoralmau
   name: Maintenance maintainers
   representatives: []
 maintenance-maintainers-psc-representative:
