@@ -1,10 +1,8 @@
 field-service-maintainers:
   members:
     - max3903
-    - wolfhall
     - hparfr
     - brian10048
-    - osi-scampbell
     - ivantodorovich
   name: Field service maintainers
   representatives: []
