@@ -335,11 +335,14 @@ local-macedonia-maintainers-psc-representative:
   name: Local macedonia maintainers psc representative
   representatives: []
 local-mexico-maintainers:
-  members: []
+  members:
+    - max3903
+    - alan196
   name: Mexican maintainers for localization
   representatives: []
 local-mexico-maintainers-psc-representative:
-  members: []
+  members:
+    - max3903
   name: Local mexico maintainers psc representative
   representatives: []
 local-morocco-maintainers:
