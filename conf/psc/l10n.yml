@@ -538,15 +538,12 @@ local-uruguay-maintainers-psc-representative:
   representatives: []
 local-usa-maintainers:
   members:
-    - max3903
-    - thinkwelltwd
     - JordiBForgeFlow
     - jelenapoblet
   name: Local usa maintainers
   representatives: []
 local-usa-maintainers-psc-representative:
-  members:
-    - max3903
+  members: []
   name: Local usa maintainers psc representative
   representatives: []
 local-venezuela-maintainers:
