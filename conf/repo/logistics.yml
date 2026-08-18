@@ -41,6 +41,14 @@ stock-logistics-interfaces:
   name: Stock Logistics Interfaces
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
+stock-logistics-inventory:
+  branches:
+    - "20.0"
+  category: Stock
+  default_branch: "20.0"
+  name: Stock Logistics Inventory
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
 stock-logistics-orderpoint:
   branches:
     - "16.0"
