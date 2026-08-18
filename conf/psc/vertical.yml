@@ -45,13 +45,11 @@ vertical-community-maintainers-psc-representative:
   name: Vertical community maintainers psc representative
   representatives: []
 vertical-construction-maintainers:
-  members:
-    - max3903
+  members: []
   name: Vertical construction maintainers
   representatives: []
 vertical-construction-maintainers-psc-representative:
-  members:
-    - max3903
+  members: []
   name: Vertical construction maintainers psc representative
   representatives: []
 vertical-edition-maintainers:
