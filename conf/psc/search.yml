@@ -2,8 +2,6 @@ search-engine-maintainers:
   members:
     - lmignon
     - sebastienbeau
-    - etobella
-    - HviorForgeFlow
   name: Search engine maintainers
   representatives:
     - simahawk
