@@ -1,0 +1,10 @@
+barcode:
+  branches:
+    - "17.0"
+    - "18.0"
+    - "19.0"
+  category: Barcode
+  default_branch: "18.0"
+  name: Core barcode scanning application for warehouse operations
+  psc: barcode-maintainers
+  psc_rep: barcode-maintainers-psc-representative
