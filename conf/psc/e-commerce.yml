@@ -5,6 +5,7 @@ e-commerce-maintainers:
   name: E-Commerce maintainers
   representatives: []
 e-commerce-maintainers-psc-representative:
-  members: []
+  members:
+    - pedrobaeza
   name: E-Commerce maintainers psc representative
   representatives: []
