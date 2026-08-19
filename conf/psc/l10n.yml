@@ -211,13 +211,11 @@ local-france-maintainers-psc-representative:
   representatives: []
 local-germany-maintainers:
   members:
-    - tv-openbig
     - pniederlag
   name: Local germany maintainers
   representatives: []
 local-germany-maintainers-psc-representative:
-  members:
-    - tv-openbig
+  members: []
   name: Local germany maintainers psc representative
   representatives: []
 local-greece-maintainers:
