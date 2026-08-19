@@ -134,21 +134,14 @@ vertical-real-estate-maintainers-psc-representative:
     - gurneyalex
 vertical-rental-maintainers:
   members:
-    - marylla
-    - rousseldenis
     - benbrich
-    - fkantelberg
     - yweng8111
   name: Vertical rental maintainers
-  representatives:
-    - OSevangelist
-    - gurneyalex
+  representatives: []
 vertical-rental-maintainers-psc-representative:
-  members:
-    - marylla
+  members: []
   name: Vertical rental maintainers psc representative
-  representatives:
-    - gurneyalex
+  representatives: []
 vertical-rental-psc-representative:
   members: []
   name: Vertical rental psc representative
