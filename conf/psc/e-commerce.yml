@@ -1,15 +1,13 @@
 e-commerce-maintainers:
   members:
-    - yajo
+    - carlos-lopez-tecnativa
     - pedrobaeza
-    - rafaelbn
-    - gfcapalbo
+    - pilarvargas-tecnativa
     - ivantodorovich
   name: E-Commerce maintainers
-  representatives:
-    - simahawk
-    - gurneyalex
+  representatives: []
 e-commerce-maintainers-psc-representative:
-  members: []
+  members:
+    - pedrobaeza
   name: E-Commerce maintainers psc representative
   representatives: []
