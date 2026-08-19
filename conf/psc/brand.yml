@@ -1,11 +1,9 @@
 brand-maintainers:
   members:
-    - max3903
     - sbejaoui
   name: Brand maintainers
   representatives: []
 brand-maintainers-psc-representative:
-  members:
-    - max3903
+  members: []
   name: Brand maintainers psc representative
   representatives: []
