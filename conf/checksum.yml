@@ -30,7 +30,7 @@ psc/infrastructure.yml: 2cb7622f0781b87b10953ae87897a0f5
 psc/intercompany.yml: 10a29e9f014355cd4a17478aa093ffd9
 psc/intrastat.yml: e1cd6196a90bc203ed9c110804a886b0
 psc/iot.yml: f1b80feb1e0e915d120890d6117a0d52
-psc/l10n.yml: f96fb3ab3721c1f4c7c282c22f2346d1
+psc/l10n.yml: 897d83f92c9ace7d86ffb817f1304a66
 psc/logistics.yml: bf7dcd8dbe79fb632690af6030d99065
 psc/mail.yml: 8db9c91fd9e6355ab542d796cc6bb61a
 psc/maintenance.yml: 446bfef5e010985c1b87244c4710431e
