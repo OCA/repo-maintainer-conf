@@ -452,9 +452,7 @@ local-slovenia-maintainers-psc-representative:
   representatives: []
 local-spain-maintainers:
   members:
-    - omar7r
     - acysos
-    - cubells
     - pedrobaeza
     - HaraldPanten
   name: Local spain maintainers
