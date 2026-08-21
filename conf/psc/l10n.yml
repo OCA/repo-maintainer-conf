@@ -378,6 +378,16 @@ local-norway-maintainers-psc-representative:
     - bringsvor
   name: Local norway maintainers psc representative
   representatives: []
+local-panama-maintainers:
+  members:
+    - alvarosamudio
+  name: Local panama maintainers
+  representatives: []
+local-panama-maintainers-psc-representative:
+  members:
+    - alvarosamudio
+  name: Local panama maintainers psc representative
+  representatives: []
 local-peru-maintainers:
   members:
     - pedrobaeza

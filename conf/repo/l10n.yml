@@ -591,6 +591,14 @@ l10n-norway:
   name: The norwegian localization for odoo
   psc: local-norway-maintainers
   psc_rep: local-norway-maintainers-psc-representative
+l10n-panama:
+  branches:
+    - "19.0"
+  category: L10n
+  default_branch: "19.0"
+  name: Panama localization repository
+  psc: local-panama-maintainers
+  psc_rep: local-panama-maintainers-psc-representative
 l10n-peru:
   branches:
     - "7.0"
