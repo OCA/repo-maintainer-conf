@@ -17,17 +17,13 @@ edi-ediversa-maintainers:
     - ValentinVinagre
 edi-maintainers:
   members:
-    - njeudy
     - alexis-via
-    - bealdav
-    - hbrunn
     - etobella
     - jbaudoux
     - sbejaoui
   name: Edi maintainers
   representatives:
     - simahawk
-    - gurneyalex
 edi-maintainers-psc-representative:
   members:
     - alexis-via
