@@ -1,0 +1,12 @@
+barcode-maintainers:
+  members:
+    - szalatyzuzanna
+    - jorgeglez1990
+  name: Maintainers of barcode modules
+  representatives:
+    - jelenapoblet
+barcode-maintainers-psc-representative:
+  members:
+    - jelenapoblet
+  name: Barcode maintainers psc representative
+  representatives: []
