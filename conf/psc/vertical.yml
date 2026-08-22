@@ -55,14 +55,11 @@ vertical-construction-maintainers-psc-representative:
   name: Vertical construction maintainers psc representative
   representatives: []
 vertical-edition-maintainers:
-  members:
-    - max3903
-    - bjoliveau
+  members: []
   name: Vertical edition maintainers
   representatives: []
 vertical-edition-maintainers-psc-representative:
-  members:
-    - max3903
+  members: []
   name: Vertical edition maintainers psc representative
   representatives: []
 vertical-education-maintainers:
