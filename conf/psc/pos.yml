@@ -1,12 +1,9 @@
 pos-maintainers:
   members:
-    - alexis-via
-    - Fkawala
     - ivantodorovich
     - legalsylvain
     - chienandalu
     - pedrobaeza
-    - rafaelbn
     - quentinDupont
   name: Point of sale maintainers
   representatives: []
