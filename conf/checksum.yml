@@ -6,7 +6,7 @@ psc/board.yml: f0012a85943989ddafb77633d3e8c232
 psc/brand.yml: 618dfd03dc19182c68305dabb4bdd004
 psc/cim.yml: 90ce65d83ef600025ece92220144688a
 psc/community.yml: 845c70f73f5bc3bda78810dad1fa17da
-psc/connector.yml: f0e79b994d7e9fb80b275bdc2d376a04
+psc/connector.yml: ba7c02405eaf2cafd84ae47042ab8d4c
 psc/cooperative.yml: a1c482a253fd87459d6bfc8b13945323
 psc/core.yml: 21732a1b9322ad17595850b67efd191e
 psc/crm.yml: 3b6b389f2ceb646af46c482e10c5bf44
@@ -77,7 +77,7 @@ repo/calendar.yml: f2c1ebc762115bc84863f777d1760825
 repo/cim.yml: e6107492781533bc5eea1c89ed12160e
 repo/commission.yml: edf5d1f7c5c3a6d66ea7071cd0f911cc
 repo/community.yml: 3ef651414ba803e33aa5f8f5fcd13928
-repo/connector.yml: 341b27f96033aa9e34a8e06a374ab249
+repo/connector.yml: 08c3f679e7801fca867609dda4f03a2f
 repo/contract.yml: 44916aba3ae1458240b5fb52d0974f63
 repo/contribute.yml: 56aeb27f4303bcbcc180334da44659fe
 repo/cooperative.yml: e2686a40c2c5ac20639c33de9947725a
