@@ -550,6 +550,7 @@ local-usa-maintainers-psc-representative:
 local-venezuela-maintainers:
   members:
     - nhomar
+    - andyengit
   name: Local venezuela maintainers
   representatives: []
 local-venezuela-maintainers-psc-representative:
