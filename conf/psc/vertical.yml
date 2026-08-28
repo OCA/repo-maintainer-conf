@@ -45,11 +45,13 @@ vertical-community-maintainers-psc-representative:
   name: Vertical community maintainers psc representative
   representatives: []
 vertical-construction-maintainers:
-  members: []
+  members:
+    - szalatyzuzanna
   name: Vertical construction maintainers
   representatives: []
 vertical-construction-maintainers-psc-representative:
-  members: []
+  members:
+    - szalatyzuzanna
   name: Vertical construction maintainers psc representative
   representatives: []
 vertical-edition-maintainers:
