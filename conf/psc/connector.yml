@@ -89,14 +89,11 @@ connector-spscommerce:
   representatives: []
 connector-telephony-maintainers:
   members:
-    - alexis-via
-    - nimarosa
     - thomaspaulb
   name: Connector telephony maintainers
   representatives: []
 connector-telephony-maintainers-psc-representative:
-  members:
-    - alexis-via
+  members: []
   name: Connector telephony maintainers psc representative
   representatives: []
 connector-shopify-maintainers:
