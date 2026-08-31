@@ -474,7 +474,8 @@ local-switzerland-maintainers:
   name: Local switzerland maintainers
   representatives: []
 local-switzerland-maintainers-psc-representative:
-  members: []
+  members:
+    - TDu
   name: Local switzerland maintainers psc representative
   representatives: []
 local-taiwan-maintainers:
