@@ -469,6 +469,7 @@ local-spain-maintainers-psc-representative:
 local-switzerland-maintainers:
   members:
     - TDu
+    - grindtildeath
     - ecino
   name: Local switzerland maintainers
   representatives: []
