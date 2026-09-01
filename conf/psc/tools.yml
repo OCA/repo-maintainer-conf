@@ -1,6 +1,5 @@
 tools-maintainers:
   members:
-    - guewen
     - lmignon
     - yajo
     - thomaspaulb
@@ -9,7 +8,6 @@ tools-maintainers:
     - sebalix
     - pedrobaeza
     - LoisRForgeFlow
-    - joao-p-marques
   name: Tools maintainers
   representatives:
     - simahawk
