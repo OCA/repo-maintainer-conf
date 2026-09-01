@@ -1,0 +1,12 @@
+barcode-interface-maintainers:
+  members:
+    - szalatyzuzanna
+    - jorgeglez1990
+  name: Maintainers of barcode interface modules
+  representatives:
+    - jelenapoblet
+barcode-interface-maintainers-psc-representative:
+  members:
+    - jelenapoblet
+  name: Barcode interface maintainers psc representative
+  representatives: []
