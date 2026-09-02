@@ -7,8 +7,7 @@ manufacturing-maintainers:
     - quentinDupont
     - ivantodorovich
   name: Manufacturing maintainers
-  representatives:
-    - gurneyalex
+  representatives: []
 manufacturing-maintainers-psc-representative:
   members:
     - anajuaristi
