@@ -162,7 +162,7 @@ connector-lims:
     - "18.0"
     - "19.0"
   category: Connector
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Connector Lims
   psc: connector-lims-maintainers
   psc_rep: connector-lims-maintainers-psc-representative
