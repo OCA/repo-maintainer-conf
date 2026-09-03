@@ -43,11 +43,9 @@ connector-magento-maintainers-psc-representative:
 connector-maintainers:
   members:
     - guewen
-    - lmignon
   name: Connector maintainers
   representatives:
     - simahawk
-    - gurneyalex
 connector-maintainers-psc-representative:
   members:
     - guewen
