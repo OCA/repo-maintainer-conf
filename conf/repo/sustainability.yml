@@ -1,0 +1,11 @@
+sustainability:
+  branches:
+    - "16.0"
+    - "17.0"
+    - "18.0"
+    - "19.0"
+  category: Sustainability
+  default_branch: "18.0"
+  name: Sustainability addons
+  psc: sustainability-maintainers
+  psc_rep: sustainability-maintainers-psc-representative
