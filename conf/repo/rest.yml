@@ -10,6 +10,7 @@ rest-api:
   psc: board
   psc_rep: board
 rest-framework:
+  new_branch_not_empty: True
   branches:
     - "10.0"
     - "11.0"

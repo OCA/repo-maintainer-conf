@@ -1,4 +1,5 @@
 mis-builder:
+  new_branch_not_empty: True
   branches:
     - "7.0"
     - "8.0"
@@ -21,6 +22,7 @@ mis-builder:
   psc: mis-builder-maintainers
   psc_rep: mis-builder-maintainers-psc-representative
 mis-builder-contrib:
+  new_branch_not_empty: True
   branches:
     - "8.0"
     - "9.0"
