@@ -1,4 +1,5 @@
 storage:
+  new_branch_not_empty: True
   branches:
     - "10.0"
     - "12.0"
