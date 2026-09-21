@@ -31,7 +31,7 @@ psc/infrastructure.yml: 2cb7622f0781b87b10953ae87897a0f5
 psc/intercompany.yml: 10a29e9f014355cd4a17478aa093ffd9
 psc/intrastat.yml: e1cd6196a90bc203ed9c110804a886b0
 psc/iot.yml: f1b80feb1e0e915d120890d6117a0d52
-psc/l10n.yml: 3db33c0389300ef7bcbd6dd65cede367
+psc/l10n.yml: 9bd5c07fab9ca94f74e7fc843f595e81
 psc/logistics.yml: bf7dcd8dbe79fb632690af6030d99065
 psc/mail.yml: 8db9c91fd9e6355ab542d796cc6bb61a
 psc/maintenance.yml: 446bfef5e010985c1b87244c4710431e
@@ -64,7 +64,7 @@ psc/tier-validation.yml: 3fb56cbe9da662eacc4744cdd2f0279d
 psc/tools.yml: e4ace7778a67bf035637878901af45b6
 psc/vcp.yml: 725cca2a50b11b157ef239cfbbe229ab
 psc/vertical.yml: 5c6b2bbcaa395ddb9cd1e37a4fb1baf6
-psc/web.yml: 853317c3f35f93cc2d1a96afe02b28e1
+psc/web.yml: c6c0a8d7465e6a92061206d7ff70152a
 psc/website.yml: 312d214b1cd00a922b122ab2af7167e6
 repo/account.yml: 2737f480c3a7d8dbed665250364f315c
 repo/agreement.yml: 1a1a43046c35caee2c7cc4af81974ad4
