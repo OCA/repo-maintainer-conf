@@ -108,7 +108,7 @@ repo/interface.yml: 43b223026df20d8696adabb0092a84b6
 repo/intrastat.yml: 2b7c492093b3dcafdacf384c53ed2fdd
 repo/iot.yml: f47cbb0b1fa6f0dc98981c826851c8e1
 repo/knowledge.yml: 52c8fc2a7d646218ee8d25c7e05913ae
-repo/l10n.yml: 92e08a03ba2aaf5b591872125f3aa079
+repo/l10n.yml: ad4132b5d80e60a4e36c84cc7209d090
 repo/logistics.yml: 7686b29c7276108309cf69a1ec63fdbe
 repo/mail.yml: 2a05e20bcb4a23805848f0b232efde03
 repo/maintainer.yml: 463e3e893523b9314d6ffcb6e7ae5214
@@ -118,7 +118,7 @@ repo/manufacture.yml: 06f60df9f26b6088bfb944a9ddd8f524
 repo/margin.yml: 7aaa7a9e4dfa9fe0848a1ed181d55b5a
 repo/mass-mailing.yml: d2cdb024631b58eff178b88a6f497266
 repo/mirrors.yml: e031a9121908b0c3fd74225481fee295
-repo/mis.yml: e2d8760537bfc53104bb5ec1c470471a
+repo/mis.yml: ce2524955a8954b1109c5afe8b5db00a
 repo/module-composition-analysis.yml: adb9588f14e9fd77a27600aa78ec1c88
 repo/multi.yml: 58abcfda8d5164920c92b3d7a0cdd129
 repo/oca.recipe.odoo.yml: 9ef093e3abe33cd7f9efb58311bdcb6b
@@ -138,7 +138,7 @@ repo/program.yml: 26917b1c43d76683fbab19d8173ce146
 repo/project.yml: d2e2b41ef005356802f59c5d9729840e
 repo/purchase.yml: 76b51fe106f3c9cbe0c4763fe3b89d84
 repo/pwa.yml: 96ba01538ae00be494b316229de17015
-repo/queue.yml: 92913c0f6679720ce929a53a411a55e2
+repo/queue.yml: 418f8ca32b41a14536cd4b751377e62f
 repo/repair.yml: c3edddfefafaa0161a01dc5266039365
 repo/reporting.yml: a39dabba044b9bb676b60a6d4c04e39f
 repo/resource.yml: c39ef6d3f531d025cecfdfc60754801a
