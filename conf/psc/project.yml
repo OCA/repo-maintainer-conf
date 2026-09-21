@@ -6,7 +6,6 @@ project-agile-maintainers:
 project-service-maintainers:
   members:
     - alexey-pelykh
-    - grindtildeath
     - yajo
     - leemannd
     - yvaucher
@@ -17,9 +16,7 @@ project-service-maintainers:
     - AaronHForgeFlow
   name: Contract management core editors and project core editors
   representatives:
-    - simahawk
     - dreispt
-    - gurneyalex
 project-service-maintainers-psc-representative:
   members: []
   name: Project & service maintainers psc representative
