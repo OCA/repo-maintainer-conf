@@ -307,8 +307,9 @@ local-italy-maintainers-psc-representative:
   representatives: []
 local-japan-maintainers:
   members:
+    - AungKoKoLin1997
+    - kanda999
     - yostashiro
-    - TimLai125
   name: Local japan maintainers
   representatives: []
 local-japan-maintainers-psc-representative:
