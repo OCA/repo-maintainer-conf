@@ -99,12 +99,16 @@ connector-telephony-maintainers-psc-representative:
   representatives: []
 connector-shopify-maintainers:
   members:
+    - jelenapoblet
+    - oliverg09
     - sawirricardo
   name: Connector shopify maintainers
   representatives:
+    - jelenapoblet
     - sawirricardo
 connector-shopify-maintainers-psc-representative:
   members:
+    - jelenapoblet
     - sawirricardo
   name: Connector shopify maintainers psc representative
   representatives: []
