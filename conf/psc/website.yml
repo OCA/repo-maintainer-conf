@@ -1,12 +1,7 @@
 website-maintainers:
   members:
-    - nhomar
-    - guewen
-    - yajo
-    - antespi
     - hbrunn
     - pedrobaeza
-    - rafaelbn
     - gfcapalbo
     - tarteo
   name: Maintainers of website modules
