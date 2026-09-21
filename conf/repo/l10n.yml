@@ -61,6 +61,7 @@ l10n-belarus:
   psc: local-belarus-maintainers
   psc_rep: local-belarus-maintainers-psc-representative
 l10n-belgium:
+  new_branch_not_empty: True
   branches:
     - "7.0"
     - "8.0"
