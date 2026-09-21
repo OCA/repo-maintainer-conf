@@ -59,3 +59,11 @@ pylint-odoo:
   name: Odoo plugin for pylint
   psc: core-maintainers
   psc_rep: core-maintainers-psc-representative
+pytest-odoo:
+  branches:
+    - main
+  category: pytest
+  default_branch: main
+  name: Odoo plugin for pytest
+  psc: community-maintainers
+  psc_rep: community-maintainers-psc-representative
