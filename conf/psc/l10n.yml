@@ -468,17 +468,14 @@ local-spain-maintainers-psc-representative:
   representatives: []
 local-switzerland-maintainers:
   members:
-    - nbessi
-    - vrenaville
     - TDu
-    - yvaucher
-    - fclementic2c
+    - grindtildeath
     - ecino
   name: Local switzerland maintainers
   representatives: []
 local-switzerland-maintainers-psc-representative:
   members:
-    - yvaucher
+    - TDu
   name: Local switzerland maintainers psc representative
   representatives: []
 local-taiwan-maintainers:
