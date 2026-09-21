@@ -1,12 +1,10 @@
 web-maintainers:
   members:
-    - guewen
     - Tardo
     - yajo
     - StefanRijnhart
     - hbrunn
     - legalsylvain
-    - yvaucher
     - pedrobaeza
     - tarteo
     - etobella
@@ -14,7 +12,6 @@ web-maintainers:
   name: Web maintainers
   representatives:
     - simahawk
-    - gurneyalex
 web-maintainers-psc-representative:
   members:
     - yajo
