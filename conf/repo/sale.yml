@@ -113,3 +113,12 @@ sale-workflow:
   name: Odoo sales, workflow and organization
   psc: crm-sales-marketing-maintainers
   psc_rep: crm-sales-marketing-maintainers-psc-representative
+
+sale-automatic-workflow:
+  branches:
+    - "20.0"
+  category: Sale
+  default_branch: "20.0"
+  name: Odoo sales automatic workflow
+  psc: crm-sales-marketing-maintainers
+  psc_rep: crm-sales-marketing-maintainers-psc-representative
