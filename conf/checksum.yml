@@ -129,7 +129,7 @@ repo/odoo-community.yml: f76abd6c341169065a5e6ece3f206865
 repo/odoorpc.yml: 61a6e6e588a33cae15072b2dfa37e587
 repo/openupgrade.yml: 9d342c9921d47a4e1f1629a858b3a529
 repo/operating.yml: be00c51bab356212d7f1817593778139
-repo/partner.yml: e25972b67f35e4bc773a5e8efeaf7ae0
+repo/partner.yml: e3e856dc6ab503c2e6558471defc186b
 repo/payroll.yml: 6576eea64e2b366a1b9ab656a3f9c35b
 repo/pim.yml: 5d637c5f776189a31a48ff2f10a8ad5a
 repo/pms.yml: 7bdf0b963bd89eb669e7271aa285a863
@@ -158,7 +158,7 @@ repo/sign.yml: 76d7d7bc07c4b8f6056d1cb97068bd1a
 repo/social.yml: 1faf6b177961ebe57e81672979b89050
 repo/sphinx.yml: 3f90aadd0f73d10972310d334d8e87af
 repo/spreadsheet.yml: 5c488f93acb83f503823e8d0039589e7
-repo/storage.yml: e2f52431b023d04b4b5e8cb1e55a25e8
+repo/storage.yml: a03c1f40a8526ba960be06e3277ab88b
 repo/survey.yml: 71e318166a5ca41b978c8c150b1ce309
 repo/sustainability.yml: 026cf56d184c4e48fafbbb24e0689cbd
 repo/tier-validation.yml: d0a7a4daa84287ca3f964845dd9bb9cc
