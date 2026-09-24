@@ -3,6 +3,7 @@ barcode-interface:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Barcode
   default_branch: "18.0"
   name: Extensible OWL framework for barcode-driven Odoo applications

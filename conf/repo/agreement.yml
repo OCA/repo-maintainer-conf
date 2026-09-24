@@ -5,6 +5,7 @@ agreement:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Agreement
   default_branch: "18.0"
   name: Agreement

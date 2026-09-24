@@ -6,6 +6,7 @@ sign:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Sign
   default_branch: "18.0"
   name: Sign

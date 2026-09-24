@@ -4,6 +4,7 @@ ai:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Artificial Intelligence
   default_branch: "18.0"
   name: Artificial Intelligence repository

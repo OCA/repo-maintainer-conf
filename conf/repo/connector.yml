@@ -13,6 +13,7 @@ connector:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Connector
   default_branch: "18.0"
   name: Odoo generic connector framework (jobs queue, asynchronous tasks, channels)
@@ -34,6 +35,7 @@ connector-accountedge:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Connector
   default_branch: "18.0"
   name: Odoo modules to connect with account edge (aka myob)
@@ -53,6 +55,7 @@ connector-cmis:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Connector
   default_branch: "18.0"
   name: Cmis connector
@@ -73,6 +76,7 @@ connector-ecommerce:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Connector
   default_branch: "18.0"
   name: Generic module used on odoo for e Commerce industry
@@ -89,6 +93,7 @@ connector-infor:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Connector
   default_branch: "18.0"
   name: Odoo modules to integrate with infor
@@ -109,6 +114,7 @@ connector-interfaces:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Connector
   default_branch: "18.0"
   name: Odoo generic connector for odbc, .csv,...
@@ -125,6 +131,7 @@ connector-jira:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Connector
   default_branch: "18.0"
   name: Connector Jira
@@ -142,6 +149,7 @@ connector-lengow:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Connector
   default_branch: "18.0"
   name: Connector Lengow
@@ -161,6 +169,7 @@ connector-lims:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Connector
   default_branch: "19.0"
   name: Connector Lims
@@ -181,6 +190,7 @@ connector-magento:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Connector
   default_branch: "18.0"
   name: Connect odoo with magento
@@ -193,6 +203,17 @@ connector-magento-php-extension:
   name: Connector Magento Php Extension
   psc: connector-magento-maintainers
   psc_rep: connector-magento-maintainers-psc-representative
+connector-mautic:
+  branches:
+    - "17.0"
+    - "18.0"
+    - "19.0"
+    - "20.0"
+  category: Connector
+  default_branch: "18.0"
+  name: Connector Mautic
+  psc: connector-mautic-maintainers
+  psc_rep: connector-mautic-maintainers-psc-representative
 connector-odoo2odoo:
   branches:
     - "8.0"
@@ -207,6 +228,7 @@ connector-odoo2odoo:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Connector
   default_branch: "18.0"
   name: Connector Odoo2odoo. intercompany process, based on odoo Connector
@@ -228,6 +250,7 @@ connector-prestashop:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Connector
   default_branch: "18.0"
   name: Connect odoo with prestashop
@@ -248,6 +271,7 @@ connector-redmine:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Connector
   default_branch: "18.0"
   name: Connector redmine (http://redmine.org)
@@ -269,6 +293,7 @@ connector-sage:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Connector
   default_branch: "18.0"
   name: Connector with sage
@@ -289,6 +314,7 @@ connector-salesforce:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Connector
   default_branch: "18.0"
   name: Connect salesforce with odoo
@@ -298,6 +324,7 @@ connector-shopify:
   branches:
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Connector
   default_branch: "19.0"
   name: Connector Shopify
@@ -315,6 +342,7 @@ connector-spscommerce:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Connector
   default_branch: "18.0"
   name: Connector sps commerce
@@ -338,6 +366,7 @@ connector-telephony:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Connector
   default_branch: "18.0"
   name: Odoo modules for telephony integration
@@ -357,18 +386,9 @@ connector-woocommerce:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Connector
   default_branch: "18.0"
   name: Connector Woocommerce
   psc: connector-woocommerce-maintainers
   psc_rep: connector-woocommerce-maintainers-psc-representative
-connector-mautic:
-  branches:
-    - "17.0"
-    - "18.0"
-    - "19.0"
-  category: Connector
-  default_branch: "18.0"
-  name: Connector Mautic
-  psc: connector-mautic-maintainers
-  psc_rep: connector-mautic-maintainers-psc-representative

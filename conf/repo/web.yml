@@ -14,6 +14,7 @@ web:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Web
   default_branch: "18.0"
   name: Odoo web client ui related addons
@@ -29,6 +30,7 @@ web-api:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Web
   default_branch: "18.0"
   name: Web Api
@@ -42,6 +44,7 @@ web-api-contrib:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Web
   default_branch: "18.0"
   name: Web API contrib

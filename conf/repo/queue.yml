@@ -1,5 +1,4 @@
 queue:
-  new_branch_not_empty: True
   branches:
     - "10.0"
     - "11.0"
@@ -11,8 +10,10 @@ queue:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Queue
   default_branch: "18.0"
   name: Asynchronous job queue
+  new_branch_not_empty: true
   psc: queue-maintainers
   psc_rep: queue-maintainers-psc-representative

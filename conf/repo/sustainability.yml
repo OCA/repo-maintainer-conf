@@ -4,6 +4,7 @@ sustainability:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Sustainability
   default_branch: "18.0"
   name: Sustainability addons
