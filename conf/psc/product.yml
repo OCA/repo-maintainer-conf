@@ -1,14 +1,13 @@
 product-maintainers:
   members:
-    - jjscarafia
     - JordiBForgeFlow
-    - rousseldenis
     - legalsylvain
     - HaraldPanten
     - sebalix
   name: Product maintainers
   representatives:
     - gurneyalex
+    - rousseldenis
 product-maintainers-psc-representative:
   members: []
   name: Product maintainers psc representative
