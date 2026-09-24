@@ -11,6 +11,7 @@ interface-git:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Interface
   default_branch: "18.0"
   name: Tools to interact with git (GitHub/Gitlab) from Odoo

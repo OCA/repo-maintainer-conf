@@ -12,6 +12,7 @@ data-protection:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Data
   default_branch: "18.0"
   name: Data protection
