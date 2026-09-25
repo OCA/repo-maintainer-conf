@@ -1,10 +1,11 @@
 stock-logistics-availability:
+  new_branch_not_empty: True
   branches:
     - "16.0"
     - "18.0"
     - "19.0"
   category: Stock
-  default_branch: "18.0"
+  default_branch: "19.0"
   name:
     This repository contains modules to provide more information about product
     stock availability in terms of quantities (immediately usable, potential, unreserved
@@ -12,6 +13,7 @@ stock-logistics-availability:
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-barcode:
+  new_branch_not_empty: True
   branches:
     - "6.1"
     - "7.0"
@@ -27,11 +29,12 @@ stock-logistics-barcode:
     - "18.0"
     - "19.0"
   category: Stock
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Stock Logistics Barcode
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-interfaces:
+  new_branch_not_empty: True
   branches:
     - "16.0"
     - "18.0"
@@ -42,18 +45,20 @@ stock-logistics-interfaces:
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-orderpoint:
+  new_branch_not_empty: True
   branches:
     - "16.0"
     - "18.0"
     - "19.0"
   category: Stock
-  default_branch: "18.0"
+  default_branch: "19.0"
   name:
     This repository contains modules to extend reordering rules (available on
     warehouses locations) functionalities.
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-putaway:
+  new_branch_not_empty: True
   branches:
     - "18.0"
     - "19.0"
@@ -63,6 +68,7 @@ stock-logistics-putaway:
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-release-channel:
+  new_branch_not_empty: True
   branches:
     - "18.0"
     - "19.0"
@@ -75,6 +81,7 @@ stock-logistics-release-channel:
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-reporting:
+  new_branch_not_empty: True
   branches:
     - "6.1"
     - "7.0"
@@ -90,17 +97,18 @@ stock-logistics-reporting:
     - "18.0"
     - "19.0"
   category: Stock
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Provides odoo logistics reporting modules
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-request:
+  new_branch_not_empty: True
   branches:
     - "16.0"
     - "18.0"
     - "19.0"
   category: Stock
-  default_branch: "18.0"
+  default_branch: "19.0"
   name:
     This repository contains modules to provide another way of creating stock
     movements. provided as a dedicated application, users will be able to create their
@@ -108,15 +116,17 @@ stock-logistics-request:
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-reservation:
+  new_branch_not_empty: True
   branches:
     - "18.0"
     - "19.0"
   category: Stock
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: This repository contains modules related to products reservations.
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-shopfloor:
+  new_branch_not_empty: True
   branches:
     - "18.0"
     - "19.0"
@@ -128,6 +138,7 @@ stock-logistics-shopfloor:
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-tracking:
+  new_branch_not_empty: True
   branches:
     - "6.1"
     - "7.0"
@@ -148,6 +159,7 @@ stock-logistics-tracking:
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-transport:
+  new_branch_not_empty: True
   branches:
     - "7.0"
     - "8.0"
@@ -167,6 +179,7 @@ stock-logistics-transport:
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-warehouse:
+  new_branch_not_empty: True
   branches:
     - "6.1"
     - "7.0"
@@ -182,11 +195,12 @@ stock-logistics-warehouse:
     - "18.0"
     - "19.0"
   category: Stock
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Odoo warehouse management addons
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-workflow:
+  new_branch_not_empty: True
   branches:
     - "6.1"
     - "7.0"
@@ -202,7 +216,7 @@ stock-logistics-workflow:
     - "18.0"
     - "19.0"
   category: Stock
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Odoo stock, workflow and organization
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
