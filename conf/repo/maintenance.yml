@@ -10,6 +10,7 @@ maintenance:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Maintenance
   default_branch: "18.0"
   name: Odoo modules for businesses that implies maintenance tasks

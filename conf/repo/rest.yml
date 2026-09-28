@@ -4,13 +4,13 @@ rest-api:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Rest
   default_branch: "18.0"
   name: Rest Api
   psc: board
   psc_rep: board
 rest-framework:
-  new_branch_not_empty: True
   branches:
     - "10.0"
     - "11.0"
@@ -22,8 +22,10 @@ rest-framework:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Rest
   default_branch: "18.0"
   name: Rest Framework
+  new_branch_not_empty: true
   psc: rest-framework-maintainers
   psc_rep: rest-framework-maintainers-psc-representative

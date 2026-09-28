@@ -10,6 +10,7 @@ credit-control:
     - "17.0"
     - "18.0"
     - "19.0"
+    - "20.0"
   category: Credit
   default_branch: "18.0"
   name: Odoo modules for the customer credit control
