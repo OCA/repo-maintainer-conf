@@ -43,7 +43,7 @@ stock-logistics-interfaces:
     - "19.0"
     - "20.0"
   category: Stock
-  default_branch: "19.0"
+  default_branch: "18.0"
   name: Stock Logistics Interfaces
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
@@ -75,7 +75,7 @@ stock-logistics-putaway:
     - "19.0"
     - "20.0"
   category: Stock
-  default_branch: "19.0"
+  default_branch: "18.0"
   name: This repository contains modules to manage put-aways.
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
@@ -85,7 +85,7 @@ stock-logistics-release-channel:
     - "19.0"
     - "20.0"
   category: Stock
-  default_branch: "19.0"
+  default_branch: "18.0"
   name:
     This repository contains modules to manage release channels. Release channels
     represent a way of grouping deliveries and their pickings in order to enhance
@@ -145,7 +145,7 @@ stock-logistics-shopfloor:
     - "19.0"
     - "20.0"
   category: Stock
-  default_branch: "19.0"
+  default_branch: "18.0"
   name:
     This repository contains modules to manage Shopfloor application. That application
     allows to manage all logistics flows as a mobile one.
@@ -169,7 +169,7 @@ stock-logistics-tracking:
     - "19.0"
     - "20.0"
   category: Stock
-  default_branch: "19.0"
+  default_branch: "18.0"
   name: This repository contains modules around stock packages management
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
@@ -190,7 +190,7 @@ stock-logistics-transport:
     - "19.0"
     - "20.0"
   category: Stock
-  default_branch: "19.0"
+  default_branch: "18.0"
   name: "Transport management in odoo "
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
@@ -247,7 +247,7 @@ stock-weighing:
     - "19.0"
     - "20.0"
   category: Stock
-  default_branch: "19.0"
+  default_branch: "18.0"
   name: Shopfloor for weighing operations
   psc: stock-weighing-maintainers
   psc_rep: stock-weighing-maintainers-psc-representative
@@ -264,7 +264,7 @@ wms:
     - "19.0"
     - "20.0"
   category: Wms
-  default_branch: "19.0"
+  default_branch: "18.0"
   name: Warehouse management system for advance logistic with odoo
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
