@@ -1,6 +1,7 @@
 stock-logistics-availability:
   branches:
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
@@ -25,6 +26,7 @@ stock-logistics-barcode:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
@@ -36,6 +38,7 @@ stock-logistics-barcode:
 stock-logistics-interfaces:
   branches:
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
@@ -55,6 +58,7 @@ stock-logistics-inventory:
 stock-logistics-orderpoint:
   branches:
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
@@ -101,6 +105,7 @@ stock-logistics-reporting:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
@@ -112,6 +117,7 @@ stock-logistics-reporting:
 stock-logistics-request:
   branches:
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
@@ -158,6 +164,7 @@ stock-logistics-tracking:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
@@ -178,6 +185,7 @@ stock-logistics-transport:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
@@ -199,6 +207,7 @@ stock-logistics-warehouse:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
@@ -220,6 +229,7 @@ stock-logistics-workflow:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
@@ -249,6 +259,7 @@ wms:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
