@@ -12,7 +12,7 @@ currency:
     - "19.0"
     - "20.0"
   category: Currency
-  default_branch: "18.0"
+  default_branch: "19.0"
   name:
     Odoo currency related addons (crypto currencies, rate conversion, integrations
     with third party applications,...)

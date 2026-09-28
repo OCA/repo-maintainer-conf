@@ -6,7 +6,7 @@ automation:
     - "19.0"
     - "20.0"
   category: Social
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Addons concerning automation processes
   psc: social-maintainers
   psc_rep: social-maintainers-psc-representative
@@ -26,7 +26,7 @@ social:
     - "19.0"
     - "20.0"
   category: Social
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Addons concerning odoo"s social erp features and messaging in general
   psc: social-maintainers
   psc_rep: social-maintainers-psc-representative

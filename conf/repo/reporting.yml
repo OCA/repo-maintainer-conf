@@ -16,7 +16,7 @@ report-print-send:
     - "19.0"
     - "20.0"
   category: Report
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Odoo printing services and printer related addons
   psc: tools-maintainers
   psc_rep: tools-maintainers-psc-representative
@@ -38,7 +38,7 @@ reporting-engine:
     - "19.0"
     - "20.0"
   category: Reporting
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Odoo alternative reporting engine
   psc: tools-maintainers
   psc_rep: tools-maintainers-psc-representative

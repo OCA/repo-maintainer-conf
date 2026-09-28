@@ -16,7 +16,7 @@ management-system:
     - "19.0"
     - "20.0"
   category: Management
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Odoo for management systems (iso, iec, bs)
   psc: management-systems-maintainers
   psc_rep: management-systems-maintainers-psc-representative

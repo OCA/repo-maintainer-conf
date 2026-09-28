@@ -9,7 +9,7 @@ program:
     - "19.0"
     - "20.0"
   category: Program
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Program
   psc: project-service-maintainers
   psc_rep: project-service-maintainers-psc-representative

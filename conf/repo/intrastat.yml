@@ -14,7 +14,7 @@ intrastat-extrastat:
     - "19.0"
     - "20.0"
   category: Intrastat
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Intrastat Extrastat
   psc: intrastat-maintainers
   psc_rep: intrastat-maintainers-psc-representative

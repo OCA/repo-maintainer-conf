@@ -4,7 +4,7 @@ shopfloor-app:
     - "19.0"
     - "20.0"
   category: Mobile apps
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Shopfloor App
   psc: shopfloor-app-maintainers
   psc_rep: shopfloor-app-maintainers-psc-representative

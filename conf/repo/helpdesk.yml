@@ -12,7 +12,7 @@ helpdesk:
     - "19.0"
     - "20.0"
   category: Helpdesk
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Odoo modules for managing a helpdesk system
   psc: helpdesk-maintainers
   psc_rep: helpdesk-maintainers-psc-representative

@@ -5,7 +5,7 @@ barcode-interface:
     - "19.0"
     - "20.0"
   category: Barcode
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Extensible OWL framework for barcode-driven Odoo applications
   psc: barcode-interface-maintainers
   psc_rep: barcode-interface-maintainers-psc-representative

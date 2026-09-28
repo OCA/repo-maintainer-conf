@@ -16,7 +16,7 @@ delivery-carrier:
     - "19.0"
     - "20.0"
   category: Delivery
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Odoo carriers and deliveries management
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative

@@ -4,7 +4,7 @@ route-planning:
     - "19.0"
     - "20.0"
   category: Route planning
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Route planning
   psc: route-planning-maintainers
   psc_rep: route-planning-maintainers-psc-representative

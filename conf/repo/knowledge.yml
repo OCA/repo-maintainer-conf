@@ -16,7 +16,7 @@ knowledge:
     - "19.0"
     - "20.0"
   category: Knowledge
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Odoo document & knowledge management
   psc: document-maintainers
   psc_rep: document-maintainers-psc-representative

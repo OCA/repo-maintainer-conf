@@ -6,7 +6,7 @@ rest-api:
     - "19.0"
     - "20.0"
   category: Rest
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Rest Api
   psc: board
   psc_rep: board
@@ -24,7 +24,7 @@ rest-framework:
     - "19.0"
     - "20.0"
   category: Rest
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Rest Framework
   new_branch_not_empty: true
   psc: rest-framework-maintainers

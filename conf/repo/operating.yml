@@ -15,7 +15,7 @@ operating-unit:
     - "19.0"
     - "20.0"
   category: Operating
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Manage operating units in odoo
   psc: accounting-maintainers
   psc_rep: accounting-maintainers-psc-representative

@@ -13,7 +13,7 @@ calendar:
     - "19.0"
     - "20.0"
   category: Calendar
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Calendar
   psc: tools-maintainers
   psc_rep: tools-maintainers-psc-representative
