@@ -19,7 +19,7 @@ psc/deployment.yml: 14b8b20b161230595599ea6dd01aa9aa
 psc/document.yml: db9a8725218ff4ad2563bde8e0588f2a
 psc/donation.yml: 28bf5696ca9d851c712007c7dd9f70b9
 psc/dotnet.yml: be13078f37554377e66ca7976591cbf0
-psc/e-commerce.yml: bcd8caca574e9e294859403d7b5c2bb7
+psc/e-commerce.yml: e4941fb7dff0097f2c560f4e04f9a201
 psc/e-learning.yml: 2ea8673556b03446203df7bfbca49166
 psc/edi.yml: b519505e4584edc4170d35a12431b6d3
 psc/field.yml: b1c00799bb2ef1efa8eb23a5270e2853
@@ -110,7 +110,7 @@ repo/intrastat.yml: b58d4ecf109c77dc3ead488d9ae216fb
 repo/iot.yml: 620519611843776628f91805bdc6ecd7
 repo/knowledge.yml: a603e5d914b9bc72572c889af394b9c6
 repo/l10n.yml: 31c12dd110e429b2244849bef305c52e
-repo/logistics.yml: f73659ef187581190963d85bd8bbe09a
+repo/logistics.yml: a3d2afb3312ebb0544d32df90bed740a
 repo/mail.yml: 705cc0828d5fc0e3c6d4eae59ef6ad54
 repo/maintainer.yml: 463e3e893523b9314d6ffcb6e7ae5214
 repo/maintenance.yml: 78628d5b9421d3843d2433aa3011f7ac
