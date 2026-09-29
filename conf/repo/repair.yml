@@ -7,7 +7,7 @@ repair:
     - "19.0"
     - "20.0"
   category: Repair
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Repair
   psc: manufacturing-maintainers
   psc_rep: manufacturing-maintainers-psc-representative

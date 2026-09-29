@@ -6,7 +6,7 @@ pwa-builder:
     - "19.0"
     - "20.0"
   category: Pwa
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Pwa Builder
   psc: board
   psc_rep: board

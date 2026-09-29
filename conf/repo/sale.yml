@@ -6,7 +6,7 @@ sale-blanket:
     - "19.0"
     - "20.0"
   category: Sale
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Sales blanket order
   psc: sale-blanket-maintainers
   psc_rep: sale-blanket-maintainers-psc-representative
@@ -18,7 +18,7 @@ sale-channel:
     - "19.0"
     - "20.0"
   category: Sale
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Sale Channel
   psc: crm-sales-marketing-maintainers
   psc_rep: crm-sales-marketing-maintainers-psc-representative
@@ -40,7 +40,7 @@ sale-financial:
     - "19.0"
     - "20.0"
   category: Sale
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Odoo sale and financial related addons
   psc: crm-sales-marketing-maintainers
   psc_rep: crm-sales-marketing-maintainers-psc-representative
@@ -53,7 +53,7 @@ sale-prebook:
     - "19.0"
     - "20.0"
   category: Sale
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: "Sales order's stock prebooking
 
     This repository provides addons for stock prebooking in sales orders. Unlike default
@@ -72,7 +72,7 @@ sale-promotion:
     - "19.0"
     - "20.0"
   category: Sale
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Sale Promotion
   psc: crm-sales-marketing-maintainers
   psc_rep: crm-sales-marketing-maintainers-psc-representative
@@ -94,7 +94,7 @@ sale-reporting:
     - "19.0"
     - "20.0"
   category: Sale
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Sale Reporting
   psc: crm-sales-marketing-maintainers
   psc_rep: crm-sales-marketing-maintainers-psc-representative
@@ -116,7 +116,7 @@ sale-workflow:
     - "19.0"
     - "20.0"
   category: Sale
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Odoo sales, workflow and organization
   psc: crm-sales-marketing-maintainers
   psc_rep: crm-sales-marketing-maintainers-psc-representative

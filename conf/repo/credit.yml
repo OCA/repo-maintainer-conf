@@ -12,7 +12,7 @@ credit-control:
     - "19.0"
     - "20.0"
   category: Credit
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Odoo modules for the customer credit control
   psc: accounting-maintainers
   psc_rep: accounting-maintainers-psc-representative

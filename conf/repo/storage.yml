@@ -1,5 +1,4 @@
 storage:
-  new_branch_not_empty: True
   branches:
     - "10.0"
     - "12.0"
@@ -12,7 +11,8 @@ storage:
     - "19.0"
     - "20.0"
   category: Storage
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Storage
+  new_branch_not_empty: true
   psc: storage-maintainers
   psc_rep: storage-maintainers-psc-representative

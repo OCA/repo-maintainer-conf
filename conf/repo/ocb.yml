@@ -15,7 +15,7 @@ OCB:
     - "19.0"
     - "20.0"
   category: Ocb
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Odoo community backports
   psc: backport-maintainers
   psc_rep: backport-maintainers-psc-representative

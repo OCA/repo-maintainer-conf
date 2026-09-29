@@ -14,7 +14,7 @@ survey:
     - "19.0"
     - "20.0"
   category: Survey
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Survey addons
   psc: crm-sales-marketing-maintainers
   psc_rep: crm-sales-marketing-maintainers-psc-representative

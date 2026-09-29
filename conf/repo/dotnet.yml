@@ -14,7 +14,7 @@ dotnet:
     - "19.0"
     - "20.0"
   category: Dotnet
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: This repository holds all addons written in dotnet
   psc: dotnet-maintainers
   psc_rep: dotnet-maintainers-psc-representative

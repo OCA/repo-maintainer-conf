@@ -15,7 +15,7 @@ pos:
     - "19.0"
     - "20.0"
   category: Pos
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Pos
   psc: pos-maintainers
   psc_rep: pos-maintainers-psc-representative

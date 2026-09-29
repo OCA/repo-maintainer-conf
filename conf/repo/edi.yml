@@ -14,7 +14,7 @@ edi:
     - "19.0"
     - "20.0"
   category: Edi
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Edi
   psc: edi-maintainers
   psc_rep: edi-maintainers-psc-representative
@@ -25,7 +25,7 @@ edi-ediversa:
     - "19.0"
     - "20.0"
   category: Edi
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Edi Ediversa
   psc: edi-ediversa-maintainers
   psc_rep: edi-maintainers-psc-representative
@@ -39,7 +39,7 @@ edi-framework:
     - "19.0"
     - "20.0"
   category: Edi
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: Edi Framework
   psc: edi-framework-maintainers
   psc_rep: edi-framework-maintainers-psc-representative
@@ -50,7 +50,7 @@ edi-voxel:
     - "19.0"
     - "20.0"
   category: Edi
-  default_branch: "18.0"
+  default_branch: "19.0"
   name: EDI Voxel
   psc: edi-maintainers
   psc_rep: edi-maintainers-psc-representative
