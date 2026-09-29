@@ -1,6 +1,7 @@
 stock-logistics-availability:
   branches:
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
@@ -25,6 +26,7 @@ stock-logistics-barcode:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
@@ -36,17 +38,27 @@ stock-logistics-barcode:
 stock-logistics-interfaces:
   branches:
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
   category: Stock
-  default_branch: "19.0"
+  default_branch: "18.0"
   name: Stock Logistics Interfaces
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
+stock-logistics-inventory:
+  branches:
+    - "20.0"
+  category: Stock
+  default_branch: "20.0"
+  name: Stock Logistics Inventory
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
 stock-logistics-orderpoint:
   branches:
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
@@ -63,7 +75,7 @@ stock-logistics-putaway:
     - "19.0"
     - "20.0"
   category: Stock
-  default_branch: "19.0"
+  default_branch: "18.0"
   name: This repository contains modules to manage put-aways.
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
@@ -73,7 +85,7 @@ stock-logistics-release-channel:
     - "19.0"
     - "20.0"
   category: Stock
-  default_branch: "19.0"
+  default_branch: "18.0"
   name:
     This repository contains modules to manage release channels. Release channels
     represent a way of grouping deliveries and their pickings in order to enhance
@@ -93,6 +105,7 @@ stock-logistics-reporting:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
@@ -104,6 +117,7 @@ stock-logistics-reporting:
 stock-logistics-request:
   branches:
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
@@ -131,7 +145,7 @@ stock-logistics-shopfloor:
     - "19.0"
     - "20.0"
   category: Stock
-  default_branch: "19.0"
+  default_branch: "18.0"
   name:
     This repository contains modules to manage Shopfloor application. That application
     allows to manage all logistics flows as a mobile one.
@@ -150,11 +164,12 @@ stock-logistics-tracking:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
   category: Stock
-  default_branch: "19.0"
+  default_branch: "18.0"
   name: This repository contains modules around stock packages management
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
@@ -170,11 +185,12 @@ stock-logistics-transport:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
   category: Stock
-  default_branch: "19.0"
+  default_branch: "18.0"
   name: "Transport management in odoo "
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
@@ -191,6 +207,7 @@ stock-logistics-warehouse:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
@@ -212,6 +229,7 @@ stock-logistics-workflow:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
@@ -229,7 +247,7 @@ stock-weighing:
     - "19.0"
     - "20.0"
   category: Stock
-  default_branch: "19.0"
+  default_branch: "18.0"
   name: Shopfloor for weighing operations
   psc: stock-weighing-maintainers
   psc_rep: stock-weighing-maintainers-psc-representative
@@ -241,11 +259,12 @@ wms:
     - "14.0"
     - "15.0"
     - "16.0"
+    - "17.0"
     - "18.0"
     - "19.0"
     - "20.0"
   category: Wms
-  default_branch: "19.0"
+  default_branch: "18.0"
   name: Warehouse management system for advance logistic with odoo
   psc: logistics-maintainers
   psc_rep: logistics-maintainers-psc-representative
