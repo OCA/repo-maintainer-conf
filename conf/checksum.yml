@@ -147,7 +147,7 @@ repo/rest.yml: 65125073b63a3fc17aada7710087551e
 repo/rma.yml: 4c8af5b5da90fba6354ae4025ac995b9
 repo/role.yml: 31be9c39778790e58a92ead48a1860b5
 repo/route-planning.yml: 12f68d83e64df243e0dad5c2004cc4ff
-repo/sale.yml: 5f1a56925468f0a7b9cc0501061621da
+repo/sale.yml: 0782062ceccb7a804ac7c1a83fe82dc2
 repo/search.yml: b33a8533c9ac0b9a150abad6710b4434
 repo/sentinel.yml: ae6017f0942746e0d3a93aa71b3f3dd9
 repo/server.yml: 7c4f86ea0c100030d38ca78c08ffecdc
