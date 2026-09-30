@@ -45,7 +45,7 @@ psc/openupgrade.yml: 697adccc8f17f8a7142b3ae3001ea450
 psc/payroll.yml: d0371fca8c0d6437ce062827399ba800
 psc/pms.yml: fdb3ace0e34a695e36ee79f505486f11
 psc/pos.yml: 77083296908d6790663efe5f42f676fb
-psc/procurement.yml: 843ac0a36e282c09f952bfe7601129fe
+psc/procurement.yml: ec0fd28af4f2a9a0474a6486141c5af3
 psc/product.yml: be2615551a641594aa15f122c34b581a
 psc/project.yml: 1468d42aac553b847dfd78bdaa3c1bd8
 psc/queue.yml: b80956c4721c7311cdb91d472108ac80
