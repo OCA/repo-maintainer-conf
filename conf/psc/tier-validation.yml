@@ -1,6 +1,8 @@
 tier-validation-maintainers:
   members:
     - LoisRForgeFlow
+    - bosd
+    - yankinmax
   name: Tier Validation maintainers
   representatives:
     - LoisRForgeFlow
