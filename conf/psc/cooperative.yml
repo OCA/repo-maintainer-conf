@@ -5,6 +5,7 @@ cooperative-maintainers:
   name: Manage cooperatives in general, as well as participative supermarkets
   representatives: []
 cooperative-maintainers-psc-representative:
-  members: []
+  members:
+    - huguesdk
   name: Cooperative maintainers psc representative
   representatives: []
