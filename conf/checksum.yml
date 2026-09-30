@@ -59,7 +59,7 @@ psc/server.yml: eae2a2800ed0c6bb240a532b10f4f6b7
 psc/shopfloor-app.yml: 1e0b0fcb05012942486cee3a730527eb
 psc/shoppingfeed.yml: 1fc1ccccb608da7009824d127b2dec2f
 psc/social.yml: bf2a71252138908950d91865b3a44058
-psc/storage.yml: ea554c101ded7980d7c3f7142b8603e9
+psc/storage.yml: edb92f1b1bb9acafaaac33da0fc08be3
 psc/sustainability.yml: facb0eae8dd6a671af3720c429bc5404
 psc/tier-validation.yml: 3fb56cbe9da662eacc4744cdd2f0279d
 psc/tools.yml: e4ace7778a67bf035637878901af45b6
