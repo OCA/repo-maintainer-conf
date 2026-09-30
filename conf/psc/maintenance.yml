@@ -1,11 +1,12 @@
 maintenance-maintainers:
   members:
+    - BhaveshHeliconia
+    - dalonsod
     - pedrobaeza
-    - astirpe
     - etobella
+    - victoralmau
   name: Maintenance maintainers
-  representatives:
-    - gurneyalex
+  representatives: []
 maintenance-maintainers-psc-representative:
   members:
     - pedrobaeza
