@@ -25,7 +25,7 @@ psc/edi.yml: d9bc00f426f24f400f16f9d29393fd56
 psc/field.yml: b1c00799bb2ef1efa8eb23a5270e2853
 psc/fleet.yml: 0ea7df237bbccdbfde9ef865926efb1d
 psc/geospatial.yml: 472c7dbf755aa4dadac11e9eb6845880
-psc/helpdesk.yml: d899f818edf9a41a58dc8a8cbd02fa5f
+psc/helpdesk.yml: 1d2706c085be05d7c69863d4c3780a2f
 psc/human.yml: afe7ae36dda3927b71395061080ce825
 psc/infrastructure.yml: 2cb7622f0781b87b10953ae87897a0f5
 psc/intercompany.yml: e6a5b099a072634ce80d975b5122d02b
