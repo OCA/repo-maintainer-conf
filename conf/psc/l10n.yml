@@ -536,10 +536,12 @@ local-usa-maintainers:
   members:
     - JordiBForgeFlow
     - jelenapoblet
+    - crrodrigueztrujillo
   name: Local usa maintainers
   representatives: []
 local-usa-maintainers-psc-representative:
-  members: []
+  members:
+    - jelenapoblet
   name: Local usa maintainers psc representative
   representatives: []
 local-venezuela-maintainers:
