@@ -4,7 +4,7 @@ psc/backport.yml: a154c221a9ff7c7f363de738db288bb1
 psc/banking.yml: f29698ad02f066411accac6b0f3b6672
 psc/barcode.yml: 696588a4b7d3b9f89b56ad76e89f94df
 psc/board.yml: f0012a85943989ddafb77633d3e8c232
-psc/brand.yml: 618dfd03dc19182c68305dabb4bdd004
+psc/brand.yml: 9b72471cc99ae77a29d688f8bcda0b49
 psc/cim.yml: 90ce65d83ef600025ece92220144688a
 psc/community.yml: 845c70f73f5bc3bda78810dad1fa17da
 psc/connector.yml: 025948239ae1077454a17c9fa7f6bbfc
