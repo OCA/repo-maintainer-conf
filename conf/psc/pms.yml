@@ -1,9 +1,11 @@
 pms-maintainers:
   members:
     - DarioLodeiros
+    - jesusVMayor
   name: Pms maintainers
   representatives: []
 pms-maintainers-psc-representative:
-  members: []
+  members:
+    - DarioLodeiros
   name: Pms maintainers psc representative
   representatives: []
