@@ -1,9 +1,12 @@
 brand-maintainers:
   members:
+    - BhaveshHeliconia
+    - bosd
     - sbejaoui
   name: Brand maintainers
   representatives: []
 brand-maintainers-psc-representative:
-  members: []
+  members:
+    - sbejaoui
   name: Brand maintainers psc representative
   representatives: []
