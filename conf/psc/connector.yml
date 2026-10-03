@@ -133,3 +133,13 @@ connector-mautic-maintainers-psc-representative:
     - marcelsavegnago
   name: Connector Mautic maintainers psc representative
   representatives: []
+connector-mercadolibre-maintainers:
+  members:
+    - max3903
+  name: Connector mercadolibre maintainers
+  representatives: []
+connector-mercadolibre-maintainers-psc-representative:
+  members:
+    - max3903
+  name: Connector mercadolibre maintainers psc representative
+  representatives: []
