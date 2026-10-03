@@ -75,14 +75,11 @@ vertical-education-maintainers-psc-representative:
   name: Vertical education maintainers psc representative
   representatives: []
 vertical-hotel-maintainers:
-  members:
-    - nhomar
-    - JayVora-SerpentCS
+  members: []
   name: Vertical hotel maintainers
   representatives: []
 vertical-hotel-maintainers-psc-representative:
-  members:
-    - nhomar
+  members: []
   name: Vertical hotel maintainers psc representative
   representatives: []
 vertical-isp-maintainers:
