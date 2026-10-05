@@ -214,6 +214,15 @@ connector-mautic:
   name: Connector Mautic
   psc: connector-mautic-maintainers
   psc_rep: connector-mautic-maintainers-psc-representative
+connector-mercadolibre:
+  branches:
+    - "19.0"
+    - "20.0"
+  category: Connector
+  default_branch: "19.0"
+  name: Connector Mercado Libre
+  psc: connector-mercadolibre-maintainers
+  psc_rep: connector-mercadolibre-maintainers-psc-representative
 connector-odoo2odoo:
   branches:
     - "8.0"
