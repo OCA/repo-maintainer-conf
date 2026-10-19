@@ -50,3 +50,14 @@ web-api-contrib:
   name: Web API contrib
   psc: board
   psc_rep: board
+web-app-shell:
+  branches:
+    - "18.0"
+    - "19.0"
+    - "20.0"
+  category: Web
+  default_branch: "18.0"
+  name: Web app shell
+  description: Core modules to publish single page web apps from Odoo.
+  psc: board
+  psc_rep: board
