@@ -166,7 +166,7 @@ repo/timesheet.yml: cf1ecec85bd3d768e5f217b74d870039
 repo/vcp.yml: c7a93f092e9c95f194d765d371f85a98
 repo/vertical.yml: 5b79ed0e239aaa0694b1f9517fa1c710
 repo/wallet.yml: 60f13cfc15f37f3da3b7000b55c086ea
-repo/web.yml: a66a76ede51217e1c874cd87a22ddb8e
+repo/web.yml: 652d10a45385873dc1a6b67c198c0716
 repo/webhook.yml: a9b9e6232911bcce3d906993c15e6d80
 repo/webkit.yml: eb869db49f026f073537c5a9a3861d28
 repo/website.yml: e913c9aa15bd746ef7c941c05e7bfd46
