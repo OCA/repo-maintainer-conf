@@ -273,22 +273,6 @@ local-ireland-maintainers-psc-representative:
   members: []
   name: Local ireland maintainers psc representative
   representatives: []
-local-italy-developers:
-  members:
-    - primes2h
-    - OpenCode
-    - dcorio
-    - tafaRU
-    - hurrinico
-    - sergiocorato
-    - scigghia
-    - MarcoCalcagni
-    - francesco-ooops
-    - monen17
-  name: Team only used for notifications. See
-    https://github.com/OCA/l10n-italy/wiki/Team-di-sviluppo
-  representatives:
-    - eLBati
 local-italy-maintainers:
   members:
     - primes2h
