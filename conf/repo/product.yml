@@ -74,6 +74,14 @@ product-pack:
   name: Odoo modules related to product packs
   psc: product-maintainers
   psc_rep: product-maintainers-psc-representative
+product-uom:
+  branches:
+    - "20.0"
+  category: Product
+  default_branch: "20.0"
+  name: Odoo modules related to product UOMs and packagings
+  psc: logistics-maintainers
+  psc_rep: logistics-maintainers-psc-representative
 product-variant:
   branches:
     - "6.1"
