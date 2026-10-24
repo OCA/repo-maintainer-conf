@@ -522,6 +522,16 @@ local-ukraine-maintainers-psc-representative:
     - alexey-pelykh
   name: Local ukraine maintainers psc representative
   representatives: []
+local-united-arab-emirates-maintainers:
+  members:
+    - mileo
+  name: Local united arab emirates maintainers
+  representatives: []
+local-united-arab-emirates-maintainers-psc-representative:
+  members:
+    - mileo
+  name: Local united arab emirates maintainers psc representative
+  representatives: []
 local-uruguay-maintainers:
   members:
     - max3903
