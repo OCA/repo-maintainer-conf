@@ -200,9 +200,7 @@ local-finland-maintainers-psc-representative:
 local-france-maintainers:
   members:
     - alexis-via
-    - sebastienbeau
     - legalsylvain
-    - fclementic2c
   name: Local france maintainers
   representatives: []
 local-france-maintainers-psc-representative:
