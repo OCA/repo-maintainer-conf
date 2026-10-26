@@ -3,10 +3,8 @@ fleet-maintainers:
     - ivantodorovich
     - marcelsavegnago
   name: Fleet maintainers
-  representatives:
-    - simahawk
+  representatives: []
 fleet-maintainers-psc-representative:
   members: []
   name: Fleet maintainers psc representative
-  representatives:
-    - simahawk
+  representatives: []
