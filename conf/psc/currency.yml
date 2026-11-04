@@ -1,7 +1,4 @@
 currency-maintainers:
-  members:
-    - alexey-pelykh
-    - JordiBForgeFlow
-    - LoisRForgeFlow
+  members: []
   name: Maintainers of currency repository
   representatives: []
