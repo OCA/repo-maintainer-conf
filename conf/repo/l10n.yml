@@ -870,6 +870,14 @@ l10n-ukraine:
   name: Ukrainian localization
   psc: local-ukraine-maintainers
   psc_rep: local-ukraine-maintainers-psc-representative
+l10n-united-arab-emirates:
+  branches:
+    - "20.0"
+  category: L10n
+  default_branch: "20.0"
+  name: United Arab Emirates localization
+  psc: local-united-arab-emirates-maintainers
+  psc_rep: local-united-arab-emirates-maintainers-psc-representative
 l10n-united-kingdom:
   branches:
     - "8.0"
