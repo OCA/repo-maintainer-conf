@@ -20,6 +20,14 @@ product-attribute:
   name: Odoo product attribute
   psc: product-maintainers
   psc_rep: product-maintainers-psc-representative
+product-supplierinfo:
+  branches:
+    - "20.0"
+  category: Product
+  default_branch: "20.0"
+  name: Odoo Product Supplier Info
+  psc: product-maintainers
+  psc_rep: product-maintainers-psc-representative
 product-configurator:
   branches:
     - "14.0"
