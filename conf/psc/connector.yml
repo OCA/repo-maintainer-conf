@@ -143,3 +143,17 @@ connector-mercadolibre-maintainers-psc-representative:
     - max3903
   name: Connector mercadolibre maintainers psc representative
   representatives: []
+connector-drivin-maintainers:
+  members:
+    - carlos-lopez-tecnativa
+    - sergio-teruel
+  name: Connector drivin maintainers
+  representatives:
+    - carlos-lopez-tecnativa
+    - sergio-teruel
+connector-drivin-maintainers-psc-representative:
+  members:
+    - carlos-lopez-tecnativa
+    - sergio-teruel
+  name: Connector drivin maintainers psc representative
+  representatives: []

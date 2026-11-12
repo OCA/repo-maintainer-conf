@@ -61,6 +61,16 @@ connector-cmis:
   name: Cmis connector
   psc: document-maintainers
   psc_rep: document-maintainers-psc-representative
+connector-drivin:
+  branches:
+    - "18.0"
+    - "19.0"
+    - "20.0"
+  category: Connector
+  default_branch: "18.0"
+  name: Connector Drivin
+  psc: connector-drivin-maintainers
+  psc_rep: connector-drivin-maintainers-psc-representative
 connector-ecommerce:
   branches:
     - "7.0"
