@@ -1,20 +1,14 @@
 community-maintainers:
   members:
-    - guewen
     - yajo
     - StefanRijnhart
-    - sebastienbeau
     - pedrobaeza
-    - joao-p-marques
   name: Responsible of the maintainer Tools and maintainer Quality Tools repos
   representatives:
     - simahawk
     - sbidoul
-    - dreispt
-    - gurneyalex
 community-maintainers-psc-representative:
-  members:
-    - guewen
+  members: []
   name: Community maintainers psc representative
   representatives:
     - sbidoul
