@@ -1,0 +1,8 @@
+triple-discount:
+  branches:
+    - "20.0"
+  category: Accounting
+  default_branch: "20.0"
+  name: Manage Triple Discount Workflows
+  psc: triple-discount-maintainers
+  psc_rep: triple-discount-psc-representative
