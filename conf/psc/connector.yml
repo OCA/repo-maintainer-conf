@@ -113,6 +113,19 @@ connector-shopify-maintainers-psc-representative:
     - sawirricardo
   name: Connector shopify maintainers psc representative
   representatives: []
+connector-shein-maintainers:
+  members:
+    - anibal-osi
+    - GerardoPonceOSI
+    - max3903
+  name: Connector shein maintainers
+  representatives:
+    - max3903
+connector-shein-maintainers-psc-representative:
+  members:
+    - max3903
+  name: Connector shein maintainers psc representative
+  representatives: []
 connector-woocommerce-maintainers:
   members: []
   name: Connector woocommerce maintainers
