@@ -43,7 +43,7 @@ psc/oca-apps-store.yml: 2c0ef23459e7ffff4c7eae91bfc89da1
 psc/oca.yml: fe021e25f708c17fb23a687d0be7e211
 psc/openupgrade.yml: bd91cf2b839d8c7318690d81bc7b9a9e
 psc/payroll.yml: d0371fca8c0d6437ce062827399ba800
-psc/pms.yml: fdb3ace0e34a695e36ee79f505486f11
+psc/pms.yml: f52228c4d693837225319e2f6a3b375a
 psc/pos.yml: 77083296908d6790663efe5f42f676fb
 psc/procurement.yml: ec0fd28af4f2a9a0474a6486141c5af3
 psc/product.yml: be2615551a641594aa15f122c34b581a
