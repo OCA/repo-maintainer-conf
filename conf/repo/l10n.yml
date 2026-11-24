@@ -109,6 +109,16 @@ l10n-brazil:
   name: "Localiza\xE7\xE3o brasileira oficial do odoo."
   psc: local-brazil-maintainers
   psc_rep: local-brazil-maintainers-psc-representative
+l10n-brazil-hr:
+  branches:
+    - "18.0"
+    - "19.0"
+    - "20.0"
+  category: L10n
+  default_branch: "19.0"
+  name: "Brazilian localization - HR (payroll, eSocial, time and attendance, occupational health and safety)"
+  psc: local-brazil-maintainers
+  psc_rep: local-brazil-maintainers-psc-representative
 l10n-bulgaria:
   branches:
     - "16.0"
