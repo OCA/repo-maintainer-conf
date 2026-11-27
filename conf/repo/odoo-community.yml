@@ -68,3 +68,11 @@ pytest-odoo:
   name: Odoo plugin for pytest
   psc: community-maintainers
   psc_rep: community-maintainers-psc-representative
+oca-skills:
+  branches:
+    - master
+  category: Odoo
+  default_branch: master
+  name: OCA Skills
+  psc: community-maintainers
+  psc_rep: community-maintainers-psc-representative
